@@ -6,9 +6,6 @@
   /api/secheresse/...              module 2 : risque de sécheresse (SPI-3, Ridge)
   /api/region/...                  région Casablanca-Settat (9 préfectures et provinces) : espace citoyen,
                                    pluie CHIRPS, humidité du sol ERA5-Land, récoltes, barrage Al Massira
-  /api/tourisme/...                module 4 : nuitées par destination (gradient boosting quantile, 1-12 mois)
-  /api/dechets/...                 module 5 : déchets par quartier (K-means + XGBoost) et tournées de collecte
-  /api/air/...                     module 6 : PM10 / NO2 par station (XGBoost quantile J+1 à J+3, calibration conforme)
 
 Lancer (depuis app/backend) :  python -m uvicorn main:app --port 8000
 Si le frontend est compilé (app/frontend/dist), il est servi à la racine : http://localhost:8000
@@ -253,163 +250,6 @@ def secheresse_evaluation():
     return lignes(lire("m2_metriques.csv"))
 
 
-# ======================================================================== MODULE 4 : TOURISME
-VILLE = DATA / "ville"
-
-
-@lru_cache
-def tour_donnees():
-    return pd.read_csv(VILLE / "tourisme_mensuel.csv")
-
-
-@app.get("/api/tourisme/destinations")
-def tourisme_destinations():
-    t = tour_donnees()
-    v = lire("v4_vulnerabilite.csv")
-    p = lire("v4_prevision_12_mois.csv")
-    out = []
-    for r in v.itertuples():
-        pp = p[p.destination == r.destination]
-        out.append(dict(r._asdict(), prochain_mois=pp.mois.iloc[0], prochain_mois_nuitees=pp.prevision.iloc[0],
-                        lits=int(t[t.destination == r.destination].capacite_lits.iloc[-1])))
-    for o in out:
-        o.pop("Index", None)
-    return propre(out)
-
-
-@app.get("/api/tourisme/serie")
-def tourisme_serie(destination: str):
-    t = tour_donnees()
-    s = t[t.destination == destination]
-    if s.empty:
-        raise HTTPException(404, f"Destination inconnue : {destination}")
-    lits = int(s.capacite_lits.iloc[-1])
-    hist = s[["mois", "nuitees", "evenement", "jours_ramadan"]].copy()
-    hist["occupation_pct"] = s.nuitees / (lits * pd.to_datetime(s.mois).dt.days_in_month) * 100
-    p = lire("v4_prevision_12_mois.csv")
-    p = p[p.destination == destination].copy()
-    p["mois"] = p.mois.str[:7]
-    j = pd.to_datetime(p.mois).dt.days_in_month
-    p["occupation_pct"], p["occupation_haut_pct"] = p.prevision / (lits * j) * 100, p.haut / (lits * j) * 100
-    marches = [c for c in s.columns if c.startswith("nuitees_")]
-    m = s.tail(12)[marches].sum()
-    saison = s[s.mois >= "2023-01"].assign(mm=lambda d: d.mois.str[5:7]).groupby("mm").nuitees.mean()
-    return propre({"historique": lignes(hist), "prevision": lignes(p), "lits": lits,
-                   "marches": [{"marche": k.replace("nuitees_", ""), "nuitees": v} for k, v in m.sort_values(ascending=False).items()],
-                   "saisonnalite": [{"mois": k, "indice": v / saison.mean() * 100} for k, v in saison.items()]})
-
-
-@app.get("/api/tourisme/evaluation")
-def tourisme_evaluation():
-    return {"metriques": lignes(lire("v4_metriques.csv")), "par_horizon": lignes(lire("v4_erreur_horizon.csv")),
-            "calibration": lignes(lire("v4_calibration.csv"))[0]}
-
-
-# ======================================================================== MODULE 5 : DÉCHETS
-@lru_cache
-def dech_donnees():
-    return pd.read_csv(VILLE / "dechets_quartiers.csv"), pd.read_csv(VILLE / "dechets_hebdo.csv")
-
-
-@app.get("/api/dechets/quartiers")
-def dechets_quartiers(ville: str = "Marrakech"):
-    q, d = dech_donnees()
-    prof = lire("v5_profils_quartiers.csv")
-    prev = lire("v5_prevision_8_semaines.csv")
-    q = q[q.ville == ville].merge(prof, on=["ville", "quartier"])
-    if q.empty:
-        raise HTTPException(404, f"Ville inconnue : {ville}")
-    p1 = prev[(prev.ville == ville) & (prev.h == 1)].set_index("quartier")
-    q["prevision_semaine"] = q.quartier.map(p1.prevision)
-    q["bas"], q["haut"] = q.quartier.map(p1.bas), q.quartier.map(p1.haut)
-    return lignes(q.sort_values("tonnes_jour", ascending=False))
-
-
-@app.get("/api/dechets/serie")
-def dechets_serie(ville: str, quartier: str = None):
-    _, d = dech_donnees()
-    prev = lire("v5_prevision_8_semaines.csv")
-    d, prev = d[d.ville == ville], prev[prev.ville == ville]
-    if quartier:
-        d, prev = d[d.quartier == quartier], prev[prev.quartier == quartier]
-    agg = {"tonnes": "sum", "ramadan": "max", "aid_al_adha": "max", "nuitees_quartier": "sum"}
-    h = d[d.semaine >= "2024-06-01"].groupby("semaine").agg(agg).reset_index()
-    p = prev.groupby("semaine")[["prevision", "bas", "haut"]].sum().reset_index()
-    return {"historique": lignes(h), "prevision": lignes(p)}
-
-
-@app.get("/api/dechets/tournees")
-def dechets_tournees(ville: str = "Marrakech", scenario: str = "semaine"):
-    f = RES / "v5_tournees.json"
-    if not f.exists():
-        raise HTTPException(503, "Résultat manquant : v5_tournees.json. Lancer ml/run_ville.py.")
-    t = json.loads(f.read_text(encoding="utf-8"))
-    if scenario not in t or ville not in t[scenario]:
-        raise HTTPException(404, "Scénario ou ville inconnus")
-    r = t[scenario][ville]
-    r["comparaison"] = [{"scenario": s, "tonnes_jour": t[s][ville]["tonnes_jour"], "camions": t[s][ville]["camions"],
-                         "km": t[s][ville]["km"]} for s in t]
-    return propre(r)
-
-
-@app.get("/api/dechets/evaluation")
-def dechets_evaluation():
-    exc = lire("v5_metriques_semaines_exceptionnelles.csv", index_col=0).valeur.to_dict()
-    imp = lire("v5_importance.csv")
-    prof = lire("v5_profils_quartiers.csv")
-    typ = prof.groupby("typologie").agg(n=("quartier", "count"), kg_hab_j=("kg_hab_j", "mean"),
-                                         part_touristique=("part_touristique", "mean"), effet_ete=("effet_ete", "mean"),
-                                         effet_ramadan=("effet_ramadan", "mean"), effet_aid=("effet_aid", "mean"),
-                                         quartiers=("quartier", lambda s: ", ".join(s))).reset_index()
-    return {"metriques": lignes(lire("v5_metriques.csv")), "exceptionnelles": propre(exc),
-            "importance": lignes(imp.head(10)), "typologies": lignes(typ)}
-
-
-# ======================================================================== MODULE 6 : AIR
-@lru_cache
-def air_donnees():
-    return pd.read_csv(VILLE / "air_journalier.csv"), pd.read_csv(VILLE / "air_stations.csv")
-
-
-@app.get("/api/air/stations")
-def air_stations():
-    _, st = air_donnees()
-    p = lire("v6_prevision_3_jours.csv")
-    ev = lire("v6_evaluation_stations.csv")
-    out = []
-    for r in st.itertuples():
-        g = p[p.station == r.station]
-        e = ev[ev.station == r.station].set_index("polluant")
-        out.append(dict(station=r.station, ville=r.ville, type=r.type, lat=r.lat, lon=r.lon,
-                        disponibilite_pct=(1 - r.taux_manquant) * 100,
-                        prevision={pol: lignes(g[g.polluant == pol][["date", "h", "bas", "prevision", "haut", "classe",
-                                                                      "sans_mesure_recente", "episode_poussiere"]])
-                                   for pol in ["pm10", "no2"]},
-                        evaluation={pol: propre(e.loc[pol].to_dict()) if pol in e.index else None for pol in ["pm10", "no2"]}))
-    return propre(out)
-
-
-@app.get("/api/air/serie")
-def air_serie(station: str, polluant: str = "pm10", jours: int = Query(120, ge=14, le=1500)):
-    d, _ = air_donnees()
-    if polluant not in ("pm10", "no2"):
-        raise HTTPException(404, "Polluant inconnu")
-    s = d[d.station == station]
-    if s.empty:
-        raise HTTPException(404, f"Station inconnue : {station}")
-    s = s[s[polluant].notna()].tail(jours)[["date", polluant, "vent_m_s", "pluie_mm", "episode_poussiere"]]
-    p = lire("v6_prevision_3_jours.csv")
-    p = p[(p.station == station) & (p.polluant == polluant)][["date", "bas", "prevision", "haut"]]
-    return {"historique": lignes(s.rename(columns={polluant: "valeur"})), "prevision": lignes(p)}
-
-
-@app.get("/api/air/evaluation")
-def air_evaluation():
-    ev = lire("v6_evaluation_stations.csv")
-    imp = lire("v6_importance_pm10.csv")
-    return {"stations": lignes(ev), "importance_pm10": lignes(imp.head(10))}
-
-
 # ======================================================================== RÉGION CASABLANCA-SETTAT
 REGION = DATA / "region"
 PROV_ORDRE = ["Casablanca", "Mohammedia", "Settat", "Berrechid", "El Jadida", "Sidi Bennour", "Benslimane",
@@ -572,26 +412,7 @@ def resume():
     etat = lire("m2_etat_actuel.csv")
     prev = lire("m2_prevision_3_mois.csv")
     tom = prix_prevision("Tomate", 4)
-    vul = lire("v4_vulnerabilite.csv")
-    tp = lire("v4_prevision_12_mois.csv")
-    mk = tp[tp.destination == "Marrakech"]
-    dp = lire("v5_prevision_8_semaines.csv")
-    tr = json.loads((RES / "v5_tournees.json").read_text(encoding="utf-8"))
-    ap = lire("v6_prevision_3_jours.csv")
-    a1 = ap[(ap.h == 1) & (ap.polluant == "pm10")]
-    ville = {
-        "tourisme": {"marrakech_12m": mk.prevision.sum(), "plus_vulnerable": vul.destination.iloc[0],
-                     "score": vul.score_vulnerabilite.iloc[0], "destinations": len(vul)},
-        "dechets": {"tonnes_semaine": dp[dp.h == 1].prevision.sum(), "villes": dp.ville.nunique(),
-                    "quartiers": dp.quartier.nunique(),
-                    "camions_aid_marrakech": tr["aid"]["Marrakech"]["camions"],
-                    "camions_semaine_marrakech": tr["semaine"]["Marrakech"]["camions"],
-                    "gain_km_pct": np.mean([tr["semaine"][v]["gain_km_pct"] for v in tr["semaine"]])},
-        "air": {"date": a1.date.iloc[0], "stations": a1.station.nunique(),
-                "stations_degradees": int(a1.classe.isin(["médiocre", "mauvais", "très mauvais"]).sum()),
-                "pire_station": a1.sort_values("prevision").station.iloc[-1], "pire_pm10": a1.prevision.max()},
-    }
-    return propre({"ville": ville,
+    return propre({
         "prix": {"produits": len(prix_xgb()), "releves": int(P.observe.values.sum()),
                  "debut": P.w.index[0], "fin": P.w.index[-1], "tomate": tom["dernier_prix"],
                  "tomate_4sem": tom["prevision"][-1]["prevision"]},

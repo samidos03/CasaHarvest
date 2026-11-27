@@ -19,6 +19,13 @@ function Theme({ to, icone, titre, texte, couleur, fond }) {
   );
 }
 
+const CYCLE = [
+  ["💧", "Eau & climat", "Pluie • Humidité du sol • Barrages", "#1d6fa5", "#e3f0f9", "/analytique?onglet=pluie"],
+  ["🌾", "Production agricole", "Superficie • Rendement • Récoltes", "#b0721a", "#fbf1e0", "/analytique?onglet=recolte"],
+  ["🧺", "Marché de gros", "Offre • Demande • Prix", "#0b7a43", "#e7f3ec", "/prix"],
+  ["🤖", "Intelligence artificielle", "Apprentissage automatique (ML) · bientôt : Google Earth Engine et cartes Folium + GeoJSON", "#5b4bb7", "#efedfb", "/a-propos"],
+];
+
 export default function Accueil() {
   const provs = useApi("/region/provinces");
   const eau = useApi("/region/citoyen?province=Settat");
@@ -37,7 +44,7 @@ export default function Accueil() {
           </p>
           <div className="d-flex flex-wrap gap-2 mt-3">
             <Link to="/citoyen" className="btn btn-light btn-lg px-4"><i className="bi bi-people me-2" />Espace citoyen</Link>
-            <Link to="/etudiant" className="btn btn-outline-light btn-lg px-4"><i className="bi bi-mortarboard me-2" />Espace étudiant</Link>
+            <Link to="/analytique" className="btn btn-outline-light btn-lg px-4"><i className="bi bi-graph-up me-2" />Espace analytique</Link>
           </div>
           <div className="ch-chiffres">
             <div><b>9</b><span>préfectures et provinces</span></div>
@@ -48,16 +55,35 @@ export default function Accueil() {
         </div>
       </section>
 
+      <section className="ch-card p-3 p-md-4 mb-4">
+        <div className="ch-section-titre mb-3"><i className="bi bi-arrow-repeat me-2 text-success" />Le cycle agricole de CasaHarvest</div>
+        <Row className="g-3">
+          {CYCLE.map(([icone, titre, items, couleur, fond, to], i) => (
+            <Col key={titre} sm={6} lg={3}>
+              <Link to={to} className="ch-module d-block h-100 p-3 rounded-3" style={{ background: fond, borderTop: `4px solid ${couleur}` }}>
+                <div className="d-flex align-items-center gap-2 mb-2">
+                  <span style={{ fontSize: "1.6rem" }}>{icone}</span>
+                  <span className="small fw-bold text-secondary">{i + 1}</span>
+                </div>
+                <div className="fw-bold" style={{ color: couleur }}>{titre}</div>
+                <div className="small mt-1">{items}</div>
+              </Link>
+            </Col>
+          ))}
+        </Row>
+      </section>
+
       <div className="ch-portes mb-4">
         <Link to="/citoyen" className="ch-porte citoyen">
           <div className="gros">👨‍👩‍👧</div>
-          <h2>Espace citoyen</h2>
+          <h2>Espace citoyen · فضاء المواطن</h2>
+          <div className="fw-semibold mb-1">Comprendre les résultats simplement.</div>
           <div>Choisissez votre province : pluie, sol, récolte et eau des barrages, expliqués en une phrase avec un code couleur. En français et en arabe.</div>
           <div className="mt-3 fw-bold">Ouvrir <i className="bi bi-arrow-right" /></div>
         </Link>
-        <Link to="/etudiant" className="ch-porte etudiant">
-          <div className="gros">🎓</div>
-          <h2>Espace étudiant</h2>
+        <Link to="/analytique" className="ch-porte etudiant">
+          <div className="gros">📊</div>
+          <h2>Espace analytique</h2>
           <div>Graphiques interactifs, cartes, statistiques, modèles comparés (Ridge, forêt aléatoire, XGBoost) et prévisions avec leurs marges d'erreur.</div>
           <div className="mt-3 fw-bold">Ouvrir <i className="bi bi-arrow-right" /></div>
         </Link>
@@ -76,13 +102,13 @@ export default function Accueil() {
         </Col>
         <Col lg={6}>
           <div className="d-grid gap-3 h-100">
-            <Theme to="/etudiant?onglet=pluie" icone="🌧️" titre="Précipitations (CHIRPS 2009-2026)" couleur="#1d6fa5" fond="#e3f0f9"
+            <Theme to="/analytique?onglet=pluie" icone="🌧️" titre="Précipitations (CHIRPS 2009-2026)" couleur="#1d6fa5" fond="#e3f0f9"
               texte="Pluie de chaque province, saison par saison, et indice de sécheresse SPI." />
-            <Theme to="/etudiant?onglet=sol" icone="🌱" titre="Humidité du sol (ERA5-Land)" couleur="#0b7a43" fond="#e7f3ec"
+            <Theme to="/analytique?onglet=sol" icone="🌱" titre="Humidité du sol (ERA5-Land)" couleur="#0b7a43" fond="#e7f3ec"
               texte="Le sol est-il sec ou humide ? Prévision à 1 et 2 mois." />
-            <Theme to="/etudiant?onglet=recolte" icone="🌾" titre="Récoltes de céréales" couleur="#b0721a" fond="#fbf1e0"
+            <Theme to="/analytique?onglet=recolte" icone="🌾" titre="Récoltes de céréales" couleur="#b0721a" fond="#fbf1e0"
               texte="Rendement du blé et de l'orge par province, zones à risque, scénarios 2027." />
-            <Theme to="/etudiant?onglet=barrage" icone="💧" titre="Barrages et risque de pénurie" couleur="#3f7280" fond="#e4f0f2"
+            <Theme to="/analytique?onglet=barrage" icone="💧" titre="Barrages et risque de pénurie" couleur="#3f7280" fond="#e4f0f2"
               texte="Barrage Al Massira : niveau dans 7, 30 et 90 jours." />
           </div>
         </Col>
@@ -91,9 +117,6 @@ export default function Accueil() {
         <div className="small text-secondary mb-2">Autres analyses CasaHarvest</div>
         <div className="d-flex flex-wrap gap-2">
           <Link className="btn btn-sm btn-outline-secondary" to="/prix">🧺 Prix du marché de gros de Casablanca</Link>
-          <Link className="btn btn-sm btn-outline-secondary" to="/tourisme">🧳 Tourisme</Link>
-          <Link className="btn btn-sm btn-outline-secondary" to="/dechets">🗑️ Déchets ménagers</Link>
-          <Link className="btn btn-sm btn-outline-secondary" to="/air">🌬️ Qualité de l'air</Link>
         </div>
       </div>
     </>

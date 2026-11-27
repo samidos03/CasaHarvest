@@ -40,9 +40,6 @@ const MODULES = [
   ["💧 Eau & sécheresse", "Indice SPI-3 du mois suivant, par zone", "Ridge (régression linéaire régularisée)", "Validation temporelle 2018-2026 : R² 0,63 à 1 mois, 76 % des sécheresses détectées"],
   ["🌾 Récolte", "Rendement du blé tendre, du blé dur et de l'orge (q/ha)", "Hybride : XGBoost + garde-fou Ridge hors des valeurs connues", "Une campagne laissée de côté : R² 0,43 ; 2026 : 26,3 Mqx prévus contre 25,8 officiels"],
   ["🧺 Prix du marché", "Prix de gros hebdomadaire de 19 produits (DH/kg)", "XGBoost (un modèle par horizon, 1 à 8 semaines)", "Backtest sans fuite : erreur médiane 2,7 % à 1 semaine, 76 % des prévisions à ±10 %"],
-  ["🧳 Tourisme", "Nuitées mensuelles de 5 destinations, 1 à 12 mois, + vulnérabilité à la surfréquentation", "Gradient boosting quantile (10/50/90 %), stratégie directe multi-horizon, calibration conforme", "Prévisions d'oct. 2024 et oct. 2025 : erreur 6,6 % contre 7,9 % (même mois l'an passé)"],
-  ["🗑️ Déchets", "Tonnes par quartier et par semaine (29 quartiers, 3 villes), 1 à 8 semaines", "K-means (typologie) + XGBoost ; tournées : Clarke-Wright + 2-opt", "Test sur 12 mois : erreur 3,5 % contre 8,7 % (semaine précédente) ; tournées : −18 à −36 % de km"],
-  ["🌬️ Qualité de l'air", "PM10 et NO₂ journaliers, 9 stations, J+1 à J+3", "XGBoost quantile + calibration conforme par station ; test « station virtuelle »", "J+1 : erreur 9,4 µg/m³ (PM10) contre 24,3 en recopiant la veille ; couverture 80 % atteinte"],
 ];
 
 export default function APropos() {
@@ -53,7 +50,7 @@ export default function APropos() {
         <p className="text-secondary small">XGBoost fonctionne comme un commerçant expérimenté qui a observé 2 ans et demi de prix : il repère dans le passé des situations qui ressemblent à aujourd'hui.</p>
         <SchemaTomate />
       </Section>
-      <Section titre="Les six modèles" icone="bi-cpu" className="mb-3">
+      <Section titre="Les modèles" icone="bi-cpu" className="mb-3">
         <Table responsive size="sm" className="ch-table-compact mb-0">
           <thead><tr><th>Module</th><th>Ce qu'il prévoit</th><th>Modèle</th><th>Fiabilité mesurée</th></tr></thead>
           <tbody>{MODULES.map((m) => <tr key={m[0]}>{m.map((c, i) => <td key={i} className={i === 0 ? "fw-semibold text-nowrap" : ""}>{c}</td>)}</tr>)}</tbody>
@@ -68,12 +65,6 @@ export default function APropos() {
               <li><b>Pluie</b> : CHIRPS v2.0 (UCSB, via IRI Data Library), moyenne sur chaque zone.</li>
               <li><b>Humidité du sol, évapotranspiration, températures</b> : ERA5-Land / ERA5 (Copernicus) via Open-Meteo.</li>
               <li><b>Calendrier</b> : Ramadan et Aïd al-Adha.</li>
-              <li><b>Volet ville (modules 4 à 6)</b> : les séries mensuelles par destination, les tonnages par quartier et les mesures par
-                station ne sont pas publiées en open data. Ces séries sont donc <b>simulées et calibrées</b> sur des chiffres publics : nuitées de
-                l'Observatoire du tourisme (Marrakech ≈ 10 M, Agadir ≈ 6,5 M en 2024 ; janvier 2024 : Marrakech 692 525, Agadir 418 716, Essaouira 41 386),
-                tonnages publiés (Casablanca ≈ 2 600 t/j, Marrakech ≈ 900-1 000 t/j, arrondissement Ménara 158 775 t/an), niveaux de PM10 et NO₂
-                mesurés à Casablanca (≈ 60-75 µg/m³) ; elles reposent sur la <b>météo réelle</b> ERA5-Land et le <b>calendrier réel</b> des fêtes.
-                Le code fonctionne tel quel avec les vraies données (mêmes colonnes, dossier <code>data/ville/</code>).</li>
             </ul>
           </Section>
         </Col>
@@ -84,10 +75,6 @@ export default function APropos() {
               <li>Récolte : seulement 14 campagnes ; rendements 2024 et 2025 non vérifiables (pas de bilan régional publié).</li>
               <li>Sécheresse : indice calibré sur 17 ans (30 ans recommandés) ; pas de prévision fiable au-delà de 2 mois.</li>
               <li>Le lien entre récolte de céréales et prix des fruits et légumes est indirect.</li>
-              <li>Volet ville : les performances sont mesurées sur des données simulées ; elles indiquent que la méthode fonctionne,
-                pas la précision qu'on obtiendrait sur le terrain. Prochaine étape : brancher les données de l'Observatoire du tourisme,
-                des délégataires de propreté et de la DGM.</li>
-              <li>Tourisme : deux années de test seulement, et la période Covid est exclue de l'apprentissage.</li>
             </ul>
           </Section>
         </Col>

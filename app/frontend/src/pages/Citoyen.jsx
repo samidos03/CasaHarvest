@@ -13,7 +13,7 @@ const VERT = "#1a9850", JAUNE = "#e0a100", ORANGE = "#e07b00", ROUGE = "#c1272d"
 /* Textes : français / arabe. Phrases courtes, sans jargon. */
 const T = {
   fr: {
-    titre: "Ma province en un coup d'œil", sous: "Pluie, sol, récolte et eau des barrages — expliqués simplement.",
+    titre: "Espace citoyen", titre2: "فضاء المواطن", sous: "Comprendre les résultats simplement.",
     choisir: "Choisissez votre province (touchez la carte ou un nom)", prefecture: "Préfecture", province: "Province",
     pluie: "Pluie", sol: "Sol", recolte: "Récolte de céréales", eau: "Eau des barrages",
     saison: "Saison 2025-2026 (septembre à août)", fois: (x) => `soit ${x} fois la quantité habituelle`,
@@ -40,11 +40,11 @@ const T = {
     c1: "Vert = situation bonne, orange = à surveiller, rouge = difficile.",
     c2: "« Habituel » = moyenne des saisons 2010 à 2025.",
     c3: "Les chiffres viennent de mesures par satellite (pluie, sol), des statistiques officielles (récoltes) et du ministère de l'Équipement et de l'Eau (barrages).",
-    etudiant: "Voir les détails, les graphiques et les modèles dans l'Espace étudiant",
+    etudiant: "Voir les détails, les graphiques et les modèles dans l'Espace analytique",
     langue: "العربية",
   },
   ar: {
-    titre: "إقليمي في لمحة", sous: "الأمطار، التربة، المحصول وماء السدود — بشرح بسيط.",
+    titre: "فضاء المواطن", titre2: "Espace citoyen", sous: "فهم النتائج ببساطة.",
     choisir: "اختر إقليمك (المس الخريطة أو الاسم)", prefecture: "عمالة", province: "إقليم",
     pluie: "الأمطار", sol: "التربة", recolte: "محصول الحبوب", eau: "ماء السدود",
     saison: "موسم 2025-2026 (من شتنبر إلى غشت)", fois: (x) => `أي ${x} مرة الكمية المعتادة`,
@@ -71,7 +71,7 @@ const T = {
     c1: "الأخضر = وضع جيد، البرتقالي = يحتاج إلى متابعة، الأحمر = وضع صعب.",
     c2: "«المعتاد» = متوسط مواسم 2010 إلى 2025.",
     c3: "الأرقام مصدرها قياسات الأقمار الاصطناعية (الأمطار، التربة)، والإحصاءات الرسمية (المحاصيل)، ووزارة التجهيز والماء (السدود).",
-    etudiant: "التفاصيل والرسوم البيانية والنماذج في فضاء الطالب",
+    etudiant: "التفاصيل والرسوم البيانية والنماذج في الفضاء التحليلي",
     langue: "Français",
   },
 };
@@ -200,7 +200,7 @@ export default function Citoyen() {
     <div dir={ar ? "rtl" : "ltr"} className={ar ? "ch-arabe" : ""}>
       <div className="ch-citoyen-entete mb-3">
         <div>
-          <h1 className="m-0">👨‍👩‍👧 {t.titre}</h1>
+          <h1 className="m-0">👨‍👩‍👧 {t.titre} <span className="opacity-75">· {t.titre2}</span></h1>
           <div className="opacity-75 mt-1">{t.sous}</div>
         </div>
         <button type="button" className="btn btn-light fw-bold" onClick={() => setLangue(ar ? "fr" : "ar")}>
@@ -238,7 +238,7 @@ export default function Citoyen() {
         <div className="fw-bold mb-1">{t.comprendre}</div>
         <div className="small">{t.c1} {t.c2}</div>
         <div className="small text-secondary">{t.c3}</div>
-        <Link to="/etudiant" className="btn btn-outline-success btn-sm mt-2"><i className="bi bi-mortarboard mx-1" />{t.etudiant}</Link>
+        <Link to="/analytique" className="btn btn-outline-success btn-sm mt-2"><i className="bi bi-graph-up mx-1" />{t.etudiant}</Link>
       </div>
     </div>
   );

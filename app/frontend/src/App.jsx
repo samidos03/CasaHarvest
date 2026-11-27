@@ -1,25 +1,19 @@
 import { Container, Nav, NavDropdown, Navbar } from "react-bootstrap";
-import { NavLink, Route, Routes, useLocation } from "react-router-dom";
+import { Navigate, NavLink, Route, Routes, useLocation } from "react-router-dom";
 import { useEffect } from "react";
 import Accueil from "./pages/Accueil";
 import Prix from "./pages/Prix";
 import Recolte from "./pages/Recolte";
 import Secheresse from "./pages/Secheresse";
-import Tourisme from "./pages/Tourisme";
-import Dechets from "./pages/Dechets";
-import Air from "./pages/Air";
 import APropos from "./pages/APropos";
 import Citoyen from "./pages/Citoyen";
-import Etudiant from "./pages/Etudiant";
+import Analytique from "./pages/Analytique";
 
 export const MODULES = {
   autres: [
     ["/prix", "Prix du marché de gros", "bi-basket"],
     ["/secheresse", "Sécheresse (4 zones, version 1)", "bi-cloud-drizzle"],
     ["/recolte", "Récolte (4 zones, version 1)", "bi-flower1"],
-    ["/tourisme", "Tourisme", "bi-luggage"],
-    ["/dechets", "Déchets ménagers", "bi-trash3"],
-    ["/air", "Qualité de l'air", "bi-wind"],
   ],
 };
 
@@ -54,7 +48,7 @@ export default function App() {
             <Nav className="ms-auto gap-1 align-items-lg-center">
               <Nav.Link as={NavLink} to="/" end eventKey="/"><i className="bi bi-house me-1" />Accueil</Nav.Link>
               <Nav.Link as={NavLink} to="/citoyen" eventKey="/citoyen"><i className="bi bi-people me-1" />Espace citoyen</Nav.Link>
-              <Nav.Link as={NavLink} to="/etudiant" eventKey="/etudiant"><i className="bi bi-mortarboard me-1" />Espace étudiant</Nav.Link>
+              <Nav.Link as={NavLink} to="/analytique" eventKey="/analytique"><i className="bi bi-graph-up me-1" />Espace analytique</Nav.Link>
               <Menu titre="Autres analyses" icone="bi-grid" liens={MODULES.autres} pathname={pathname} />
               <Nav.Link as={NavLink} to="/a-propos" eventKey="/a-propos"><i className="bi bi-info-circle me-1" />À propos</Nav.Link>
             </Nav>
@@ -65,13 +59,11 @@ export default function App() {
         <Routes>
           <Route path="/" element={<Accueil />} />
           <Route path="/citoyen" element={<Citoyen />} />
-          <Route path="/etudiant" element={<Etudiant />} />
+          <Route path="/analytique" element={<Analytique />} />
+          <Route path="/etudiant" element={<Navigate to="/analytique" replace />} />
           <Route path="/secheresse" element={<Secheresse />} />
           <Route path="/recolte" element={<Recolte />} />
           <Route path="/prix" element={<Prix />} />
-          <Route path="/tourisme" element={<Tourisme />} />
-          <Route path="/dechets" element={<Dechets />} />
-          <Route path="/air" element={<Air />} />
           <Route path="/a-propos" element={<APropos />} />
           <Route path="*" element={<Accueil />} />
         </Routes>
@@ -81,7 +73,7 @@ export default function App() {
               <img src="/img/logo-embleme.png" alt="" width="32" height="32" />
               <div><b className="text-dark">CasaHarvest</b> · Région Casablanca-Settat · De l'eau à la récolte, de la récolte au marché.</div>
             </div>
-            <div>Projet de Master IA/ML · Espace citoyen et espace étudiant</div>
+            <div>Projet de Master IA/ML · Espace citoyen et espace analytique</div>
           </div>
           <div className="mt-2">
             Données : CHIRPS v2.0 (pluie), ERA5-Land via Open-Meteo (sol, température), HCP via FEWS NET (récoltes), ministère de

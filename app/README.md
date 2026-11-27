@@ -34,13 +34,10 @@ cd app/frontend && npm run dev     # http://localhost:5173 (les appels /api sont
 
 | Page | Module | Modèle |
 |---|---|---|
-| Accueil | les deux chaînes : eau → récolte → marché, et tourisme → déchets → air | — |
+| Accueil | les deux chaînes : eau → récolte → marché | — |
 | Eau & sécheresse | module 2 : SPI-3 par zone, prévision 1 à 3 mois | Ridge |
 | Récolte | module 1 : rendement des céréales, simulateur climatique | hybride XGBoost + garde-fou Ridge |
 | Prix du marché | module 3 : prix de gros hebdomadaires (19 produits) | XGBoost |
-| Tourisme | module 4 : nuitées de 5 destinations, 1-12 mois, vulnérabilité à la surfréquentation | gradient boosting quantile |
-| Déchets ménagers | module 5 : tonnes par quartier, typologie, tournées de collecte | K-means + XGBoost, Clarke-Wright + 2-opt |
-| Qualité de l'air | module 6 : PM10 / NO₂ par station, J+1 à J+3, incertitude par station | XGBoost quantile + calibration conforme |
 | À propos | schéma grand public, données, limites | — |
 
 Les résultats d'évaluation sont lus dans `ml/resultats/` : relancer `python ml/run_all.py` (prix) et

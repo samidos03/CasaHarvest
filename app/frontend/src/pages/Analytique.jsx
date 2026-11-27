@@ -384,6 +384,15 @@ function Barrage() {
           <Col sm={6} lg={3} key={p.horizon_jours}><Kpi label={`Dans ${p.horizon_jours} jours`} valeur={`${nf(p.median_pct, 1)} %`} sous={`80 % de chances entre ${nf(p.bas_pct, 1)} et ${nf(p.haut_pct, 1)} %`} /></Col>
         ))}
       </Row>
+      <Section titre="Les barrages de la région Casablanca-Settat" icone="bi-droplet-half" className="mb-3">
+        <Row className="g-3">
+          <Col sm={6} lg={4}><Kpi label="Grands et moyens barrages" valeur="9" sous="dont Al Massira, le plus grand (2 650 Mm³)" /></Col>
+          <Col sm={6} lg={4}><Kpi label="Petits barrages" valeur="8" sous="à l'échelle de la région" /></Col>
+          <Col lg={4}><Kpi label="Barrages avec une série de données" valeur="1 / 17" sous="Al Massira : 39 relevés officiels 2019-2026" /></Col>
+        </Row>
+        <div className="small text-secondary mt-2">Pour les 16 autres barrages, aucune série publique récente (taux de remplissage, volume) n'a été trouvée :
+          les analyses et la prévision ci-dessous portent donc sur Al Massira uniquement. Elles seront étendues dès que ces données seront disponibles.</div>
+      </Section>
       <Section titre="Barrage Al Massira : relevés officiels 2019-2026 et prévision à 90 jours" icone="bi-water">
         <ResponsiveContainer width="100%" height={340}>
           <ComposedChart data={serie} margin={{ top: 10, right: 8, left: -10, bottom: 0 }}>
@@ -485,7 +494,7 @@ function Donnees() {
   );
 }
 
-export default function Etudiant() {
+export default function Analytique() {
   const [params, setParams] = useSearchParams();
   const onglet = params.get("onglet") || "pluie";
   const setOnglet = (k) => setParams({ onglet: k }, { replace: true });
@@ -493,7 +502,7 @@ export default function Etudiant() {
   const provs = useApi("/region/provinces");
   return (
     <>
-      <Hero variante="ville" titre="🎓 Espace étudiant — Casablanca-Settat"
+      <Hero variante="ville" titre="📊 Espace analytique — Casablanca-Settat"
         texte="Explorer les données des 9 préfectures et provinces, comparer les modèles d'apprentissage automatique et lire leurs prévisions avec leurs marges d'erreur."
         badges={["🌧️ CHIRPS 2009-2026", "🌱 ERA5-Land", "🌾 HCP 2010-2023", "💧 Al Massira 2019-2026", "🤖 Ridge · Forêt aléatoire · XGBoost"]} />
       <Nav variant="pills" className="ch-onglets gap-1 mb-3 flex-wrap" activeKey={onglet} onSelect={(k) => setOnglet(k)}>

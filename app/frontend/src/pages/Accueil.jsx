@@ -23,7 +23,7 @@ const CYCLE = [
   ["💧", "Eau & climat", "Pluie • Humidité du sol • Barrages", "#1d6fa5", "#e3f0f9", "/analytique?onglet=pluie"],
   ["🌾", "Production agricole", "Superficie • Rendement • Récoltes", "#b0721a", "#fbf1e0", "/analytique?onglet=recolte"],
   ["🧺", "Marché de gros", "Offre • Demande • Prix", "#0b7a43", "#e7f3ec", "/prix"],
-  ["🤖", "Intelligence artificielle", "Apprentissage automatique (ML) · données satellites Google Earth Engine · cartes Folium + GeoJSON", "#5b4bb7", "#efedfb", "/a-propos"],
+  ["🤖", "Intelligence artificielle", "Apprentissage automatique (ML) · bientôt : Google Earth Engine et cartes Folium + GeoJSON", "#5b4bb7", "#efedfb", "/a-propos"],
 ];
 
 export default function Accueil() {

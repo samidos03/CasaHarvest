@@ -1,0 +1,96 @@
+{
+ "piste": "/audio/film_voix.mp3",
+ "duree": 33.41,
+ "repliques": [
+  {
+   "scene": 0,
+   "personnage": "haj",
+   "ar": "الشتا جات مزيانة هاد العام، والأرض شربات.",
+   "fr": "La pluie est bien arrivée cette année, la terre a bu.",
+   "debut": 0.0,
+   "fin": 3.21,
+   "debut_voix": 0.0,
+   "fin_voix": 2.98
+  },
+  {
+   "scene": 0,
+   "personnage": "haj",
+   "ar": "التطبيق كيقول ليا: ماكاينش الجفاف هاد الشهر.",
+   "fr": "L'application me dit : pas de sécheresse ce mois-ci.",
+   "debut": 3.21,
+   "fin": 6.58,
+   "debut_voix": 3.44,
+   "fin_voix": 6.38
+  },
+  {
+   "scene": 1,
+   "personnage": "haj",
+   "ar": "الزرع ولّى ذهبي، والمحصول غادي يكون مزيان.",
+   "fr": "Le blé devient doré, la récolte s'annonce bonne.",
+   "debut": 6.58,
+   "fin": 9.84,
+   "debut_voix": 6.78,
+   "fin_voix": 9.61
+  },
+  {
+   "scene": 1,
+   "personnage": "narrateur",
+   "ar": "التوقعات: أكثر من ستة وعشرين مليون قنطار فجهة الدار البيضاء سطات.",
+   "fr": "Prévision : plus de 26 millions de quintaux dans la région Casablanca-Settat.",
+   "debut": 9.84,
+   "fin": 15.08,
+   "debut_voix": 10.08,
+   "fin_voix": 14.87
+  },
+  {
+   "scene": 2,
+   "personnage": "narrateur",
+   "ar": "الخضرة كتمشي من الفلاح، حتى لسوق الجملة فالدار البيضاء.",
+   "fr": "Les légumes voyagent du champ jusqu'au marché de gros de Casablanca.",
+   "debut": 15.08,
+   "fin": 18.81,
+   "debut_voix": 15.28,
+   "fin_voix": 18.62
+  },
+  {
+   "scene": 2,
+   "personnage": "narrateur",
+   "ar": "وفي السوق، الذكاء الاصطناعي كيتوقع الثمن ديال الأسابيع الجاية.",
+   "fr": "Au marché, l'intelligence artificielle prévoit le prix des semaines à venir.",
+   "debut": 18.81,
+   "fin": 23.11,
+   "debut_voix": 19.0,
+   "fin_voix": 22.91
+  },
+  {
+   "scene": 3,
+   "personnage": "narrateur",
+   "ar": "علاوي، مول الطاكسي، كيدوز للسوق.",
+   "fr": "Allaoui, chauffeur de taxi, passe au marché.",
+   "debut": 23.11,
+   "fin": 25.81,
+   "debut_voix": 23.31,
+   "fin_voix": 25.63
+  },
+  {
+   "scene": 3,
+   "personnage": "allaoui",
+   "ar": "دابا فهمت علاش الثمن كيطلع وكينزل!",
+   "fr": "Maintenant je comprends pourquoi les prix montent et descendent !",
+   "debut": 25.81,
+   "fin": 28.52,
+   "debut_voix": 25.99,
+   "fin_voix": 28.36
+  },
+  {
+   "scene": 3,
+   "personnage": "narrateur",
+   "ar": "واحد كيزرع، وواحد كيشري، ولكن بجوج مرتبطين بنفس السلسلة.",
+   "fr": "L'un sème, l'autre achète, mais tous deux sont reliés par la même chaîne.",
+   "debut": 28.52,
+   "fin": 33.41,
+   "debut_voix": 28.67,
+   "fin_voix": 33.15
+  }
+ ]
+}

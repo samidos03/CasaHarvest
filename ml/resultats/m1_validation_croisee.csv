@@ -1,0 +1,1003 @@
+﻿moment,modele,campagne,zone,culture,surface_ha,reel,prevision,extrapolation
+mars,Ridge,2010,Benslimane,Blé dur,23800.0,25.56,40.96326122930286,True
+mars,Ridge,2010,Casablanca (préfectures),Blé dur,3100.0,19.68,39.18161430471449,False
+mars,Ridge,2010,El Jadida-Sidi Bennour,Blé dur,787000.0,2.43,38.322182041167,False
+mars,Ridge,2010,Settat-Berrechid,Blé dur,125000.0,16.58,40.17579112045965,True
+mars,Ridge,2010,Benslimane,Blé tendre,48000.0,24.52,41.70443842951927,True
+mars,Ridge,2010,Casablanca (préfectures),Blé tendre,16700.0,20.19,39.92279150493091,False
+mars,Ridge,2010,El Jadida-Sidi Bennour,Blé tendre,94300.0,23.02,39.06335924138341,False
+mars,Ridge,2010,Settat-Berrechid,Blé tendre,153000.0,15.58,40.91696832067606,True
+mars,Ridge,2010,Benslimane,Orge,15000.0,17.59,36.65360253718719,True
+mars,Ridge,2010,Casablanca (préfectures),Orge,20400.0,17.69,34.871955612598825,False
+mars,Ridge,2010,El Jadida-Sidi Bennour,Orge,135000.0,15.17,34.01252334905132,False
+mars,Ridge,2010,Settat-Berrechid,Orge,143000.0,15.17,35.86613242834398,True
+mars,XGBoost,2010,Benslimane,Blé dur,23800.0,25.56,30.606735229492188,True
+mars,XGBoost,2010,Casablanca (préfectures),Blé dur,3100.0,19.68,32.05221176147461,False
+mars,XGBoost,2010,El Jadida-Sidi Bennour,Blé dur,787000.0,2.43,33.11486053466797,False
+mars,XGBoost,2010,Settat-Berrechid,Blé dur,125000.0,16.58,29.530214309692383,True
+mars,XGBoost,2010,Benslimane,Blé tendre,48000.0,24.52,31.495908737182617,True
+mars,XGBoost,2010,Casablanca (préfectures),Blé tendre,16700.0,20.19,33.17262649536133,False
+mars,XGBoost,2010,El Jadida-Sidi Bennour,Blé tendre,94300.0,23.02,34.016422271728516,False
+mars,XGBoost,2010,Settat-Berrechid,Blé tendre,153000.0,15.58,30.4527645111084,True
+mars,XGBoost,2010,Benslimane,Orge,15000.0,17.59,25.78937339782715,True
+mars,XGBoost,2010,Casablanca (préfectures),Orge,20400.0,17.69,27.360980987548828,False
+mars,XGBoost,2010,El Jadida-Sidi Bennour,Orge,135000.0,15.17,27.64545440673828,False
+mars,XGBoost,2010,Settat-Berrechid,Orge,143000.0,15.17,24.93301773071289,True
+mars,Hybride (XGBoost + garde-fou Ridge),2010,Benslimane,Blé dur,23800.0,25.56,40.96326122930286,True
+mars,Hybride (XGBoost + garde-fou Ridge),2010,Casablanca (préfectures),Blé dur,3100.0,19.68,32.05221176147461,False
+mars,Hybride (XGBoost + garde-fou Ridge),2010,El Jadida-Sidi Bennour,Blé dur,787000.0,2.43,33.11486053466797,False
+mars,Hybride (XGBoost + garde-fou Ridge),2010,Settat-Berrechid,Blé dur,125000.0,16.58,40.17579112045965,True
+mars,Hybride (XGBoost + garde-fou Ridge),2010,Benslimane,Blé tendre,48000.0,24.52,41.70443842951927,True
+mars,Hybride (XGBoost + garde-fou Ridge),2010,Casablanca (préfectures),Blé tendre,16700.0,20.19,33.17262649536133,False
+mars,Hybride (XGBoost + garde-fou Ridge),2010,El Jadida-Sidi Bennour,Blé tendre,94300.0,23.02,34.016422271728516,False
+mars,Hybride (XGBoost + garde-fou Ridge),2010,Settat-Berrechid,Blé tendre,153000.0,15.58,40.91696832067606,True
+mars,Hybride (XGBoost + garde-fou Ridge),2010,Benslimane,Orge,15000.0,17.59,36.65360253718719,True
+mars,Hybride (XGBoost + garde-fou Ridge),2010,Casablanca (préfectures),Orge,20400.0,17.69,27.360980987548828,False
+mars,Hybride (XGBoost + garde-fou Ridge),2010,El Jadida-Sidi Bennour,Orge,135000.0,15.17,27.64545440673828,False
+mars,Hybride (XGBoost + garde-fou Ridge),2010,Settat-Berrechid,Orge,143000.0,15.17,35.86613242834398,True
+mars,Ridge,2011,Benslimane,Blé dur,25000.0,30.6,28.18101519651913,False
+mars,Ridge,2011,Casablanca (préfectures),Blé dur,1900.0,24.0,26.709104833599675,False
+mars,Ridge,2011,El Jadida-Sidi Bennour,Blé dur,92400.0,25.83,24.95284769627049,False
+mars,Ridge,2011,Settat-Berrechid,Blé dur,128700.0,23.2,23.913880165510697,False
+mars,Ridge,2011,Benslimane,Blé tendre,48000.0,35.4,28.957259503804995,False
+mars,Ridge,2011,Casablanca (préfectures),Blé tendre,17100.0,28.0,27.48534914088554,False
+mars,Ridge,2011,El Jadida-Sidi Bennour,Blé tendre,147200.0,23.83,25.72909200355635,False
+mars,Ridge,2011,Settat-Berrechid,Blé tendre,165400.0,26.0,24.690124472796562,False
+mars,Ridge,2011,Benslimane,Orge,13400.0,21.62,24.99093477446516,False
+mars,Ridge,2011,Casablanca (préfectures),Orge,16400.0,17.84,23.519024411545704,False
+mars,Ridge,2011,El Jadida-Sidi Bennour,Orge,94300.0,15.11,21.762767274216515,False
+mars,Ridge,2011,Settat-Berrechid,Orge,157600.0,21.81,20.723799743456727,False
+mars,XGBoost,2011,Benslimane,Blé dur,25000.0,30.6,29.096221923828125,False
+mars,XGBoost,2011,Casablanca (préfectures),Blé dur,1900.0,24.0,26.762550354003906,False
+mars,XGBoost,2011,El Jadida-Sidi Bennour,Blé dur,92400.0,25.83,26.619020462036133,False
+mars,XGBoost,2011,Settat-Berrechid,Blé dur,128700.0,23.2,27.333696365356445,False
+mars,XGBoost,2011,Benslimane,Blé tendre,48000.0,35.4,30.070425033569336,False
+mars,XGBoost,2011,Casablanca (préfectures),Blé tendre,17100.0,28.0,28.26011085510254,False
+mars,XGBoost,2011,El Jadida-Sidi Bennour,Blé tendre,147200.0,23.83,27.84699058532715,False
+mars,XGBoost,2011,Settat-Berrechid,Blé tendre,165400.0,26.0,28.739288330078125,False
+mars,XGBoost,2011,Benslimane,Orge,13400.0,21.62,25.73314094543457,False
+mars,XGBoost,2011,Casablanca (préfectures),Orge,16400.0,17.84,22.8510799407959,False
+mars,XGBoost,2011,El Jadida-Sidi Bennour,Orge,94300.0,15.11,21.787525177001953,False
+mars,XGBoost,2011,Settat-Berrechid,Orge,157600.0,21.81,24.470632553100586,False
+mars,Hybride (XGBoost + garde-fou Ridge),2011,Benslimane,Blé dur,25000.0,30.6,29.096221923828125,False
+mars,Hybride (XGBoost + garde-fou Ridge),2011,Casablanca (préfectures),Blé dur,1900.0,24.0,26.762550354003906,False
+mars,Hybride (XGBoost + garde-fou Ridge),2011,El Jadida-Sidi Bennour,Blé dur,92400.0,25.83,26.619020462036133,False
+mars,Hybride (XGBoost + garde-fou Ridge),2011,Settat-Berrechid,Blé dur,128700.0,23.2,27.333696365356445,False
+mars,Hybride (XGBoost + garde-fou Ridge),2011,Benslimane,Blé tendre,48000.0,35.4,30.070425033569336,False
+mars,Hybride (XGBoost + garde-fou Ridge),2011,Casablanca (préfectures),Blé tendre,17100.0,28.0,28.26011085510254,False
+mars,Hybride (XGBoost + garde-fou Ridge),2011,El Jadida-Sidi Bennour,Blé tendre,147200.0,23.83,27.84699058532715,False
+mars,Hybride (XGBoost + garde-fou Ridge),2011,Settat-Berrechid,Blé tendre,165400.0,26.0,28.739288330078125,False
+mars,Hybride (XGBoost + garde-fou Ridge),2011,Benslimane,Orge,13400.0,21.62,25.73314094543457,False
+mars,Hybride (XGBoost + garde-fou Ridge),2011,Casablanca (préfectures),Orge,16400.0,17.84,22.8510799407959,False
+mars,Hybride (XGBoost + garde-fou Ridge),2011,El Jadida-Sidi Bennour,Orge,94300.0,15.11,21.787525177001953,False
+mars,Hybride (XGBoost + garde-fou Ridge),2011,Settat-Berrechid,Orge,157600.0,21.81,24.470632553100586,False
+mars,Ridge,2012,Benslimane,Blé dur,22400.0,8.12,13.02386808840988,False
+mars,Ridge,2012,Casablanca (préfectures),Blé dur,1600.0,9.5,11.367405359837885,False
+mars,Ridge,2012,El Jadida-Sidi Bennour,Blé dur,98400.0,13.76,9.70621818218938,True
+mars,Ridge,2012,Settat-Berrechid,Blé dur,121800.0,7.88,10.450352306731661,False
+mars,Ridge,2012,Benslimane,Blé tendre,48500.0,9.25,13.93212926193765,False
+mars,Ridge,2012,Casablanca (préfectures),Blé tendre,16200.0,9.0,12.275666533365653,False
+mars,Ridge,2012,El Jadida-Sidi Bennour,Blé tendre,157600.0,13.71,10.61447935571715,True
+mars,Ridge,2012,Settat-Berrechid,Blé tendre,176200.0,7.98,11.358613480259429,False
+mars,Ridge,2012,Benslimane,Orge,12000.0,6.03,9.62850152537123,False
+mars,Ridge,2012,Casablanca (préfectures),Orge,16800.0,9.0,7.972038796799234,False
+mars,Ridge,2012,El Jadida-Sidi Bennour,Orge,91000.0,5.08,6.3108516191507285,True
+mars,Ridge,2012,Settat-Berrechid,Orge,147400.0,4.8,7.054985743693008,False
+mars,XGBoost,2012,Benslimane,Blé dur,22400.0,8.12,7.393452167510986,False
+mars,XGBoost,2012,Casablanca (préfectures),Blé dur,1600.0,9.5,11.662065505981445,False
+mars,XGBoost,2012,El Jadida-Sidi Bennour,Blé dur,98400.0,13.76,11.222108840942383,True
+mars,XGBoost,2012,Settat-Berrechid,Blé dur,121800.0,7.88,6.857472896575928,False
+mars,XGBoost,2012,Benslimane,Blé tendre,48500.0,9.25,7.517504692077637,False
+mars,XGBoost,2012,Casablanca (préfectures),Blé tendre,16200.0,9.0,12.001747131347656,False
+mars,XGBoost,2012,El Jadida-Sidi Bennour,Blé tendre,157600.0,13.71,11.08204174041748,True
+mars,XGBoost,2012,Settat-Berrechid,Blé tendre,176200.0,7.98,7.0238938331604,False
+mars,XGBoost,2012,Benslimane,Orge,12000.0,6.03,3.729579448699951,False
+mars,XGBoost,2012,Casablanca (préfectures),Orge,16800.0,9.0,7.3372907638549805,False
+mars,XGBoost,2012,El Jadida-Sidi Bennour,Orge,91000.0,5.08,7.052051067352295,True
+mars,XGBoost,2012,Settat-Berrechid,Orge,147400.0,4.8,3.748018264770508,False
+mars,Hybride (XGBoost + garde-fou Ridge),2012,Benslimane,Blé dur,22400.0,8.12,7.393452167510986,False
+mars,Hybride (XGBoost + garde-fou Ridge),2012,Casablanca (préfectures),Blé dur,1600.0,9.5,11.662065505981445,False
+mars,Hybride (XGBoost + garde-fou Ridge),2012,El Jadida-Sidi Bennour,Blé dur,98400.0,13.76,9.70621818218938,True
+mars,Hybride (XGBoost + garde-fou Ridge),2012,Settat-Berrechid,Blé dur,121800.0,7.88,6.857472896575928,False
+mars,Hybride (XGBoost + garde-fou Ridge),2012,Benslimane,Blé tendre,48500.0,9.25,7.517504692077637,False
+mars,Hybride (XGBoost + garde-fou Ridge),2012,Casablanca (préfectures),Blé tendre,16200.0,9.0,12.001747131347656,False
+mars,Hybride (XGBoost + garde-fou Ridge),2012,El Jadida-Sidi Bennour,Blé tendre,157600.0,13.71,10.61447935571715,True
+mars,Hybride (XGBoost + garde-fou Ridge),2012,Settat-Berrechid,Blé tendre,176200.0,7.98,7.0238938331604,False
+mars,Hybride (XGBoost + garde-fou Ridge),2012,Benslimane,Orge,12000.0,6.03,3.729579448699951,False
+mars,Hybride (XGBoost + garde-fou Ridge),2012,Casablanca (préfectures),Orge,16800.0,9.0,7.3372907638549805,False
+mars,Hybride (XGBoost + garde-fou Ridge),2012,El Jadida-Sidi Bennour,Orge,91000.0,5.08,6.3108516191507285,True
+mars,Hybride (XGBoost + garde-fou Ridge),2012,Settat-Berrechid,Orge,147400.0,4.8,3.748018264770508,False
+mars,Ridge,2013,Benslimane,Blé dur,22000.0,28.39,27.06656226953805,False
+mars,Ridge,2013,Casablanca (préfectures),Blé dur,2300.0,26.65,22.944452900108708,False
+mars,Ridge,2013,El Jadida-Sidi Bennour,Blé dur,93700.0,28.28,19.98395586911712,False
+mars,Ridge,2013,Settat-Berrechid,Blé dur,119600.0,22.02,22.160424866933024,False
+mars,Ridge,2013,Benslimane,Blé tendre,49000.0,31.04,27.839550129448362,False
+mars,Ridge,2013,Casablanca (préfectures),Blé tendre,11800.0,31.42,23.717440760019016,False
+mars,Ridge,2013,El Jadida-Sidi Bennour,Blé tendre,162500.0,26.29,20.756943729027434,False
+mars,Ridge,2013,Settat-Berrechid,Blé tendre,178100.0,26.5,22.933412726843336,False
+mars,Ridge,2013,Benslimane,Orge,11500.0,22.93,23.740746629625857,False
+mars,Ridge,2013,Casablanca (préfectures),Orge,19200.0,28.51,19.61863726019651,False
+mars,Ridge,2013,El Jadida-Sidi Bennour,Orge,97300.0,15.81,16.65814022920493,False
+mars,Ridge,2013,Settat-Berrechid,Orge,149700.0,19.72,18.83460922702083,False
+mars,XGBoost,2013,Benslimane,Blé dur,22000.0,28.39,31.06497573852539,False
+mars,XGBoost,2013,Casablanca (préfectures),Blé dur,2300.0,26.65,27.495901107788086,False
+mars,XGBoost,2013,El Jadida-Sidi Bennour,Blé dur,93700.0,28.28,28.05511474609375,False
+mars,XGBoost,2013,Settat-Berrechid,Blé dur,119600.0,22.02,27.75695037841797,False
+mars,XGBoost,2013,Benslimane,Blé tendre,49000.0,31.04,32.01933670043945,False
+mars,XGBoost,2013,Casablanca (préfectures),Blé tendre,11800.0,31.42,29.048967361450195,False
+mars,XGBoost,2013,El Jadida-Sidi Bennour,Blé tendre,162500.0,26.29,29.18009376525879,False
+mars,XGBoost,2013,Settat-Berrechid,Blé tendre,178100.0,26.5,29.135305404663086,False
+mars,XGBoost,2013,Benslimane,Orge,11500.0,22.93,27.094131469726562,False
+mars,XGBoost,2013,Casablanca (préfectures),Orge,19200.0,28.51,22.466796875,False
+mars,XGBoost,2013,El Jadida-Sidi Bennour,Orge,97300.0,15.81,22.51236343383789,False
+mars,XGBoost,2013,Settat-Berrechid,Orge,149700.0,19.72,24.447925567626953,False
+mars,Hybride (XGBoost + garde-fou Ridge),2013,Benslimane,Blé dur,22000.0,28.39,31.06497573852539,False
+mars,Hybride (XGBoost + garde-fou Ridge),2013,Casablanca (préfectures),Blé dur,2300.0,26.65,27.495901107788086,False
+mars,Hybride (XGBoost + garde-fou Ridge),2013,El Jadida-Sidi Bennour,Blé dur,93700.0,28.28,28.05511474609375,False
+mars,Hybride (XGBoost + garde-fou Ridge),2013,Settat-Berrechid,Blé dur,119600.0,22.02,27.75695037841797,False
+mars,Hybride (XGBoost + garde-fou Ridge),2013,Benslimane,Blé tendre,49000.0,31.04,32.01933670043945,False
+mars,Hybride (XGBoost + garde-fou Ridge),2013,Casablanca (préfectures),Blé tendre,11800.0,31.42,29.048967361450195,False
+mars,Hybride (XGBoost + garde-fou Ridge),2013,El Jadida-Sidi Bennour,Blé tendre,162500.0,26.29,29.18009376525879,False
+mars,Hybride (XGBoost + garde-fou Ridge),2013,Settat-Berrechid,Blé tendre,178100.0,26.5,29.135305404663086,False
+mars,Hybride (XGBoost + garde-fou Ridge),2013,Benslimane,Orge,11500.0,22.93,27.094131469726562,False
+mars,Hybride (XGBoost + garde-fou Ridge),2013,Casablanca (préfectures),Orge,19200.0,28.51,22.466796875,False
+mars,Hybride (XGBoost + garde-fou Ridge),2013,El Jadida-Sidi Bennour,Orge,97300.0,15.81,22.51236343383789,False
+mars,Hybride (XGBoost + garde-fou Ridge),2013,Settat-Berrechid,Orge,149700.0,19.72,24.447925567626953,False
+mars,Ridge,2014,Benslimane,Blé dur,22200.0,23.24,12.631203416462828,False
+mars,Ridge,2014,Casablanca (préfectures),Blé dur,1392.0,23.82,10.566233562238263,False
+mars,Ridge,2014,El Jadida-Sidi Bennour,Blé dur,91035.0,16.91,14.357997205463102,False
+mars,Ridge,2014,Settat-Berrechid,Blé dur,112750.0,9.03,12.740521525102409,False
+mars,Ridge,2014,Benslimane,Blé tendre,51000.0,23.15,13.56799643438093,False
+mars,Ridge,2014,Casablanca (préfectures),Blé tendre,13575.0,23.44,11.503026580156366,False
+mars,Ridge,2014,El Jadida-Sidi Bennour,Blé tendre,145500.0,19.17,15.294790223381202,False
+mars,Ridge,2014,Settat-Berrechid,Blé tendre,161050.0,10.75,13.677314543020511,False
+mars,Ridge,2014,Benslimane,Orge,12000.0,23.74,8.876073016354734,False
+mars,Ridge,2014,Casablanca (préfectures),Orge,15648.0,21.75,6.811103162130168,False
+mars,Ridge,2014,El Jadida-Sidi Bennour,Orge,85260.0,10.83,10.602866805355006,False
+mars,Ridge,2014,Settat-Berrechid,Orge,153000.0,10.77,8.985391124994315,False
+mars,XGBoost,2014,Benslimane,Blé dur,22200.0,23.24,10.298904418945312,False
+mars,XGBoost,2014,Casablanca (préfectures),Blé dur,1392.0,23.82,5.837567329406738,False
+mars,XGBoost,2014,El Jadida-Sidi Bennour,Blé dur,91035.0,16.91,11.859100341796875,False
+mars,XGBoost,2014,Settat-Berrechid,Blé dur,112750.0,9.03,12.308551788330078,False
+mars,XGBoost,2014,Benslimane,Blé tendre,51000.0,23.15,11.052491188049316,False
+mars,XGBoost,2014,Casablanca (préfectures),Blé tendre,13575.0,23.44,5.953765392303467,False
+mars,XGBoost,2014,El Jadida-Sidi Bennour,Blé tendre,145500.0,19.17,12.059921264648438,False
+mars,XGBoost,2014,Settat-Berrechid,Blé tendre,161050.0,10.75,13.252092361450195,False
+mars,XGBoost,2014,Benslimane,Orge,12000.0,23.74,7.398545742034912,False
+mars,XGBoost,2014,Casablanca (préfectures),Orge,15648.0,21.75,2.659942626953125,False
+mars,XGBoost,2014,El Jadida-Sidi Bennour,Orge,85260.0,10.83,6.91656494140625,False
+mars,XGBoost,2014,Settat-Berrechid,Orge,153000.0,10.77,8.805371284484863,False
+mars,Hybride (XGBoost + garde-fou Ridge),2014,Benslimane,Blé dur,22200.0,23.24,10.298904418945312,False
+mars,Hybride (XGBoost + garde-fou Ridge),2014,Casablanca (préfectures),Blé dur,1392.0,23.82,5.837567329406738,False
+mars,Hybride (XGBoost + garde-fou Ridge),2014,El Jadida-Sidi Bennour,Blé dur,91035.0,16.91,11.859100341796875,False
+mars,Hybride (XGBoost + garde-fou Ridge),2014,Settat-Berrechid,Blé dur,112750.0,9.03,12.308551788330078,False
+mars,Hybride (XGBoost + garde-fou Ridge),2014,Benslimane,Blé tendre,51000.0,23.15,11.052491188049316,False
+mars,Hybride (XGBoost + garde-fou Ridge),2014,Casablanca (préfectures),Blé tendre,13575.0,23.44,5.953765392303467,False
+mars,Hybride (XGBoost + garde-fou Ridge),2014,El Jadida-Sidi Bennour,Blé tendre,145500.0,19.17,12.059921264648438,False
+mars,Hybride (XGBoost + garde-fou Ridge),2014,Settat-Berrechid,Blé tendre,161050.0,10.75,13.252092361450195,False
+mars,Hybride (XGBoost + garde-fou Ridge),2014,Benslimane,Orge,12000.0,23.74,7.398545742034912,False
+mars,Hybride (XGBoost + garde-fou Ridge),2014,Casablanca (préfectures),Orge,15648.0,21.75,2.659942626953125,False
+mars,Hybride (XGBoost + garde-fou Ridge),2014,El Jadida-Sidi Bennour,Orge,85260.0,10.83,6.91656494140625,False
+mars,Hybride (XGBoost + garde-fou Ridge),2014,Settat-Berrechid,Orge,153000.0,10.77,8.805371284484863,False
+mars,Ridge,2015,Benslimane,Blé dur,22600.0,32.54,23.97441854992859,False
+mars,Ridge,2015,Casablanca (préfectures),Blé dur,2626.0,27.0,24.927438209544572,False
+mars,Ridge,2015,El Jadida-Sidi Bennour,Blé dur,90700.0,36.87,28.55284385383541,False
+mars,Ridge,2015,Settat-Berrechid,Blé dur,116200.0,26.15,22.461676467705274,False
+mars,Ridge,2015,Benslimane,Blé tendre,51500.0,35.45,24.818937795221927,False
+mars,Ridge,2015,Casablanca (préfectures),Blé tendre,11042.0,28.0,25.771957454837906,False
+mars,Ridge,2015,El Jadida-Sidi Bennour,Blé tendre,150500.0,33.82,29.397363099128743,False
+mars,Ridge,2015,Settat-Berrechid,Blé tendre,165000.0,30.9,23.30619571299861,False
+mars,Ridge,2015,Benslimane,Orge,12200.0,24.26,20.828961663450524,False
+mars,Ridge,2015,Casablanca (préfectures),Orge,18197.0,23.0,21.781981323066503,False
+mars,Ridge,2015,El Jadida-Sidi Bennour,Orge,95700.0,22.85,25.40738696735734,False
+mars,Ridge,2015,Settat-Berrechid,Orge,155500.0,22.74,19.31621958122721,False
+mars,XGBoost,2015,Benslimane,Blé dur,22600.0,32.54,32.79096603393555,False
+mars,XGBoost,2015,Casablanca (préfectures),Blé dur,2626.0,27.0,26.67557144165039,False
+mars,XGBoost,2015,El Jadida-Sidi Bennour,Blé dur,90700.0,36.87,16.908729553222656,False
+mars,XGBoost,2015,Settat-Berrechid,Blé dur,116200.0,26.15,26.538707733154297,False
+mars,XGBoost,2015,Benslimane,Blé tendre,51500.0,35.45,33.94353103637695,False
+mars,XGBoost,2015,Casablanca (préfectures),Blé tendre,11042.0,28.0,28.192291259765625,False
+mars,XGBoost,2015,El Jadida-Sidi Bennour,Blé tendre,150500.0,33.82,18.449106216430664,False
+mars,XGBoost,2015,Settat-Berrechid,Blé tendre,165000.0,30.9,28.034996032714844,False
+mars,XGBoost,2015,Benslimane,Orge,12200.0,24.26,29.217931747436523,False
+mars,XGBoost,2015,Casablanca (préfectures),Orge,18197.0,23.0,22.647947311401367,False
+mars,XGBoost,2015,El Jadida-Sidi Bennour,Orge,95700.0,22.85,12.423149108886719,False
+mars,XGBoost,2015,Settat-Berrechid,Orge,155500.0,22.74,23.439281463623047,False
+mars,Hybride (XGBoost + garde-fou Ridge),2015,Benslimane,Blé dur,22600.0,32.54,32.79096603393555,False
+mars,Hybride (XGBoost + garde-fou Ridge),2015,Casablanca (préfectures),Blé dur,2626.0,27.0,26.67557144165039,False
+mars,Hybride (XGBoost + garde-fou Ridge),2015,El Jadida-Sidi Bennour,Blé dur,90700.0,36.87,16.908729553222656,False
+mars,Hybride (XGBoost + garde-fou Ridge),2015,Settat-Berrechid,Blé dur,116200.0,26.15,26.538707733154297,False
+mars,Hybride (XGBoost + garde-fou Ridge),2015,Benslimane,Blé tendre,51500.0,35.45,33.94353103637695,False
+mars,Hybride (XGBoost + garde-fou Ridge),2015,Casablanca (préfectures),Blé tendre,11042.0,28.0,28.192291259765625,False
+mars,Hybride (XGBoost + garde-fou Ridge),2015,El Jadida-Sidi Bennour,Blé tendre,150500.0,33.82,18.449106216430664,False
+mars,Hybride (XGBoost + garde-fou Ridge),2015,Settat-Berrechid,Blé tendre,165000.0,30.9,28.034996032714844,False
+mars,Hybride (XGBoost + garde-fou Ridge),2015,Benslimane,Orge,12200.0,24.26,29.217931747436523,False
+mars,Hybride (XGBoost + garde-fou Ridge),2015,Casablanca (préfectures),Orge,18197.0,23.0,22.647947311401367,False
+mars,Hybride (XGBoost + garde-fou Ridge),2015,El Jadida-Sidi Bennour,Orge,95700.0,22.85,12.423149108886719,False
+mars,Hybride (XGBoost + garde-fou Ridge),2015,Settat-Berrechid,Orge,155500.0,22.74,23.439281463623047,False
+mars,Ridge,2016,Benslimane,Blé dur,16914.0,11.76,12.503740763231505,False
+mars,Ridge,2016,Casablanca (préfectures),Blé dur,1832.0,24.55,11.194341877241854,False
+mars,Ridge,2016,El Jadida-Sidi Bennour,Blé dur,76481.0,15.07,11.388734737834902,False
+mars,Ridge,2016,Settat-Berrechid,Blé dur,66676.0,7.01,9.197873836355402,False
+mars,Ridge,2016,Benslimane,Blé tendre,48900.0,8.34,13.648366099924456,False
+mars,Ridge,2016,Casablanca (préfectures),Blé tendre,9300.0,14.77,12.338967213934804,False
+mars,Ridge,2016,El Jadida-Sidi Bennour,Blé tendre,128900.0,15.83,12.533360074527852,False
+mars,Ridge,2016,Settat-Berrechid,Blé tendre,103800.0,5.16,10.342499173048353,False
+mars,Ridge,2016,Benslimane,Orge,12931.0,1.56,9.72223329628531,False
+mars,Ridge,2016,Casablanca (préfectures),Orge,17534.0,2.39,8.41283441029566,False
+mars,Ridge,2016,El Jadida-Sidi Bennour,Orge,95229.0,0.48,8.607227270888709,False
+mars,Ridge,2016,Settat-Berrechid,Orge,103009.0,0.22,6.416366369409207,False
+mars,XGBoost,2016,Benslimane,Blé dur,16914.0,11.76,12.04419994354248,False
+mars,XGBoost,2016,Casablanca (préfectures),Blé dur,1832.0,24.55,9.409814834594727,False
+mars,XGBoost,2016,El Jadida-Sidi Bennour,Blé dur,76481.0,15.07,10.397021293640137,False
+mars,XGBoost,2016,Settat-Berrechid,Blé dur,66676.0,7.01,8.960877418518066,False
+mars,XGBoost,2016,Benslimane,Blé tendre,48900.0,8.34,13.117110252380371,False
+mars,XGBoost,2016,Casablanca (préfectures),Blé tendre,9300.0,14.77,10.003554344177246,False
+mars,XGBoost,2016,El Jadida-Sidi Bennour,Blé tendre,128900.0,15.83,10.953179359436035,False
+mars,XGBoost,2016,Settat-Berrechid,Blé tendre,103800.0,5.16,9.638824462890625,False
+mars,XGBoost,2016,Benslimane,Orge,12931.0,1.56,9.704789161682129,False
+mars,XGBoost,2016,Casablanca (préfectures),Orge,17534.0,2.39,7.118085861206055,False
+mars,XGBoost,2016,El Jadida-Sidi Bennour,Orge,95229.0,0.48,7.850376129150391,False
+mars,XGBoost,2016,Settat-Berrechid,Orge,103009.0,0.22,7.094498157501221,False
+mars,Hybride (XGBoost + garde-fou Ridge),2016,Benslimane,Blé dur,16914.0,11.76,12.04419994354248,False
+mars,Hybride (XGBoost + garde-fou Ridge),2016,Casablanca (préfectures),Blé dur,1832.0,24.55,9.409814834594727,False
+mars,Hybride (XGBoost + garde-fou Ridge),2016,El Jadida-Sidi Bennour,Blé dur,76481.0,15.07,10.397021293640137,False
+mars,Hybride (XGBoost + garde-fou Ridge),2016,Settat-Berrechid,Blé dur,66676.0,7.01,8.960877418518066,False
+mars,Hybride (XGBoost + garde-fou Ridge),2016,Benslimane,Blé tendre,48900.0,8.34,13.117110252380371,False
+mars,Hybride (XGBoost + garde-fou Ridge),2016,Casablanca (préfectures),Blé tendre,9300.0,14.77,10.003554344177246,False
+mars,Hybride (XGBoost + garde-fou Ridge),2016,El Jadida-Sidi Bennour,Blé tendre,128900.0,15.83,10.953179359436035,False
+mars,Hybride (XGBoost + garde-fou Ridge),2016,Settat-Berrechid,Blé tendre,103800.0,5.16,9.638824462890625,False
+mars,Hybride (XGBoost + garde-fou Ridge),2016,Benslimane,Orge,12931.0,1.56,9.704789161682129,False
+mars,Hybride (XGBoost + garde-fou Ridge),2016,Casablanca (préfectures),Orge,17534.0,2.39,7.118085861206055,False
+mars,Hybride (XGBoost + garde-fou Ridge),2016,El Jadida-Sidi Bennour,Orge,95229.0,0.48,7.850376129150391,False
+mars,Hybride (XGBoost + garde-fou Ridge),2016,Settat-Berrechid,Orge,103009.0,0.22,7.094498157501221,False
+mars,Ridge,2017,Benslimane,Blé dur,22000.0,26.64,20.909508932633848,False
+mars,Ridge,2017,Casablanca (préfectures),Blé dur,1700.0,23.6,23.946517263105953,False
+mars,Ridge,2017,El Jadida-Sidi Bennour,Blé dur,93000.0,30.43,22.241608641190666,False
+mars,Ridge,2017,Settat-Berrechid,Blé dur,113500.0,22.94,18.033391031226344,False
+mars,Ridge,2017,Benslimane,Blé tendre,48000.0,27.28,21.689833317068477,False
+mars,Ridge,2017,Casablanca (préfectures),Blé tendre,13600.0,27.2,24.726841647540585,False
+mars,Ridge,2017,El Jadida-Sidi Bennour,Blé tendre,151800.0,31.28,23.021933025625295,False
+mars,Ridge,2017,Settat-Berrechid,Blé tendre,170000.0,27.66,18.813715415660972,False
+mars,Ridge,2017,Benslimane,Orge,10500.0,23.6,17.555630005763437,False
+mars,Ridge,2017,Casablanca (préfectures),Orge,18800.0,22.0,20.592638336235545,False
+mars,Ridge,2017,El Jadida-Sidi Bennour,Orge,99900.0,23.28,18.887729714320255,False
+mars,Ridge,2017,Settat-Berrechid,Orge,155000.0,18.55,14.679512104355934,False
+mars,XGBoost,2017,Benslimane,Blé dur,22000.0,26.64,27.72876739501953,False
+mars,XGBoost,2017,Casablanca (préfectures),Blé dur,1700.0,23.6,28.581951141357422,False
+mars,XGBoost,2017,El Jadida-Sidi Bennour,Blé dur,93000.0,30.43,25.960529327392578,False
+mars,XGBoost,2017,Settat-Berrechid,Blé dur,113500.0,22.94,26.967727661132812,False
+mars,XGBoost,2017,Benslimane,Blé tendre,48000.0,27.28,28.974609375,False
+mars,XGBoost,2017,Casablanca (préfectures),Blé tendre,13600.0,27.2,30.01456642150879,False
+mars,XGBoost,2017,El Jadida-Sidi Bennour,Blé tendre,151800.0,31.28,26.64293098449707,False
+mars,XGBoost,2017,Settat-Berrechid,Blé tendre,170000.0,27.66,28.311098098754883,False
+mars,XGBoost,2017,Benslimane,Orge,10500.0,23.6,22.778459548950195,False
+mars,XGBoost,2017,Casablanca (préfectures),Orge,18800.0,22.0,24.532787322998047,False
+mars,XGBoost,2017,El Jadida-Sidi Bennour,Orge,99900.0,23.28,19.882492065429688,False
+mars,XGBoost,2017,Settat-Berrechid,Orge,155000.0,18.55,22.730777740478516,False
+mars,Hybride (XGBoost + garde-fou Ridge),2017,Benslimane,Blé dur,22000.0,26.64,27.72876739501953,False
+mars,Hybride (XGBoost + garde-fou Ridge),2017,Casablanca (préfectures),Blé dur,1700.0,23.6,28.581951141357422,False
+mars,Hybride (XGBoost + garde-fou Ridge),2017,El Jadida-Sidi Bennour,Blé dur,93000.0,30.43,25.960529327392578,False
+mars,Hybride (XGBoost + garde-fou Ridge),2017,Settat-Berrechid,Blé dur,113500.0,22.94,26.967727661132812,False
+mars,Hybride (XGBoost + garde-fou Ridge),2017,Benslimane,Blé tendre,48000.0,27.28,28.974609375,False
+mars,Hybride (XGBoost + garde-fou Ridge),2017,Casablanca (préfectures),Blé tendre,13600.0,27.2,30.01456642150879,False
+mars,Hybride (XGBoost + garde-fou Ridge),2017,El Jadida-Sidi Bennour,Blé tendre,151800.0,31.28,26.64293098449707,False
+mars,Hybride (XGBoost + garde-fou Ridge),2017,Settat-Berrechid,Blé tendre,170000.0,27.66,28.311098098754883,False
+mars,Hybride (XGBoost + garde-fou Ridge),2017,Benslimane,Orge,10500.0,23.6,22.778459548950195,False
+mars,Hybride (XGBoost + garde-fou Ridge),2017,Casablanca (préfectures),Orge,18800.0,22.0,24.532787322998047,False
+mars,Hybride (XGBoost + garde-fou Ridge),2017,El Jadida-Sidi Bennour,Orge,99900.0,23.28,19.882492065429688,False
+mars,Hybride (XGBoost + garde-fou Ridge),2017,Settat-Berrechid,Orge,155000.0,18.55,22.730777740478516,False
+mars,Ridge,2018,Benslimane,Blé dur,18900.0,28.0,23.90246638685381,False
+mars,Ridge,2018,Casablanca (préfectures),Blé dur,2000.0,30.6,25.263828740928957,False
+mars,Ridge,2018,El Jadida-Sidi Bennour,Blé dur,81400.0,34.76,19.667770997488415,False
+mars,Ridge,2018,Settat-Berrechid,Blé dur,119100.0,33.55,20.626963400677965,False
+mars,Ridge,2018,Benslimane,Blé tendre,43200.0,35.56,24.706538384125786,False
+mars,Ridge,2018,Casablanca (préfectures),Blé tendre,9500.0,29.71,26.067900738200933,False
+mars,Ridge,2018,El Jadida-Sidi Bennour,Blé tendre,133700.0,34.11,20.47184299476039,False
+mars,Ridge,2018,Settat-Berrechid,Blé tendre,167000.0,38.9,21.43103539794994,False
+mars,Ridge,2018,Benslimane,Orge,10100.0,27.66,20.26754038256373,False
+mars,Ridge,2018,Casablanca (préfectures),Orge,20000.0,28.2,21.628902736638878,False
+mars,Ridge,2018,El Jadida-Sidi Bennour,Orge,91100.0,29.33,16.032844993198335,False
+mars,Ridge,2018,Settat-Berrechid,Orge,139000.0,28.36,16.992037396387886,False
+mars,XGBoost,2018,Benslimane,Blé dur,18900.0,28.0,29.465925216674805,False
+mars,XGBoost,2018,Casablanca (préfectures),Blé dur,2000.0,30.6,31.730844497680664,False
+mars,XGBoost,2018,El Jadida-Sidi Bennour,Blé dur,81400.0,34.76,14.967370986938477,False
+mars,XGBoost,2018,Settat-Berrechid,Blé dur,119100.0,33.55,24.752094268798828,False
+mars,XGBoost,2018,Benslimane,Blé tendre,43200.0,35.56,30.697465896606445,False
+mars,XGBoost,2018,Casablanca (préfectures),Blé tendre,9500.0,29.71,32.90402603149414,False
+mars,XGBoost,2018,El Jadida-Sidi Bennour,Blé tendre,133700.0,34.11,15.859026908874512,False
+mars,XGBoost,2018,Settat-Berrechid,Blé tendre,167000.0,38.9,26.05706024169922,False
+mars,XGBoost,2018,Benslimane,Orge,10100.0,27.66,25.3856143951416,False
+mars,XGBoost,2018,Casablanca (préfectures),Orge,20000.0,28.2,27.793025970458984,False
+mars,XGBoost,2018,El Jadida-Sidi Bennour,Orge,91100.0,29.33,10.225287437438965,False
+mars,XGBoost,2018,Settat-Berrechid,Orge,139000.0,28.36,21.675748825073242,False
+mars,Hybride (XGBoost + garde-fou Ridge),2018,Benslimane,Blé dur,18900.0,28.0,29.465925216674805,False
+mars,Hybride (XGBoost + garde-fou Ridge),2018,Casablanca (préfectures),Blé dur,2000.0,30.6,31.730844497680664,False
+mars,Hybride (XGBoost + garde-fou Ridge),2018,El Jadida-Sidi Bennour,Blé dur,81400.0,34.76,14.967370986938477,False
+mars,Hybride (XGBoost + garde-fou Ridge),2018,Settat-Berrechid,Blé dur,119100.0,33.55,24.752094268798828,False
+mars,Hybride (XGBoost + garde-fou Ridge),2018,Benslimane,Blé tendre,43200.0,35.56,30.697465896606445,False
+mars,Hybride (XGBoost + garde-fou Ridge),2018,Casablanca (préfectures),Blé tendre,9500.0,29.71,32.90402603149414,False
+mars,Hybride (XGBoost + garde-fou Ridge),2018,El Jadida-Sidi Bennour,Blé tendre,133700.0,34.11,15.859026908874512,False
+mars,Hybride (XGBoost + garde-fou Ridge),2018,Settat-Berrechid,Blé tendre,167000.0,38.9,26.05706024169922,False
+mars,Hybride (XGBoost + garde-fou Ridge),2018,Benslimane,Orge,10100.0,27.66,25.3856143951416,False
+mars,Hybride (XGBoost + garde-fou Ridge),2018,Casablanca (préfectures),Orge,20000.0,28.2,27.793025970458984,False
+mars,Hybride (XGBoost + garde-fou Ridge),2018,El Jadida-Sidi Bennour,Orge,91100.0,29.33,10.225287437438965,False
+mars,Hybride (XGBoost + garde-fou Ridge),2018,Settat-Berrechid,Orge,139000.0,28.36,21.675748825073242,False
+mars,Ridge,2019,Casablanca (préfectures),Blé dur,1404.0,9.8,18.26445757087368,False
+mars,Ridge,2019,El Jadida-Sidi Bennour,Blé dur,92336.4,16.66,19.21802832689889,False
+mars,Ridge,2019,Settat-Berrechid,Blé dur,84536.4,8.19,16.337895897230602,False
+mars,Ridge,2019,Benslimane,Blé tendre,42799.9,7.85,20.040832326961468,False
+mars,Ridge,2019,Casablanca (préfectures),Blé tendre,11875.5,37.4,19.0276942946257,False
+mars,Ridge,2019,El Jadida-Sidi Bennour,Blé tendre,168773.8,13.34,19.981265050650904,False
+mars,Ridge,2019,Settat-Berrechid,Blé tendre,92274.0,8.14,17.101132620982618,False
+mars,Ridge,2019,Benslimane,Orge,10728.9,9.0,15.791487087059,False
+mars,Ridge,2019,Casablanca (préfectures),Orge,15953.6,8.5,14.778349054723229,False
+mars,Ridge,2019,El Jadida-Sidi Bennour,Orge,94048.5,6.5,15.731919810748435,False
+mars,Ridge,2019,Settat-Berrechid,Orge,68559.4,6.52,12.85178738108015,False
+mars,XGBoost,2019,Casablanca (préfectures),Blé dur,1404.0,9.8,18.682987213134766,False
+mars,XGBoost,2019,El Jadida-Sidi Bennour,Blé dur,92336.4,16.66,17.468172073364258,False
+mars,XGBoost,2019,Settat-Berrechid,Blé dur,84536.4,8.19,13.526972770690918,False
+mars,XGBoost,2019,Benslimane,Blé tendre,42799.9,7.85,19.013317108154297,False
+mars,XGBoost,2019,Casablanca (préfectures),Blé tendre,11875.5,37.4,19.374021530151367,False
+mars,XGBoost,2019,El Jadida-Sidi Bennour,Blé tendre,168773.8,13.34,18.209653854370117,False
+mars,XGBoost,2019,Settat-Berrechid,Blé tendre,92274.0,8.14,14.477771759033203,False
+mars,XGBoost,2019,Benslimane,Orge,10728.9,9.0,14.265570640563965,False
+mars,XGBoost,2019,Casablanca (préfectures),Orge,15953.6,8.5,14.814542770385742,False
+mars,XGBoost,2019,El Jadida-Sidi Bennour,Orge,94048.5,6.5,12.156067848205566,False
+mars,XGBoost,2019,Settat-Berrechid,Orge,68559.4,6.52,9.448351860046387,False
+mars,Hybride (XGBoost + garde-fou Ridge),2019,Casablanca (préfectures),Blé dur,1404.0,9.8,18.682987213134766,False
+mars,Hybride (XGBoost + garde-fou Ridge),2019,El Jadida-Sidi Bennour,Blé dur,92336.4,16.66,17.468172073364258,False
+mars,Hybride (XGBoost + garde-fou Ridge),2019,Settat-Berrechid,Blé dur,84536.4,8.19,13.526972770690918,False
+mars,Hybride (XGBoost + garde-fou Ridge),2019,Benslimane,Blé tendre,42799.9,7.85,19.013317108154297,False
+mars,Hybride (XGBoost + garde-fou Ridge),2019,Casablanca (préfectures),Blé tendre,11875.5,37.4,19.374021530151367,False
+mars,Hybride (XGBoost + garde-fou Ridge),2019,El Jadida-Sidi Bennour,Blé tendre,168773.8,13.34,18.209653854370117,False
+mars,Hybride (XGBoost + garde-fou Ridge),2019,Settat-Berrechid,Blé tendre,92274.0,8.14,14.477771759033203,False
+mars,Hybride (XGBoost + garde-fou Ridge),2019,Benslimane,Orge,10728.9,9.0,14.265570640563965,False
+mars,Hybride (XGBoost + garde-fou Ridge),2019,Casablanca (préfectures),Orge,15953.6,8.5,14.814542770385742,False
+mars,Hybride (XGBoost + garde-fou Ridge),2019,El Jadida-Sidi Bennour,Orge,94048.5,6.5,12.156067848205566,False
+mars,Hybride (XGBoost + garde-fou Ridge),2019,Settat-Berrechid,Orge,68559.4,6.52,9.448351860046387,False
+mars,Ridge,2020,Benslimane,Blé dur,20000.0,1.7,13.312545362609995,False
+mars,Ridge,2020,Casablanca (préfectures),Blé dur,1180.0,2.0,14.82726787511044,False
+mars,Ridge,2020,El Jadida-Sidi Bennour,Blé dur,89490.0,8.26,11.401780569003204,False
+mars,Ridge,2020,Settat-Berrechid,Blé dur,144300.0,0.4,10.634563727642796,False
+mars,Ridge,2020,Benslimane,Blé tendre,45400.0,2.12,14.282750000433044,False
+mars,Ridge,2020,Casablanca (préfectures),Blé tendre,11900.0,1.11,15.79747251293349,False
+mars,Ridge,2020,El Jadida-Sidi Bennour,Blé tendre,145310.0,8.37,12.371985206826254,False
+mars,Ridge,2020,Settat-Berrechid,Blé tendre,164510.0,0.78,11.604768365465846,False
+mars,Ridge,2020,Benslimane,Orge,11790.0,2.0,9.499799864920405,False
+mars,Ridge,2020,Casablanca (préfectures),Orge,18520.0,2.0,11.01452237742085,False
+mars,Ridge,2020,El Jadida-Sidi Bennour,Orge,88070.0,4.37,7.589035071313615,False
+mars,Ridge,2020,Settat-Berrechid,Orge,147430.0,0.1,6.821818229953207,False
+mars,XGBoost,2020,Benslimane,Blé dur,20000.0,1.7,13.486507415771484,False
+mars,XGBoost,2020,Casablanca (préfectures),Blé dur,1180.0,2.0,13.410816192626953,False
+mars,XGBoost,2020,El Jadida-Sidi Bennour,Blé dur,89490.0,8.26,12.526437759399414,False
+mars,XGBoost,2020,Settat-Berrechid,Blé dur,144300.0,0.4,10.976515769958496,False
+mars,XGBoost,2020,Benslimane,Blé tendre,45400.0,2.12,13.933431625366211,False
+mars,XGBoost,2020,Casablanca (préfectures),Blé tendre,11900.0,1.11,13.640375137329102,False
+mars,XGBoost,2020,El Jadida-Sidi Bennour,Blé tendre,145310.0,8.37,12.498003005981445,False
+mars,XGBoost,2020,Settat-Berrechid,Blé tendre,164510.0,0.78,11.424626350402832,False
+mars,XGBoost,2020,Benslimane,Orge,11790.0,2.0,9.379058837890625,False
+mars,XGBoost,2020,Casablanca (préfectures),Orge,18520.0,2.0,9.16977596282959,False
+mars,XGBoost,2020,El Jadida-Sidi Bennour,Orge,88070.0,4.37,7.77454948425293,False
+mars,XGBoost,2020,Settat-Berrechid,Orge,147430.0,0.1,7.607593536376953,False
+mars,Hybride (XGBoost + garde-fou Ridge),2020,Benslimane,Blé dur,20000.0,1.7,13.486507415771484,False
+mars,Hybride (XGBoost + garde-fou Ridge),2020,Casablanca (préfectures),Blé dur,1180.0,2.0,13.410816192626953,False
+mars,Hybride (XGBoost + garde-fou Ridge),2020,El Jadida-Sidi Bennour,Blé dur,89490.0,8.26,12.526437759399414,False
+mars,Hybride (XGBoost + garde-fou Ridge),2020,Settat-Berrechid,Blé dur,144300.0,0.4,10.976515769958496,False
+mars,Hybride (XGBoost + garde-fou Ridge),2020,Benslimane,Blé tendre,45400.0,2.12,13.933431625366211,False
+mars,Hybride (XGBoost + garde-fou Ridge),2020,Casablanca (préfectures),Blé tendre,11900.0,1.11,13.640375137329102,False
+mars,Hybride (XGBoost + garde-fou Ridge),2020,El Jadida-Sidi Bennour,Blé tendre,145310.0,8.37,12.498003005981445,False
+mars,Hybride (XGBoost + garde-fou Ridge),2020,Settat-Berrechid,Blé tendre,164510.0,0.78,11.424626350402832,False
+mars,Hybride (XGBoost + garde-fou Ridge),2020,Benslimane,Orge,11790.0,2.0,9.379058837890625,False
+mars,Hybride (XGBoost + garde-fou Ridge),2020,Casablanca (préfectures),Orge,18520.0,2.0,9.16977596282959,False
+mars,Hybride (XGBoost + garde-fou Ridge),2020,El Jadida-Sidi Bennour,Orge,88070.0,4.37,7.77454948425293,False
+mars,Hybride (XGBoost + garde-fou Ridge),2020,Settat-Berrechid,Orge,147430.0,0.1,7.607593536376953,False
+mars,Ridge,2021,Benslimane,Blé dur,15500.0,37.75,24.048311043268562,False
+mars,Ridge,2021,Casablanca (préfectures),Blé dur,1180.0,33.3,26.97143310500158,False
+mars,Ridge,2021,El Jadida-Sidi Bennour,Blé dur,86955.0,30.38,26.475554497399386,False
+mars,Ridge,2021,Settat-Berrechid,Blé dur,128030.0,33.95,22.550168827903946,False
+mars,Ridge,2021,Benslimane,Blé tendre,43700.0,33.78,25.168123290167422,False
+mars,Ridge,2021,Casablanca (préfectures),Blé tendre,12500.0,34.57,28.09124535190044,False
+mars,Ridge,2021,El Jadida-Sidi Bennour,Blé tendre,143465.0,27.39,27.595366744298246,False
+mars,Ridge,2021,Settat-Berrechid,Blé tendre,152920.0,32.07,23.669981074802806,False
+mars,Ridge,2021,Benslimane,Orge,9500.0,28.8,20.505110354101532,False
+mars,Ridge,2021,Casablanca (préfectures),Orge,18850.0,33.5,23.42823241583455,False
+mars,Ridge,2021,El Jadida-Sidi Bennour,Orge,94590.0,25.3,22.932353808232357,False
+mars,Ridge,2021,Settat-Berrechid,Orge,134690.0,29.04,19.006968138736916,False
+mars,XGBoost,2021,Benslimane,Blé dur,15500.0,37.75,30.081432342529297,False
+mars,XGBoost,2021,Casablanca (préfectures),Blé dur,1180.0,33.3,27.12222671508789,False
+mars,XGBoost,2021,El Jadida-Sidi Bennour,Blé dur,86955.0,30.38,26.494483947753906,False
+mars,XGBoost,2021,Settat-Berrechid,Blé dur,128030.0,33.95,25.40437126159668,False
+mars,XGBoost,2021,Benslimane,Blé tendre,43700.0,33.78,32.263458251953125,False
+mars,XGBoost,2021,Casablanca (préfectures),Blé tendre,12500.0,34.57,29.373008728027344,False
+mars,XGBoost,2021,El Jadida-Sidi Bennour,Blé tendre,143465.0,27.39,28.8051700592041,False
+mars,XGBoost,2021,Settat-Berrechid,Blé tendre,152920.0,32.07,27.452159881591797,False
+mars,XGBoost,2021,Benslimane,Orge,9500.0,28.8,26.242515563964844,False
+mars,XGBoost,2021,Casablanca (préfectures),Orge,18850.0,33.5,23.36487579345703,False
+mars,XGBoost,2021,El Jadida-Sidi Bennour,Orge,94590.0,25.3,22.015247344970703,False
+mars,XGBoost,2021,Settat-Berrechid,Orge,134690.0,29.04,22.330080032348633,False
+mars,Hybride (XGBoost + garde-fou Ridge),2021,Benslimane,Blé dur,15500.0,37.75,30.081432342529297,False
+mars,Hybride (XGBoost + garde-fou Ridge),2021,Casablanca (préfectures),Blé dur,1180.0,33.3,27.12222671508789,False
+mars,Hybride (XGBoost + garde-fou Ridge),2021,El Jadida-Sidi Bennour,Blé dur,86955.0,30.38,26.494483947753906,False
+mars,Hybride (XGBoost + garde-fou Ridge),2021,Settat-Berrechid,Blé dur,128030.0,33.95,25.40437126159668,False
+mars,Hybride (XGBoost + garde-fou Ridge),2021,Benslimane,Blé tendre,43700.0,33.78,32.263458251953125,False
+mars,Hybride (XGBoost + garde-fou Ridge),2021,Casablanca (préfectures),Blé tendre,12500.0,34.57,29.373008728027344,False
+mars,Hybride (XGBoost + garde-fou Ridge),2021,El Jadida-Sidi Bennour,Blé tendre,143465.0,27.39,28.8051700592041,False
+mars,Hybride (XGBoost + garde-fou Ridge),2021,Settat-Berrechid,Blé tendre,152920.0,32.07,27.452159881591797,False
+mars,Hybride (XGBoost + garde-fou Ridge),2021,Benslimane,Orge,9500.0,28.8,26.242515563964844,False
+mars,Hybride (XGBoost + garde-fou Ridge),2021,Casablanca (préfectures),Orge,18850.0,33.5,23.36487579345703,False
+mars,Hybride (XGBoost + garde-fou Ridge),2021,El Jadida-Sidi Bennour,Orge,94590.0,25.3,22.015247344970703,False
+mars,Hybride (XGBoost + garde-fou Ridge),2021,Settat-Berrechid,Orge,134690.0,29.04,22.330080032348633,False
+mars,Ridge,2022,Benslimane,Blé dur,18030.0,0.9,11.06887765764494,True
+mars,Ridge,2022,Casablanca (préfectures),Blé dur,1100.0,0.92,9.379679198426842,True
+mars,Ridge,2022,El Jadida-Sidi Bennour,Blé dur,72208.23999999999,4.05,8.305206178325033,True
+mars,Ridge,2022,Settat-Berrechid,Blé dur,139132.37,2.77,6.8563922872389185,True
+mars,Ridge,2022,Benslimane,Blé tendre,43250.0,1.22,11.98538823132602,True
+mars,Ridge,2022,Casablanca (préfectures),Blé tendre,12250.0,0.96,10.296189772107924,True
+mars,Ridge,2022,El Jadida-Sidi Bennour,Blé tendre,127924.96,3.57,9.221716752006115,True
+mars,Ridge,2022,Settat-Berrechid,Blé tendre,164209.27,2.67,7.772902860919999,True
+mars,Ridge,2022,Benslimane,Orge,11200.0,0.91,7.4911580163405525,True
+mars,Ridge,2022,Casablanca (préfectures),Orge,18600.0,0.94,5.801959557122455,True
+mars,Ridge,2022,El Jadida-Sidi Bennour,Orge,90006.4,1.07,4.727486537020646,True
+mars,Ridge,2022,Settat-Berrechid,Orge,125000.0,2.8,3.278672645934531,True
+mars,XGBoost,2022,Benslimane,Blé dur,18030.0,0.9,15.176261901855469,True
+mars,XGBoost,2022,Casablanca (préfectures),Blé dur,1100.0,0.92,14.253726959228516,True
+mars,XGBoost,2022,El Jadida-Sidi Bennour,Blé dur,72208.23999999999,4.05,12.337014198303223,True
+mars,XGBoost,2022,Settat-Berrechid,Blé dur,139132.37,2.77,9.518458366394043,True
+mars,XGBoost,2022,Benslimane,Blé tendre,43250.0,1.22,15.896084785461426,True
+mars,XGBoost,2022,Casablanca (préfectures),Blé tendre,12250.0,0.96,14.439689636230469,True
+mars,XGBoost,2022,El Jadida-Sidi Bennour,Blé tendre,127924.96,3.57,12.401592254638672,True
+mars,XGBoost,2022,Settat-Berrechid,Blé tendre,164209.27,2.67,9.632415771484375,True
+mars,XGBoost,2022,Benslimane,Orge,11200.0,0.91,11.306206703186035,True
+mars,XGBoost,2022,Casablanca (préfectures),Orge,18600.0,0.94,10.487835884094238,True
+mars,XGBoost,2022,El Jadida-Sidi Bennour,Orge,90006.4,1.07,7.613802909851074,True
+mars,XGBoost,2022,Settat-Berrechid,Orge,125000.0,2.8,6.393212795257568,True
+mars,Hybride (XGBoost + garde-fou Ridge),2022,Benslimane,Blé dur,18030.0,0.9,11.06887765764494,True
+mars,Hybride (XGBoost + garde-fou Ridge),2022,Casablanca (préfectures),Blé dur,1100.0,0.92,9.379679198426842,True
+mars,Hybride (XGBoost + garde-fou Ridge),2022,El Jadida-Sidi Bennour,Blé dur,72208.23999999999,4.05,8.305206178325033,True
+mars,Hybride (XGBoost + garde-fou Ridge),2022,Settat-Berrechid,Blé dur,139132.37,2.77,6.8563922872389185,True
+mars,Hybride (XGBoost + garde-fou Ridge),2022,Benslimane,Blé tendre,43250.0,1.22,11.98538823132602,True
+mars,Hybride (XGBoost + garde-fou Ridge),2022,Casablanca (préfectures),Blé tendre,12250.0,0.96,10.296189772107924,True
+mars,Hybride (XGBoost + garde-fou Ridge),2022,El Jadida-Sidi Bennour,Blé tendre,127924.96,3.57,9.221716752006115,True
+mars,Hybride (XGBoost + garde-fou Ridge),2022,Settat-Berrechid,Blé tendre,164209.27,2.67,7.772902860919999,True
+mars,Hybride (XGBoost + garde-fou Ridge),2022,Benslimane,Orge,11200.0,0.91,7.4911580163405525,True
+mars,Hybride (XGBoost + garde-fou Ridge),2022,Casablanca (préfectures),Orge,18600.0,0.94,5.801959557122455,True
+mars,Hybride (XGBoost + garde-fou Ridge),2022,El Jadida-Sidi Bennour,Orge,90006.4,1.07,4.727486537020646,True
+mars,Hybride (XGBoost + garde-fou Ridge),2022,Settat-Berrechid,Orge,125000.0,2.8,3.278672645934531,True
+mars,Ridge,2023,Benslimane,Blé dur,18240.0,11.63,12.287102144320823,False
+mars,Ridge,2023,Casablanca (préfectures),Blé dur,4710.0,17.0,12.716810843392276,False
+mars,Ridge,2023,El Jadida-Sidi Bennour,Blé dur,76199.0,13.34,10.142574437435256,False
+mars,Ridge,2023,Settat-Berrechid,Blé dur,108400.0,9.6,9.105709871644308,False
+mars,Ridge,2023,Benslimane,Blé tendre,43800.0,12.46,13.294986527143319,False
+mars,Ridge,2023,Casablanca (préfectures),Blé tendre,13865.0,11.65,13.72469522621477,False
+mars,Ridge,2023,El Jadida-Sidi Bennour,Blé tendre,128191.0,15.43,11.15045882025775,False
+mars,Ridge,2023,Settat-Berrechid,Blé tendre,151000.0,10.74,10.113594254466802,False
+mars,Ridge,2023,Benslimane,Orge,10650.0,13.69,8.557797554504988,False
+mars,Ridge,2023,Casablanca (préfectures),Orge,29120.0,10.39,8.98750625357644,False
+mars,Ridge,2023,El Jadida-Sidi Bennour,Orge,86450.0,10.47,6.41326984761942,False
+mars,Ridge,2023,Settat-Berrechid,Orge,143000.0,9.05,5.376405281828472,False
+mars,XGBoost,2023,Benslimane,Blé dur,18240.0,11.63,13.966383934020996,False
+mars,XGBoost,2023,Casablanca (préfectures),Blé dur,4710.0,17.0,13.907490730285645,False
+mars,XGBoost,2023,El Jadida-Sidi Bennour,Blé dur,76199.0,13.34,5.46347713470459,False
+mars,XGBoost,2023,Settat-Berrechid,Blé dur,108400.0,9.6,5.31096887588501,False
+mars,XGBoost,2023,Benslimane,Blé tendre,43800.0,12.46,15.193913459777832,False
+mars,XGBoost,2023,Casablanca (préfectures),Blé tendre,13865.0,11.65,15.243691444396973,False
+mars,XGBoost,2023,El Jadida-Sidi Bennour,Blé tendre,128191.0,15.43,5.568820476531982,False
+mars,XGBoost,2023,Settat-Berrechid,Blé tendre,151000.0,10.74,5.420092582702637,False
+mars,XGBoost,2023,Benslimane,Orge,10650.0,13.69,10.640494346618652,False
+mars,XGBoost,2023,Casablanca (préfectures),Orge,29120.0,10.39,11.250075340270996,False
+mars,XGBoost,2023,El Jadida-Sidi Bennour,Orge,86450.0,10.47,2.1286966800689697,False
+mars,XGBoost,2023,Settat-Berrechid,Orge,143000.0,9.05,2.0855801105499268,False
+mars,Hybride (XGBoost + garde-fou Ridge),2023,Benslimane,Blé dur,18240.0,11.63,13.966383934020996,False
+mars,Hybride (XGBoost + garde-fou Ridge),2023,Casablanca (préfectures),Blé dur,4710.0,17.0,13.907490730285645,False
+mars,Hybride (XGBoost + garde-fou Ridge),2023,El Jadida-Sidi Bennour,Blé dur,76199.0,13.34,5.46347713470459,False
+mars,Hybride (XGBoost + garde-fou Ridge),2023,Settat-Berrechid,Blé dur,108400.0,9.6,5.31096887588501,False
+mars,Hybride (XGBoost + garde-fou Ridge),2023,Benslimane,Blé tendre,43800.0,12.46,15.193913459777832,False
+mars,Hybride (XGBoost + garde-fou Ridge),2023,Casablanca (préfectures),Blé tendre,13865.0,11.65,15.243691444396973,False
+mars,Hybride (XGBoost + garde-fou Ridge),2023,El Jadida-Sidi Bennour,Blé tendre,128191.0,15.43,5.568820476531982,False
+mars,Hybride (XGBoost + garde-fou Ridge),2023,Settat-Berrechid,Blé tendre,151000.0,10.74,5.420092582702637,False
+mars,Hybride (XGBoost + garde-fou Ridge),2023,Benslimane,Orge,10650.0,13.69,10.640494346618652,False
+mars,Hybride (XGBoost + garde-fou Ridge),2023,Casablanca (préfectures),Orge,29120.0,10.39,11.250075340270996,False
+mars,Hybride (XGBoost + garde-fou Ridge),2023,El Jadida-Sidi Bennour,Orge,86450.0,10.47,2.1286966800689697,False
+mars,Hybride (XGBoost + garde-fou Ridge),2023,Settat-Berrechid,Orge,143000.0,9.05,2.0855801105499268,False
+mai,Ridge,2010,Benslimane,Blé dur,23800.0,25.56,38.32474720053027,True
+mai,Ridge,2010,Casablanca (préfectures),Blé dur,3100.0,19.68,36.04227861653432,False
+mai,Ridge,2010,El Jadida-Sidi Bennour,Blé dur,787000.0,2.43,34.29190606300366,False
+mai,Ridge,2010,Settat-Berrechid,Blé dur,125000.0,16.58,37.47440890332626,True
+mai,Ridge,2010,Benslimane,Blé tendre,48000.0,24.52,39.081594633674015,True
+mai,Ridge,2010,Casablanca (préfectures),Blé tendre,16700.0,20.19,36.799126049678065,False
+mai,Ridge,2010,El Jadida-Sidi Bennour,Blé tendre,94300.0,23.02,35.0487534961474,False
+mai,Ridge,2010,Settat-Berrechid,Blé tendre,153000.0,15.58,38.23125633647,True
+mai,Ridge,2010,Benslimane,Orge,15000.0,17.59,34.14502672245959,True
+mai,Ridge,2010,Casablanca (préfectures),Orge,20400.0,17.69,31.862558138463637,False
+mai,Ridge,2010,El Jadida-Sidi Bennour,Orge,135000.0,15.17,30.112185584932977,False
+mai,Ridge,2010,Settat-Berrechid,Orge,143000.0,15.17,33.29468842525557,True
+mai,XGBoost,2010,Benslimane,Blé dur,23800.0,25.56,31.173778533935547,True
+mai,XGBoost,2010,Casablanca (préfectures),Blé dur,3100.0,19.68,31.226619720458984,False
+mai,XGBoost,2010,El Jadida-Sidi Bennour,Blé dur,787000.0,2.43,30.006622314453125,False
+mai,XGBoost,2010,Settat-Berrechid,Blé dur,125000.0,16.58,27.762378692626953,True
+mai,XGBoost,2010,Benslimane,Blé tendre,48000.0,24.52,31.9625186920166,True
+mai,XGBoost,2010,Casablanca (préfectures),Blé tendre,16700.0,20.19,32.14726257324219,False
+mai,XGBoost,2010,El Jadida-Sidi Bennour,Blé tendre,94300.0,23.02,30.769023895263672,False
+mai,XGBoost,2010,Settat-Berrechid,Blé tendre,153000.0,15.58,28.551118850708008,True
+mai,XGBoost,2010,Benslimane,Orge,15000.0,17.59,26.57535171508789,True
+mai,XGBoost,2010,Casablanca (préfectures),Orge,20400.0,17.69,26.236839294433594,False
+mai,XGBoost,2010,El Jadida-Sidi Bennour,Orge,135000.0,15.17,24.584993362426758,False
+mai,XGBoost,2010,Settat-Berrechid,Orge,143000.0,15.17,23.567237854003906,True
+mai,Hybride (XGBoost + garde-fou Ridge),2010,Benslimane,Blé dur,23800.0,25.56,38.32474720053027,True
+mai,Hybride (XGBoost + garde-fou Ridge),2010,Casablanca (préfectures),Blé dur,3100.0,19.68,31.226619720458984,False
+mai,Hybride (XGBoost + garde-fou Ridge),2010,El Jadida-Sidi Bennour,Blé dur,787000.0,2.43,30.006622314453125,False
+mai,Hybride (XGBoost + garde-fou Ridge),2010,Settat-Berrechid,Blé dur,125000.0,16.58,37.47440890332626,True
+mai,Hybride (XGBoost + garde-fou Ridge),2010,Benslimane,Blé tendre,48000.0,24.52,39.081594633674015,True
+mai,Hybride (XGBoost + garde-fou Ridge),2010,Casablanca (préfectures),Blé tendre,16700.0,20.19,32.14726257324219,False
+mai,Hybride (XGBoost + garde-fou Ridge),2010,El Jadida-Sidi Bennour,Blé tendre,94300.0,23.02,30.769023895263672,False
+mai,Hybride (XGBoost + garde-fou Ridge),2010,Settat-Berrechid,Blé tendre,153000.0,15.58,38.23125633647,True
+mai,Hybride (XGBoost + garde-fou Ridge),2010,Benslimane,Orge,15000.0,17.59,34.14502672245959,True
+mai,Hybride (XGBoost + garde-fou Ridge),2010,Casablanca (préfectures),Orge,20400.0,17.69,26.236839294433594,False
+mai,Hybride (XGBoost + garde-fou Ridge),2010,El Jadida-Sidi Bennour,Orge,135000.0,15.17,24.584993362426758,False
+mai,Hybride (XGBoost + garde-fou Ridge),2010,Settat-Berrechid,Orge,143000.0,15.17,33.29468842525557,True
+mai,Ridge,2011,Benslimane,Blé dur,25000.0,30.6,25.754964108574086,False
+mai,Ridge,2011,Casablanca (préfectures),Blé dur,1900.0,24.0,24.490570263737403,False
+mai,Ridge,2011,El Jadida-Sidi Bennour,Blé dur,92400.0,25.83,22.508037844594185,False
+mai,Ridge,2011,Settat-Berrechid,Blé dur,128700.0,23.2,23.174584152562506,False
+mai,Ridge,2011,Benslimane,Blé tendre,48000.0,35.4,26.566539389684237,False
+mai,Ridge,2011,Casablanca (préfectures),Blé tendre,17100.0,28.0,25.302145544847555,False
+mai,Ridge,2011,El Jadida-Sidi Bennour,Blé tendre,147200.0,23.83,23.319613125704336,False
+mai,Ridge,2011,Settat-Berrechid,Blé tendre,165400.0,26.0,23.986159433672658,False
+mai,Ridge,2011,Benslimane,Orge,13400.0,21.62,22.6002146603444,False
+mai,Ridge,2011,Casablanca (préfectures),Orge,16400.0,17.84,21.335820815507716,False
+mai,Ridge,2011,El Jadida-Sidi Bennour,Orge,94300.0,15.11,19.353288396364498,False
+mai,Ridge,2011,Settat-Berrechid,Orge,157600.0,21.81,20.019834704332816,False
+mai,XGBoost,2011,Benslimane,Blé dur,25000.0,30.6,30.058807373046875,False
+mai,XGBoost,2011,Casablanca (préfectures),Blé dur,1900.0,24.0,24.842626571655273,False
+mai,XGBoost,2011,El Jadida-Sidi Bennour,Blé dur,92400.0,25.83,28.436758041381836,False
+mai,XGBoost,2011,Settat-Berrechid,Blé dur,128700.0,23.2,27.610750198364258,False
+mai,XGBoost,2011,Benslimane,Blé tendre,48000.0,35.4,30.847625732421875,False
+mai,XGBoost,2011,Casablanca (préfectures),Blé tendre,17100.0,28.0,25.86516761779785,False
+mai,XGBoost,2011,El Jadida-Sidi Bennour,Blé tendre,147200.0,23.83,29.889328002929688,False
+mai,XGBoost,2011,Settat-Berrechid,Blé tendre,165400.0,26.0,28.617143630981445,False
+mai,XGBoost,2011,Benslimane,Orge,13400.0,21.62,27.206192016601562,False
+mai,XGBoost,2011,Casablanca (préfectures),Orge,16400.0,17.84,21.18437957763672,False
+mai,XGBoost,2011,El Jadida-Sidi Bennour,Orge,94300.0,15.11,22.488162994384766,False
+mai,XGBoost,2011,Settat-Berrechid,Orge,157600.0,21.81,24.638948440551758,False
+mai,Hybride (XGBoost + garde-fou Ridge),2011,Benslimane,Blé dur,25000.0,30.6,30.058807373046875,False
+mai,Hybride (XGBoost + garde-fou Ridge),2011,Casablanca (préfectures),Blé dur,1900.0,24.0,24.842626571655273,False
+mai,Hybride (XGBoost + garde-fou Ridge),2011,El Jadida-Sidi Bennour,Blé dur,92400.0,25.83,28.436758041381836,False
+mai,Hybride (XGBoost + garde-fou Ridge),2011,Settat-Berrechid,Blé dur,128700.0,23.2,27.610750198364258,False
+mai,Hybride (XGBoost + garde-fou Ridge),2011,Benslimane,Blé tendre,48000.0,35.4,30.847625732421875,False
+mai,Hybride (XGBoost + garde-fou Ridge),2011,Casablanca (préfectures),Blé tendre,17100.0,28.0,25.86516761779785,False
+mai,Hybride (XGBoost + garde-fou Ridge),2011,El Jadida-Sidi Bennour,Blé tendre,147200.0,23.83,29.889328002929688,False
+mai,Hybride (XGBoost + garde-fou Ridge),2011,Settat-Berrechid,Blé tendre,165400.0,26.0,28.617143630981445,False
+mai,Hybride (XGBoost + garde-fou Ridge),2011,Benslimane,Orge,13400.0,21.62,27.206192016601562,False
+mai,Hybride (XGBoost + garde-fou Ridge),2011,Casablanca (préfectures),Orge,16400.0,17.84,21.18437957763672,False
+mai,Hybride (XGBoost + garde-fou Ridge),2011,El Jadida-Sidi Bennour,Orge,94300.0,15.11,22.488162994384766,False
+mai,Hybride (XGBoost + garde-fou Ridge),2011,Settat-Berrechid,Orge,157600.0,21.81,24.638948440551758,False
+mai,Ridge,2012,Benslimane,Blé dur,22400.0,8.12,11.431917475851055,False
+mai,Ridge,2012,Casablanca (préfectures),Blé dur,1600.0,9.5,10.031074645635249,False
+mai,Ridge,2012,El Jadida-Sidi Bennour,Blé dur,98400.0,13.76,8.109227247194855,True
+mai,Ridge,2012,Settat-Berrechid,Blé dur,121800.0,7.88,9.00250909769394,False
+mai,Ridge,2012,Benslimane,Blé tendre,48500.0,9.25,12.437400157120422,False
+mai,Ridge,2012,Casablanca (préfectures),Blé tendre,16200.0,9.0,11.036557326904616,False
+mai,Ridge,2012,El Jadida-Sidi Bennour,Blé tendre,157600.0,13.71,9.114709928464222,True
+mai,Ridge,2012,Settat-Berrechid,Blé tendre,176200.0,7.98,10.007991778963307,False
+mai,Ridge,2012,Benslimane,Orge,12000.0,6.03,7.838155484121257,False
+mai,Ridge,2012,Casablanca (préfectures),Orge,16800.0,9.0,6.437312653905451,False
+mai,Ridge,2012,El Jadida-Sidi Bennour,Orge,91000.0,5.08,4.515465255465056,True
+mai,Ridge,2012,Settat-Berrechid,Orge,147400.0,4.8,5.4087471059641405,False
+mai,XGBoost,2012,Benslimane,Blé dur,22400.0,8.12,13.118961334228516,False
+mai,XGBoost,2012,Casablanca (préfectures),Blé dur,1600.0,9.5,12.111421585083008,False
+mai,XGBoost,2012,El Jadida-Sidi Bennour,Blé dur,98400.0,13.76,11.883722305297852,True
+mai,XGBoost,2012,Settat-Berrechid,Blé dur,121800.0,7.88,4.953251361846924,False
+mai,XGBoost,2012,Benslimane,Blé tendre,48500.0,9.25,13.432503700256348,False
+mai,XGBoost,2012,Casablanca (préfectures),Blé tendre,16200.0,9.0,12.378942489624023,False
+mai,XGBoost,2012,El Jadida-Sidi Bennour,Blé tendre,157600.0,13.71,11.967498779296875,True
+mai,XGBoost,2012,Settat-Berrechid,Blé tendre,176200.0,7.98,5.322253704071045,False
+mai,XGBoost,2012,Benslimane,Orge,12000.0,6.03,10.951767921447754,False
+mai,XGBoost,2012,Casablanca (préfectures),Orge,16800.0,9.0,6.897749423980713,False
+mai,XGBoost,2012,El Jadida-Sidi Bennour,Orge,91000.0,5.08,7.0194315910339355,True
+mai,XGBoost,2012,Settat-Berrechid,Orge,147400.0,4.8,2.8047924041748047,False
+mai,Hybride (XGBoost + garde-fou Ridge),2012,Benslimane,Blé dur,22400.0,8.12,13.118961334228516,False
+mai,Hybride (XGBoost + garde-fou Ridge),2012,Casablanca (préfectures),Blé dur,1600.0,9.5,12.111421585083008,False
+mai,Hybride (XGBoost + garde-fou Ridge),2012,El Jadida-Sidi Bennour,Blé dur,98400.0,13.76,8.109227247194855,True
+mai,Hybride (XGBoost + garde-fou Ridge),2012,Settat-Berrechid,Blé dur,121800.0,7.88,4.953251361846924,False
+mai,Hybride (XGBoost + garde-fou Ridge),2012,Benslimane,Blé tendre,48500.0,9.25,13.432503700256348,False
+mai,Hybride (XGBoost + garde-fou Ridge),2012,Casablanca (préfectures),Blé tendre,16200.0,9.0,12.378942489624023,False
+mai,Hybride (XGBoost + garde-fou Ridge),2012,El Jadida-Sidi Bennour,Blé tendre,157600.0,13.71,9.114709928464222,True
+mai,Hybride (XGBoost + garde-fou Ridge),2012,Settat-Berrechid,Blé tendre,176200.0,7.98,5.322253704071045,False
+mai,Hybride (XGBoost + garde-fou Ridge),2012,Benslimane,Orge,12000.0,6.03,10.951767921447754,False
+mai,Hybride (XGBoost + garde-fou Ridge),2012,Casablanca (préfectures),Orge,16800.0,9.0,6.897749423980713,False
+mai,Hybride (XGBoost + garde-fou Ridge),2012,El Jadida-Sidi Bennour,Orge,91000.0,5.08,4.515465255465056,True
+mai,Hybride (XGBoost + garde-fou Ridge),2012,Settat-Berrechid,Orge,147400.0,4.8,2.8047924041748047,False
+mai,Ridge,2013,Benslimane,Blé dur,22000.0,28.39,28.771134068559917,True
+mai,Ridge,2013,Casablanca (préfectures),Blé dur,2300.0,26.65,25.71502543946214,False
+mai,Ridge,2013,El Jadida-Sidi Bennour,Blé dur,93700.0,28.28,21.954866905342133,False
+mai,Ridge,2013,Settat-Berrechid,Blé dur,119600.0,22.02,22.93495269045853,False
+mai,Ridge,2013,Benslimane,Blé tendre,49000.0,31.04,29.62538784801395,True
+mai,Ridge,2013,Casablanca (préfectures),Blé tendre,11800.0,31.42,26.56927921891618,False
+mai,Ridge,2013,El Jadida-Sidi Bennour,Blé tendre,162500.0,26.29,22.80912068479617,False
+mai,Ridge,2013,Settat-Berrechid,Blé tendre,178100.0,26.5,23.789206469912568,False
+mai,Ridge,2013,Benslimane,Orge,11500.0,22.93,25.245036824142797,True
+mai,Ridge,2013,Casablanca (préfectures),Orge,19200.0,28.51,22.188928195045023,False
+mai,Ridge,2013,El Jadida-Sidi Bennour,Orge,97300.0,15.81,18.428769660925013,False
+mai,Ridge,2013,Settat-Berrechid,Orge,149700.0,19.72,19.40885544604141,False
+mai,XGBoost,2013,Benslimane,Blé dur,22000.0,28.39,31.196617126464844,True
+mai,XGBoost,2013,Casablanca (préfectures),Blé dur,2300.0,26.65,29.51897621154785,False
+mai,XGBoost,2013,El Jadida-Sidi Bennour,Blé dur,93700.0,28.28,24.496501922607422,False
+mai,XGBoost,2013,Settat-Berrechid,Blé dur,119600.0,22.02,27.694799423217773,False
+mai,XGBoost,2013,Benslimane,Blé tendre,49000.0,31.04,32.14373016357422,True
+mai,XGBoost,2013,Casablanca (préfectures),Blé tendre,11800.0,31.42,30.841487884521484,False
+mai,XGBoost,2013,El Jadida-Sidi Bennour,Blé tendre,162500.0,26.29,25.85122299194336,False
+mai,XGBoost,2013,Settat-Berrechid,Blé tendre,178100.0,26.5,28.710729598999023,False
+mai,XGBoost,2013,Benslimane,Orge,11500.0,22.93,27.33339500427246,True
+mai,XGBoost,2013,Casablanca (préfectures),Orge,19200.0,28.51,24.94332504272461,False
+mai,XGBoost,2013,El Jadida-Sidi Bennour,Orge,97300.0,15.81,20.72506332397461,False
+mai,XGBoost,2013,Settat-Berrechid,Orge,149700.0,19.72,24.46310043334961,False
+mai,Hybride (XGBoost + garde-fou Ridge),2013,Benslimane,Blé dur,22000.0,28.39,28.771134068559917,True
+mai,Hybride (XGBoost + garde-fou Ridge),2013,Casablanca (préfectures),Blé dur,2300.0,26.65,29.51897621154785,False
+mai,Hybride (XGBoost + garde-fou Ridge),2013,El Jadida-Sidi Bennour,Blé dur,93700.0,28.28,24.496501922607422,False
+mai,Hybride (XGBoost + garde-fou Ridge),2013,Settat-Berrechid,Blé dur,119600.0,22.02,27.694799423217773,False
+mai,Hybride (XGBoost + garde-fou Ridge),2013,Benslimane,Blé tendre,49000.0,31.04,29.62538784801395,True
+mai,Hybride (XGBoost + garde-fou Ridge),2013,Casablanca (préfectures),Blé tendre,11800.0,31.42,30.841487884521484,False
+mai,Hybride (XGBoost + garde-fou Ridge),2013,El Jadida-Sidi Bennour,Blé tendre,162500.0,26.29,25.85122299194336,False
+mai,Hybride (XGBoost + garde-fou Ridge),2013,Settat-Berrechid,Blé tendre,178100.0,26.5,28.710729598999023,False
+mai,Hybride (XGBoost + garde-fou Ridge),2013,Benslimane,Orge,11500.0,22.93,25.245036824142797,True
+mai,Hybride (XGBoost + garde-fou Ridge),2013,Casablanca (préfectures),Orge,19200.0,28.51,24.94332504272461,False
+mai,Hybride (XGBoost + garde-fou Ridge),2013,El Jadida-Sidi Bennour,Orge,97300.0,15.81,20.72506332397461,False
+mai,Hybride (XGBoost + garde-fou Ridge),2013,Settat-Berrechid,Orge,149700.0,19.72,24.46310043334961,False
+mai,Ridge,2014,Benslimane,Blé dur,22200.0,23.24,9.803881764581707,False
+mai,Ridge,2014,Casablanca (préfectures),Blé dur,1392.0,23.82,9.739551107418325,False
+mai,Ridge,2014,El Jadida-Sidi Bennour,Blé dur,91035.0,16.91,13.18501236724261,False
+mai,Ridge,2014,Settat-Berrechid,Blé dur,112750.0,9.03,10.072134940891083,False
+mai,Ridge,2014,Benslimane,Blé tendre,51000.0,23.15,10.783536745913239,False
+mai,Ridge,2014,Casablanca (préfectures),Blé tendre,13575.0,23.44,10.719206088749859,False
+mai,Ridge,2014,El Jadida-Sidi Bennour,Blé tendre,145500.0,19.17,14.164667348574142,False
+mai,Ridge,2014,Settat-Berrechid,Blé tendre,161050.0,10.75,11.051789922222614,False
+mai,Ridge,2014,Benslimane,Orge,12000.0,23.74,6.091613327887041,False
+mai,Ridge,2014,Casablanca (préfectures),Orge,15648.0,21.75,6.027282670723661,False
+mai,Ridge,2014,El Jadida-Sidi Bennour,Orge,85260.0,10.83,9.472743930547944,False
+mai,Ridge,2014,Settat-Berrechid,Orge,153000.0,10.77,6.359866504196418,False
+mai,XGBoost,2014,Benslimane,Blé dur,22200.0,23.24,9.049247741699219,False
+mai,XGBoost,2014,Casablanca (préfectures),Blé dur,1392.0,23.82,12.461435317993164,False
+mai,XGBoost,2014,El Jadida-Sidi Bennour,Blé dur,91035.0,16.91,10.112337112426758,False
+mai,XGBoost,2014,Settat-Berrechid,Blé dur,112750.0,9.03,7.938186168670654,False
+mai,XGBoost,2014,Benslimane,Blé tendre,51000.0,23.15,9.20346736907959,False
+mai,XGBoost,2014,Casablanca (préfectures),Blé tendre,13575.0,23.44,13.27852725982666,False
+mai,XGBoost,2014,El Jadida-Sidi Bennour,Blé tendre,145500.0,19.17,10.665529251098633,False
+mai,XGBoost,2014,Settat-Berrechid,Blé tendre,161050.0,10.75,8.24720573425293,False
+mai,XGBoost,2014,Benslimane,Orge,12000.0,23.74,6.898301601409912,False
+mai,XGBoost,2014,Casablanca (préfectures),Orge,15648.0,21.75,7.1760573387146,False
+mai,XGBoost,2014,El Jadida-Sidi Bennour,Orge,85260.0,10.83,5.169191837310791,False
+mai,XGBoost,2014,Settat-Berrechid,Orge,153000.0,10.77,5.716266632080078,False
+mai,Hybride (XGBoost + garde-fou Ridge),2014,Benslimane,Blé dur,22200.0,23.24,9.049247741699219,False
+mai,Hybride (XGBoost + garde-fou Ridge),2014,Casablanca (préfectures),Blé dur,1392.0,23.82,12.461435317993164,False
+mai,Hybride (XGBoost + garde-fou Ridge),2014,El Jadida-Sidi Bennour,Blé dur,91035.0,16.91,10.112337112426758,False
+mai,Hybride (XGBoost + garde-fou Ridge),2014,Settat-Berrechid,Blé dur,112750.0,9.03,7.938186168670654,False
+mai,Hybride (XGBoost + garde-fou Ridge),2014,Benslimane,Blé tendre,51000.0,23.15,9.20346736907959,False
+mai,Hybride (XGBoost + garde-fou Ridge),2014,Casablanca (préfectures),Blé tendre,13575.0,23.44,13.27852725982666,False
+mai,Hybride (XGBoost + garde-fou Ridge),2014,El Jadida-Sidi Bennour,Blé tendre,145500.0,19.17,10.665529251098633,False
+mai,Hybride (XGBoost + garde-fou Ridge),2014,Settat-Berrechid,Blé tendre,161050.0,10.75,8.24720573425293,False
+mai,Hybride (XGBoost + garde-fou Ridge),2014,Benslimane,Orge,12000.0,23.74,6.898301601409912,False
+mai,Hybride (XGBoost + garde-fou Ridge),2014,Casablanca (préfectures),Orge,15648.0,21.75,7.1760573387146,False
+mai,Hybride (XGBoost + garde-fou Ridge),2014,El Jadida-Sidi Bennour,Orge,85260.0,10.83,5.169191837310791,False
+mai,Hybride (XGBoost + garde-fou Ridge),2014,Settat-Berrechid,Orge,153000.0,10.77,5.716266632080078,False
+mai,Ridge,2015,Benslimane,Blé dur,22600.0,32.54,22.96991043096449,False
+mai,Ridge,2015,Casablanca (préfectures),Blé dur,2626.0,27.0,25.02648305556109,False
+mai,Ridge,2015,El Jadida-Sidi Bennour,Blé dur,90700.0,36.87,28.821001816177063,False
+mai,Ridge,2015,Settat-Berrechid,Blé dur,116200.0,26.15,21.980605503508126,False
+mai,Ridge,2015,Benslimane,Blé tendre,51500.0,35.45,23.847436731322404,False
+mai,Ridge,2015,Casablanca (préfectures),Blé tendre,11042.0,28.0,25.904009355919005,False
+mai,Ridge,2015,El Jadida-Sidi Bennour,Blé tendre,150500.0,33.82,29.69852811653498,False
+mai,Ridge,2015,Settat-Berrechid,Blé tendre,165000.0,30.9,22.85813180386604,False
+mai,Ridge,2015,Benslimane,Orge,12200.0,24.26,19.857460599551004,False
+mai,Ridge,2015,Casablanca (préfectures),Orge,18197.0,23.0,21.9140332241476,False
+mai,Ridge,2015,El Jadida-Sidi Bennour,Orge,95700.0,22.85,25.708551984763577,False
+mai,Ridge,2015,Settat-Berrechid,Orge,155500.0,22.74,18.86815567209464,False
+mai,XGBoost,2015,Benslimane,Blé dur,22600.0,32.54,27.41765594482422,False
+mai,XGBoost,2015,Casablanca (préfectures),Blé dur,2626.0,27.0,27.335777282714844,False
+mai,XGBoost,2015,El Jadida-Sidi Bennour,Blé dur,90700.0,36.87,19.568761825561523,False
+mai,XGBoost,2015,Settat-Berrechid,Blé dur,116200.0,26.15,24.130592346191406,False
+mai,XGBoost,2015,Benslimane,Blé tendre,51500.0,35.45,28.4698486328125,False
+mai,XGBoost,2015,Casablanca (préfectures),Blé tendre,11042.0,28.0,28.827035903930664,False
+mai,XGBoost,2015,El Jadida-Sidi Bennour,Blé tendre,150500.0,33.82,21.087331771850586,False
+mai,XGBoost,2015,Settat-Berrechid,Blé tendre,165000.0,30.9,25.24482536315918,False
+mai,XGBoost,2015,Benslimane,Orge,12200.0,24.26,24.808677673339844,False
+mai,XGBoost,2015,Casablanca (préfectures),Orge,18197.0,23.0,22.340099334716797,False
+mai,XGBoost,2015,El Jadida-Sidi Bennour,Orge,95700.0,22.85,14.21768856048584,False
+mai,XGBoost,2015,Settat-Berrechid,Orge,155500.0,22.74,21.487934112548828,False
+mai,Hybride (XGBoost + garde-fou Ridge),2015,Benslimane,Blé dur,22600.0,32.54,27.41765594482422,False
+mai,Hybride (XGBoost + garde-fou Ridge),2015,Casablanca (préfectures),Blé dur,2626.0,27.0,27.335777282714844,False
+mai,Hybride (XGBoost + garde-fou Ridge),2015,El Jadida-Sidi Bennour,Blé dur,90700.0,36.87,19.568761825561523,False
+mai,Hybride (XGBoost + garde-fou Ridge),2015,Settat-Berrechid,Blé dur,116200.0,26.15,24.130592346191406,False
+mai,Hybride (XGBoost + garde-fou Ridge),2015,Benslimane,Blé tendre,51500.0,35.45,28.4698486328125,False
+mai,Hybride (XGBoost + garde-fou Ridge),2015,Casablanca (préfectures),Blé tendre,11042.0,28.0,28.827035903930664,False
+mai,Hybride (XGBoost + garde-fou Ridge),2015,El Jadida-Sidi Bennour,Blé tendre,150500.0,33.82,21.087331771850586,False
+mai,Hybride (XGBoost + garde-fou Ridge),2015,Settat-Berrechid,Blé tendre,165000.0,30.9,25.24482536315918,False
+mai,Hybride (XGBoost + garde-fou Ridge),2015,Benslimane,Orge,12200.0,24.26,24.808677673339844,False
+mai,Hybride (XGBoost + garde-fou Ridge),2015,Casablanca (préfectures),Orge,18197.0,23.0,22.340099334716797,False
+mai,Hybride (XGBoost + garde-fou Ridge),2015,El Jadida-Sidi Bennour,Orge,95700.0,22.85,14.21768856048584,False
+mai,Hybride (XGBoost + garde-fou Ridge),2015,Settat-Berrechid,Orge,155500.0,22.74,21.487934112548828,False
+mai,Ridge,2016,Benslimane,Blé dur,16914.0,11.76,16.372989476998534,False
+mai,Ridge,2016,Casablanca (préfectures),Blé dur,1832.0,24.55,14.56254342142289,False
+mai,Ridge,2016,El Jadida-Sidi Bennour,Blé dur,76481.0,15.07,16.314709069137106,False
+mai,Ridge,2016,Settat-Berrechid,Blé dur,66676.0,7.01,12.999973349630515,False
+mai,Ridge,2016,Benslimane,Blé tendre,48900.0,8.34,17.63145820244491,False
+mai,Ridge,2016,Casablanca (préfectures),Blé tendre,9300.0,14.77,15.82101214686927,False
+mai,Ridge,2016,El Jadida-Sidi Bennour,Blé tendre,128900.0,15.83,17.573177794583486,False
+mai,Ridge,2016,Settat-Berrechid,Blé tendre,103800.0,5.16,14.258442075076895,False
+mai,Ridge,2016,Benslimane,Orge,12931.0,1.56,13.435638654857526,False
+mai,Ridge,2016,Casablanca (préfectures),Orge,17534.0,2.39,11.625192599281881,False
+mai,Ridge,2016,El Jadida-Sidi Bennour,Orge,95229.0,0.48,13.3773582469961,False
+mai,Ridge,2016,Settat-Berrechid,Orge,103009.0,0.22,10.062622527489507,False
+mai,XGBoost,2016,Benslimane,Blé dur,16914.0,11.76,13.70625114440918,False
+mai,XGBoost,2016,Casablanca (préfectures),Blé dur,1832.0,24.55,17.514516830444336,False
+mai,XGBoost,2016,El Jadida-Sidi Bennour,Blé dur,76481.0,15.07,18.262699127197266,False
+mai,XGBoost,2016,Settat-Berrechid,Blé dur,66676.0,7.01,10.878129959106445,False
+mai,XGBoost,2016,Benslimane,Blé tendre,48900.0,8.34,14.587661743164062,False
+mai,XGBoost,2016,Casablanca (préfectures),Blé tendre,9300.0,14.77,18.962282180786133,False
+mai,XGBoost,2016,El Jadida-Sidi Bennour,Blé tendre,128900.0,15.83,19.668132781982422,False
+mai,XGBoost,2016,Settat-Berrechid,Blé tendre,103800.0,5.16,11.818046569824219,False
+mai,XGBoost,2016,Benslimane,Orge,12931.0,1.56,12.854992866516113,False
+mai,XGBoost,2016,Casablanca (préfectures),Orge,17534.0,2.39,15.292741775512695,False
+mai,XGBoost,2016,El Jadida-Sidi Bennour,Orge,95229.0,0.48,16.040922164916992,False
+mai,XGBoost,2016,Settat-Berrechid,Orge,103009.0,0.22,10.069679260253906,False
+mai,Hybride (XGBoost + garde-fou Ridge),2016,Benslimane,Blé dur,16914.0,11.76,13.70625114440918,False
+mai,Hybride (XGBoost + garde-fou Ridge),2016,Casablanca (préfectures),Blé dur,1832.0,24.55,17.514516830444336,False
+mai,Hybride (XGBoost + garde-fou Ridge),2016,El Jadida-Sidi Bennour,Blé dur,76481.0,15.07,18.262699127197266,False
+mai,Hybride (XGBoost + garde-fou Ridge),2016,Settat-Berrechid,Blé dur,66676.0,7.01,10.878129959106445,False
+mai,Hybride (XGBoost + garde-fou Ridge),2016,Benslimane,Blé tendre,48900.0,8.34,14.587661743164062,False
+mai,Hybride (XGBoost + garde-fou Ridge),2016,Casablanca (préfectures),Blé tendre,9300.0,14.77,18.962282180786133,False
+mai,Hybride (XGBoost + garde-fou Ridge),2016,El Jadida-Sidi Bennour,Blé tendre,128900.0,15.83,19.668132781982422,False
+mai,Hybride (XGBoost + garde-fou Ridge),2016,Settat-Berrechid,Blé tendre,103800.0,5.16,11.818046569824219,False
+mai,Hybride (XGBoost + garde-fou Ridge),2016,Benslimane,Orge,12931.0,1.56,12.854992866516113,False
+mai,Hybride (XGBoost + garde-fou Ridge),2016,Casablanca (préfectures),Orge,17534.0,2.39,15.292741775512695,False
+mai,Hybride (XGBoost + garde-fou Ridge),2016,El Jadida-Sidi Bennour,Orge,95229.0,0.48,16.040922164916992,False
+mai,Hybride (XGBoost + garde-fou Ridge),2016,Settat-Berrechid,Orge,103009.0,0.22,10.069679260253906,False
+mai,Ridge,2017,Benslimane,Blé dur,22000.0,26.64,19.60707623426233,False
+mai,Ridge,2017,Casablanca (préfectures),Blé dur,1700.0,23.6,24.085514130640686,False
+mai,Ridge,2017,El Jadida-Sidi Bennour,Blé dur,93000.0,30.43,22.139724596000725,False
+mai,Ridge,2017,Settat-Berrechid,Blé dur,113500.0,22.94,16.43031498897998,False
+mai,Ridge,2017,Benslimane,Blé tendre,48000.0,27.28,20.484625953342352,False
+mai,Ridge,2017,Casablanca (préfectures),Blé tendre,13600.0,27.2,24.96306384972071,False
+mai,Ridge,2017,El Jadida-Sidi Bennour,Blé tendre,151800.0,31.28,23.017274315080755,False
+mai,Ridge,2017,Settat-Berrechid,Blé tendre,170000.0,27.66,17.307864708060006,False
+mai,Ridge,2017,Benslimane,Orge,10500.0,23.6,16.06644349879172,False
+mai,Ridge,2017,Casablanca (préfectures),Orge,18800.0,22.0,20.544881395170076,False
+mai,Ridge,2017,El Jadida-Sidi Bennour,Orge,99900.0,23.28,18.59909186053012,False
+mai,Ridge,2017,Settat-Berrechid,Orge,155000.0,18.55,12.88968225350937,False
+mai,XGBoost,2017,Benslimane,Blé dur,22000.0,26.64,24.220287322998047,False
+mai,XGBoost,2017,Casablanca (préfectures),Blé dur,1700.0,23.6,27.503707885742188,False
+mai,XGBoost,2017,El Jadida-Sidi Bennour,Blé dur,93000.0,30.43,25.18167495727539,False
+mai,XGBoost,2017,Settat-Berrechid,Blé dur,113500.0,22.94,23.360380172729492,False
+mai,XGBoost,2017,Benslimane,Blé tendre,48000.0,27.28,25.25153350830078,False
+mai,XGBoost,2017,Casablanca (préfectures),Blé tendre,13600.0,27.2,28.643997192382812,False
+mai,XGBoost,2017,El Jadida-Sidi Bennour,Blé tendre,151800.0,31.28,26.523475646972656,False
+mai,XGBoost,2017,Settat-Berrechid,Blé tendre,170000.0,27.66,24.406654357910156,False
+mai,XGBoost,2017,Benslimane,Orge,10500.0,23.6,20.031112670898438,False
+mai,XGBoost,2017,Casablanca (préfectures),Orge,18800.0,22.0,22.921159744262695,False
+mai,XGBoost,2017,El Jadida-Sidi Bennour,Orge,99900.0,23.28,18.324981689453125,False
+mai,XGBoost,2017,Settat-Berrechid,Orge,155000.0,18.55,19.52464485168457,False
+mai,Hybride (XGBoost + garde-fou Ridge),2017,Benslimane,Blé dur,22000.0,26.64,24.220287322998047,False
+mai,Hybride (XGBoost + garde-fou Ridge),2017,Casablanca (préfectures),Blé dur,1700.0,23.6,27.503707885742188,False
+mai,Hybride (XGBoost + garde-fou Ridge),2017,El Jadida-Sidi Bennour,Blé dur,93000.0,30.43,25.18167495727539,False
+mai,Hybride (XGBoost + garde-fou Ridge),2017,Settat-Berrechid,Blé dur,113500.0,22.94,23.360380172729492,False
+mai,Hybride (XGBoost + garde-fou Ridge),2017,Benslimane,Blé tendre,48000.0,27.28,25.25153350830078,False
+mai,Hybride (XGBoost + garde-fou Ridge),2017,Casablanca (préfectures),Blé tendre,13600.0,27.2,28.643997192382812,False
+mai,Hybride (XGBoost + garde-fou Ridge),2017,El Jadida-Sidi Bennour,Blé tendre,151800.0,31.28,26.523475646972656,False
+mai,Hybride (XGBoost + garde-fou Ridge),2017,Settat-Berrechid,Blé tendre,170000.0,27.66,24.406654357910156,False
+mai,Hybride (XGBoost + garde-fou Ridge),2017,Benslimane,Orge,10500.0,23.6,20.031112670898438,False
+mai,Hybride (XGBoost + garde-fou Ridge),2017,Casablanca (préfectures),Orge,18800.0,22.0,22.921159744262695,False
+mai,Hybride (XGBoost + garde-fou Ridge),2017,El Jadida-Sidi Bennour,Orge,99900.0,23.28,18.324981689453125,False
+mai,Hybride (XGBoost + garde-fou Ridge),2017,Settat-Berrechid,Orge,155000.0,18.55,19.52464485168457,False
+mai,Ridge,2018,Benslimane,Blé dur,18900.0,28.0,24.81012642932584,False
+mai,Ridge,2018,Casablanca (préfectures),Blé dur,2000.0,30.6,25.530561286967558,False
+mai,Ridge,2018,El Jadida-Sidi Bennour,Blé dur,81400.0,34.76,20.29040584587947,False
+mai,Ridge,2018,Settat-Berrechid,Blé dur,119100.0,33.55,21.576330017000743,False
+mai,Ridge,2018,Benslimane,Blé tendre,43200.0,35.56,25.620262580192506,False
+mai,Ridge,2018,Casablanca (préfectures),Blé tendre,9500.0,29.71,26.340697437834223,False
+mai,Ridge,2018,El Jadida-Sidi Bennour,Blé tendre,133700.0,34.11,21.100541996746134,False
+mai,Ridge,2018,Settat-Berrechid,Blé tendre,167000.0,38.9,22.386466167867404,False
+mai,Ridge,2018,Benslimane,Orge,10100.0,27.66,21.18126457863045,False
+mai,Ridge,2018,Casablanca (préfectures),Orge,20000.0,28.2,21.901699436272168,False
+mai,Ridge,2018,El Jadida-Sidi Bennour,Orge,91100.0,29.33,16.66154399518408,False
+mai,Ridge,2018,Settat-Berrechid,Orge,139000.0,28.36,17.94746816630535,False
+mai,XGBoost,2018,Benslimane,Blé dur,18900.0,28.0,30.329153060913086,False
+mai,XGBoost,2018,Casablanca (préfectures),Blé dur,2000.0,30.6,30.06334114074707,False
+mai,XGBoost,2018,El Jadida-Sidi Bennour,Blé dur,81400.0,34.76,13.727437973022461,False
+mai,XGBoost,2018,Settat-Berrechid,Blé dur,119100.0,33.55,28.050743103027344,False
+mai,XGBoost,2018,Benslimane,Blé tendre,43200.0,35.56,31.059627532958984,False
+mai,XGBoost,2018,Casablanca (préfectures),Blé tendre,9500.0,29.71,30.846088409423828,False
+mai,XGBoost,2018,El Jadida-Sidi Bennour,Blé tendre,133700.0,34.11,14.827827453613281,False
+mai,XGBoost,2018,Settat-Berrechid,Blé tendre,167000.0,38.9,28.793577194213867,False
+mai,XGBoost,2018,Benslimane,Orge,10100.0,27.66,26.368934631347656,False
+mai,XGBoost,2018,Casablanca (préfectures),Orge,20000.0,28.2,26.078880310058594,False
+mai,XGBoost,2018,El Jadida-Sidi Bennour,Orge,91100.0,29.33,10.574597358703613,False
+mai,XGBoost,2018,Settat-Berrechid,Orge,139000.0,28.36,24.361419677734375,False
+mai,Hybride (XGBoost + garde-fou Ridge),2018,Benslimane,Blé dur,18900.0,28.0,30.329153060913086,False
+mai,Hybride (XGBoost + garde-fou Ridge),2018,Casablanca (préfectures),Blé dur,2000.0,30.6,30.06334114074707,False
+mai,Hybride (XGBoost + garde-fou Ridge),2018,El Jadida-Sidi Bennour,Blé dur,81400.0,34.76,13.727437973022461,False
+mai,Hybride (XGBoost + garde-fou Ridge),2018,Settat-Berrechid,Blé dur,119100.0,33.55,28.050743103027344,False
+mai,Hybride (XGBoost + garde-fou Ridge),2018,Benslimane,Blé tendre,43200.0,35.56,31.059627532958984,False
+mai,Hybride (XGBoost + garde-fou Ridge),2018,Casablanca (préfectures),Blé tendre,9500.0,29.71,30.846088409423828,False
+mai,Hybride (XGBoost + garde-fou Ridge),2018,El Jadida-Sidi Bennour,Blé tendre,133700.0,34.11,14.827827453613281,False
+mai,Hybride (XGBoost + garde-fou Ridge),2018,Settat-Berrechid,Blé tendre,167000.0,38.9,28.793577194213867,False
+mai,Hybride (XGBoost + garde-fou Ridge),2018,Benslimane,Orge,10100.0,27.66,26.368934631347656,False
+mai,Hybride (XGBoost + garde-fou Ridge),2018,Casablanca (préfectures),Orge,20000.0,28.2,26.078880310058594,False
+mai,Hybride (XGBoost + garde-fou Ridge),2018,El Jadida-Sidi Bennour,Orge,91100.0,29.33,10.574597358703613,False
+mai,Hybride (XGBoost + garde-fou Ridge),2018,Settat-Berrechid,Orge,139000.0,28.36,24.361419677734375,False
+mai,Ridge,2019,Casablanca (préfectures),Blé dur,1404.0,9.8,17.69963739633592,False
+mai,Ridge,2019,El Jadida-Sidi Bennour,Blé dur,92336.4,16.66,18.5181503636443,False
+mai,Ridge,2019,Settat-Berrechid,Blé dur,84536.4,8.19,15.364598531275828,False
+mai,Ridge,2019,Benslimane,Blé tendre,42799.9,7.85,18.366565286208818,False
+mai,Ridge,2019,Casablanca (préfectures),Blé tendre,11875.5,37.4,18.46287412008794,False
+mai,Ridge,2019,El Jadida-Sidi Bennour,Blé tendre,168773.8,13.34,19.28138708739632,False
+mai,Ridge,2019,Settat-Berrechid,Blé tendre,92274.0,8.14,16.127835255027843,False
+mai,Ridge,2019,Benslimane,Orge,10728.9,9.0,14.11722004630635,False
+mai,Ridge,2019,Casablanca (préfectures),Orge,15953.6,8.5,14.21352888018547,False
+mai,Ridge,2019,El Jadida-Sidi Bennour,Orge,94048.5,6.5,15.032041847493847,False
+mai,Ridge,2019,Settat-Berrechid,Orge,68559.4,6.52,11.878490015125376,False
+mai,XGBoost,2019,Casablanca (préfectures),Blé dur,1404.0,9.8,18.954723358154297,False
+mai,XGBoost,2019,El Jadida-Sidi Bennour,Blé dur,92336.4,16.66,17.32473373413086,False
+mai,XGBoost,2019,Settat-Berrechid,Blé dur,84536.4,8.19,18.268564224243164,False
+mai,XGBoost,2019,Benslimane,Blé tendre,42799.9,7.85,15.197629928588867,False
+mai,XGBoost,2019,Casablanca (préfectures),Blé tendre,11875.5,37.4,19.333988189697266,False
+mai,XGBoost,2019,El Jadida-Sidi Bennour,Blé tendre,168773.8,13.34,17.96906852722168,False
+mai,XGBoost,2019,Settat-Berrechid,Blé tendre,92274.0,8.14,18.9595890045166,False
+mai,XGBoost,2019,Benslimane,Orge,10728.9,9.0,10.999210357666016,False
+mai,XGBoost,2019,Casablanca (préfectures),Orge,15953.6,8.5,13.601306915283203,False
+mai,XGBoost,2019,El Jadida-Sidi Bennour,Orge,94048.5,6.5,12.224064826965332,False
+mai,XGBoost,2019,Settat-Berrechid,Orge,68559.4,6.52,14.102128028869629,False
+mai,Hybride (XGBoost + garde-fou Ridge),2019,Casablanca (préfectures),Blé dur,1404.0,9.8,18.954723358154297,False
+mai,Hybride (XGBoost + garde-fou Ridge),2019,El Jadida-Sidi Bennour,Blé dur,92336.4,16.66,17.32473373413086,False
+mai,Hybride (XGBoost + garde-fou Ridge),2019,Settat-Berrechid,Blé dur,84536.4,8.19,18.268564224243164,False
+mai,Hybride (XGBoost + garde-fou Ridge),2019,Benslimane,Blé tendre,42799.9,7.85,15.197629928588867,False
+mai,Hybride (XGBoost + garde-fou Ridge),2019,Casablanca (préfectures),Blé tendre,11875.5,37.4,19.333988189697266,False
+mai,Hybride (XGBoost + garde-fou Ridge),2019,El Jadida-Sidi Bennour,Blé tendre,168773.8,13.34,17.96906852722168,False
+mai,Hybride (XGBoost + garde-fou Ridge),2019,Settat-Berrechid,Blé tendre,92274.0,8.14,18.9595890045166,False
+mai,Hybride (XGBoost + garde-fou Ridge),2019,Benslimane,Orge,10728.9,9.0,10.999210357666016,False
+mai,Hybride (XGBoost + garde-fou Ridge),2019,Casablanca (préfectures),Orge,15953.6,8.5,13.601306915283203,False
+mai,Hybride (XGBoost + garde-fou Ridge),2019,El Jadida-Sidi Bennour,Orge,94048.5,6.5,12.224064826965332,False
+mai,Hybride (XGBoost + garde-fou Ridge),2019,Settat-Berrechid,Orge,68559.4,6.52,14.102128028869629,False
+mai,Ridge,2020,Benslimane,Blé dur,20000.0,1.7,13.284957164265402,False
+mai,Ridge,2020,Casablanca (préfectures),Blé dur,1180.0,2.0,15.16753122284749,False
+mai,Ridge,2020,El Jadida-Sidi Bennour,Blé dur,89490.0,8.26,11.61908208805794,False
+mai,Ridge,2020,Settat-Berrechid,Blé dur,144300.0,0.4,10.251505292586241,False
+mai,Ridge,2020,Benslimane,Blé tendre,45400.0,2.12,14.28404779565366,False
+mai,Ridge,2020,Casablanca (préfectures),Blé tendre,11900.0,1.11,16.16662185423575,False
+mai,Ridge,2020,El Jadida-Sidi Bennour,Blé tendre,145310.0,8.37,12.618172719446198,False
+mai,Ridge,2020,Settat-Berrechid,Blé tendre,164510.0,0.78,11.250595923974497,False
+mai,Ridge,2020,Benslimane,Orge,11790.0,2.0,9.501097660141024,False
+mai,Ridge,2020,Casablanca (préfectures),Orge,18520.0,2.0,11.383671718723114,False
+mai,Ridge,2020,El Jadida-Sidi Bennour,Orge,88070.0,4.37,7.8352225839335645,False
+mai,Ridge,2020,Settat-Berrechid,Orge,147430.0,0.1,6.467645788461862,False
+mai,XGBoost,2020,Benslimane,Blé dur,20000.0,1.7,11.413665771484375,False
+mai,XGBoost,2020,Casablanca (préfectures),Blé dur,1180.0,2.0,11.37831974029541,False
+mai,XGBoost,2020,El Jadida-Sidi Bennour,Blé dur,89490.0,8.26,15.948099136352539,False
+mai,XGBoost,2020,Settat-Berrechid,Blé dur,144300.0,0.4,9.151647567749023,False
+mai,XGBoost,2020,Benslimane,Blé tendre,45400.0,2.12,11.779716491699219,False
+mai,XGBoost,2020,Casablanca (préfectures),Blé tendre,11900.0,1.11,12.08438777923584,False
+mai,XGBoost,2020,El Jadida-Sidi Bennour,Blé tendre,145310.0,8.37,16.347692489624023,False
+mai,XGBoost,2020,Settat-Berrechid,Blé tendre,164510.0,0.78,9.438369750976562,False
+mai,XGBoost,2020,Benslimane,Orge,11790.0,2.0,8.477043151855469,False
+mai,XGBoost,2020,Casablanca (préfectures),Orge,18520.0,2.0,7.827489376068115,False
+mai,XGBoost,2020,El Jadida-Sidi Bennour,Orge,88070.0,4.37,10.670957565307617,False
+mai,XGBoost,2020,Settat-Berrechid,Orge,147430.0,0.1,6.402637004852295,False
+mai,Hybride (XGBoost + garde-fou Ridge),2020,Benslimane,Blé dur,20000.0,1.7,11.413665771484375,False
+mai,Hybride (XGBoost + garde-fou Ridge),2020,Casablanca (préfectures),Blé dur,1180.0,2.0,11.37831974029541,False
+mai,Hybride (XGBoost + garde-fou Ridge),2020,El Jadida-Sidi Bennour,Blé dur,89490.0,8.26,15.948099136352539,False
+mai,Hybride (XGBoost + garde-fou Ridge),2020,Settat-Berrechid,Blé dur,144300.0,0.4,9.151647567749023,False
+mai,Hybride (XGBoost + garde-fou Ridge),2020,Benslimane,Blé tendre,45400.0,2.12,11.779716491699219,False
+mai,Hybride (XGBoost + garde-fou Ridge),2020,Casablanca (préfectures),Blé tendre,11900.0,1.11,12.08438777923584,False
+mai,Hybride (XGBoost + garde-fou Ridge),2020,El Jadida-Sidi Bennour,Blé tendre,145310.0,8.37,16.347692489624023,False
+mai,Hybride (XGBoost + garde-fou Ridge),2020,Settat-Berrechid,Blé tendre,164510.0,0.78,9.438369750976562,False
+mai,Hybride (XGBoost + garde-fou Ridge),2020,Benslimane,Orge,11790.0,2.0,8.477043151855469,False
+mai,Hybride (XGBoost + garde-fou Ridge),2020,Casablanca (préfectures),Orge,18520.0,2.0,7.827489376068115,False
+mai,Hybride (XGBoost + garde-fou Ridge),2020,El Jadida-Sidi Bennour,Orge,88070.0,4.37,10.670957565307617,False
+mai,Hybride (XGBoost + garde-fou Ridge),2020,Settat-Berrechid,Orge,147430.0,0.1,6.402637004852295,False
+mai,Ridge,2021,Benslimane,Blé dur,15500.0,37.75,24.347040615678598,False
+mai,Ridge,2021,Casablanca (préfectures),Blé dur,1180.0,33.3,27.75006553348426,False
+mai,Ridge,2021,El Jadida-Sidi Bennour,Blé dur,86955.0,30.38,26.137725862092687,False
+mai,Ridge,2021,Settat-Berrechid,Blé dur,128030.0,33.95,22.969571892328823,False
+mai,Ridge,2021,Benslimane,Blé tendre,43700.0,33.78,25.497211766783032,False
+mai,Ridge,2021,Casablanca (préfectures),Blé tendre,12500.0,34.57,28.900236684588695,False
+mai,Ridge,2021,El Jadida-Sidi Bennour,Blé tendre,143465.0,27.39,27.28789701319712,False
+mai,Ridge,2021,Settat-Berrechid,Blé tendre,152920.0,32.07,24.119743043433257,False
+mai,Ridge,2021,Benslimane,Orge,9500.0,28.8,20.83419883071714,False
+mai,Ridge,2021,Casablanca (préfectures),Orge,18850.0,33.5,24.2372237485228,False
+mai,Ridge,2021,El Jadida-Sidi Bennour,Orge,94590.0,25.3,22.624884077131227,False
+mai,Ridge,2021,Settat-Berrechid,Orge,134690.0,29.04,19.456730107367363,False
+mai,XGBoost,2021,Benslimane,Blé dur,15500.0,37.75,27.32818031311035,False
+mai,XGBoost,2021,Casablanca (préfectures),Blé dur,1180.0,33.3,30.48571014404297,False
+mai,XGBoost,2021,El Jadida-Sidi Bennour,Blé dur,86955.0,30.38,24.780372619628906,False
+mai,XGBoost,2021,Settat-Berrechid,Blé dur,128030.0,33.95,25.920820236206055,False
+mai,XGBoost,2021,Benslimane,Blé tendre,43700.0,33.78,29.246349334716797,False
+mai,XGBoost,2021,Casablanca (préfectures),Blé tendre,12500.0,34.57,32.353641510009766,False
+mai,XGBoost,2021,El Jadida-Sidi Bennour,Blé tendre,143465.0,27.39,27.006046295166016,False
+mai,XGBoost,2021,Settat-Berrechid,Blé tendre,152920.0,32.07,27.624982833862305,False
+mai,XGBoost,2021,Benslimane,Orge,9500.0,28.8,23.164268493652344,False
+mai,XGBoost,2021,Casablanca (préfectures),Orge,18850.0,33.5,25.99683952331543,False
+mai,XGBoost,2021,El Jadida-Sidi Bennour,Orge,94590.0,25.3,19.861711502075195,False
+mai,XGBoost,2021,Settat-Berrechid,Orge,134690.0,29.04,22.193662643432617,False
+mai,Hybride (XGBoost + garde-fou Ridge),2021,Benslimane,Blé dur,15500.0,37.75,27.32818031311035,False
+mai,Hybride (XGBoost + garde-fou Ridge),2021,Casablanca (préfectures),Blé dur,1180.0,33.3,30.48571014404297,False
+mai,Hybride (XGBoost + garde-fou Ridge),2021,El Jadida-Sidi Bennour,Blé dur,86955.0,30.38,24.780372619628906,False
+mai,Hybride (XGBoost + garde-fou Ridge),2021,Settat-Berrechid,Blé dur,128030.0,33.95,25.920820236206055,False
+mai,Hybride (XGBoost + garde-fou Ridge),2021,Benslimane,Blé tendre,43700.0,33.78,29.246349334716797,False
+mai,Hybride (XGBoost + garde-fou Ridge),2021,Casablanca (préfectures),Blé tendre,12500.0,34.57,32.353641510009766,False
+mai,Hybride (XGBoost + garde-fou Ridge),2021,El Jadida-Sidi Bennour,Blé tendre,143465.0,27.39,27.006046295166016,False
+mai,Hybride (XGBoost + garde-fou Ridge),2021,Settat-Berrechid,Blé tendre,152920.0,32.07,27.624982833862305,False
+mai,Hybride (XGBoost + garde-fou Ridge),2021,Benslimane,Orge,9500.0,28.8,23.164268493652344,False
+mai,Hybride (XGBoost + garde-fou Ridge),2021,Casablanca (préfectures),Orge,18850.0,33.5,25.99683952331543,False
+mai,Hybride (XGBoost + garde-fou Ridge),2021,El Jadida-Sidi Bennour,Orge,94590.0,25.3,19.861711502075195,False
+mai,Hybride (XGBoost + garde-fou Ridge),2021,Settat-Berrechid,Orge,134690.0,29.04,22.193662643432617,False
+mai,Ridge,2022,Benslimane,Blé dur,18030.0,0.9,12.954282245711838,True
+mai,Ridge,2022,Casablanca (préfectures),Blé dur,1100.0,0.92,12.782659589627745,True
+mai,Ridge,2022,El Jadida-Sidi Bennour,Blé dur,72208.23999999999,4.05,10.65211958053985,True
+mai,Ridge,2022,Settat-Berrechid,Blé dur,139132.37,2.77,8.13685956442032,True
+mai,Ridge,2022,Benslimane,Blé tendre,43250.0,1.22,13.978026538550889,True
+mai,Ridge,2022,Casablanca (préfectures),Blé tendre,12250.0,0.96,13.8064038824668,True
+mai,Ridge,2022,El Jadida-Sidi Bennour,Blé tendre,127924.96,3.57,11.675863873378901,True
+mai,Ridge,2022,Settat-Berrechid,Blé tendre,164209.27,2.67,9.160603857259371,True
+mai,Ridge,2022,Benslimane,Orge,11200.0,0.91,9.17508686979713,True
+mai,Ridge,2022,Casablanca (préfectures),Orge,18600.0,0.94,9.003464213713038,True
+mai,Ridge,2022,El Jadida-Sidi Bennour,Orge,90006.4,1.07,6.872924204625143,True
+mai,Ridge,2022,Settat-Berrechid,Orge,125000.0,2.8,4.357664188505613,True
+mai,XGBoost,2022,Benslimane,Blé dur,18030.0,0.9,15.563055992126465,True
+mai,XGBoost,2022,Casablanca (préfectures),Blé dur,1100.0,0.92,16.95368766784668,True
+mai,XGBoost,2022,El Jadida-Sidi Bennour,Blé dur,72208.23999999999,4.05,8.443282127380371,True
+mai,XGBoost,2022,Settat-Berrechid,Blé dur,139132.37,2.77,9.190777778625488,True
+mai,XGBoost,2022,Benslimane,Blé tendre,43250.0,1.22,15.503997802734375,True
+mai,XGBoost,2022,Casablanca (préfectures),Blé tendre,12250.0,0.96,17.17072296142578,True
+mai,XGBoost,2022,El Jadida-Sidi Bennour,Blé tendre,127924.96,3.57,8.912342071533203,True
+mai,XGBoost,2022,Settat-Berrechid,Blé tendre,164209.27,2.67,9.479085922241211,True
+mai,XGBoost,2022,Benslimane,Orge,11200.0,0.91,13.326814651489258,True
+mai,XGBoost,2022,Casablanca (préfectures),Orge,18600.0,0.94,13.978501319885254,True
+mai,XGBoost,2022,El Jadida-Sidi Bennour,Orge,90006.4,1.07,5.52655029296875,True
+mai,XGBoost,2022,Settat-Berrechid,Orge,125000.0,2.8,7.0388102531433105,True
+mai,Hybride (XGBoost + garde-fou Ridge),2022,Benslimane,Blé dur,18030.0,0.9,12.954282245711838,True
+mai,Hybride (XGBoost + garde-fou Ridge),2022,Casablanca (préfectures),Blé dur,1100.0,0.92,12.782659589627745,True
+mai,Hybride (XGBoost + garde-fou Ridge),2022,El Jadida-Sidi Bennour,Blé dur,72208.23999999999,4.05,10.65211958053985,True
+mai,Hybride (XGBoost + garde-fou Ridge),2022,Settat-Berrechid,Blé dur,139132.37,2.77,8.13685956442032,True
+mai,Hybride (XGBoost + garde-fou Ridge),2022,Benslimane,Blé tendre,43250.0,1.22,13.978026538550889,True
+mai,Hybride (XGBoost + garde-fou Ridge),2022,Casablanca (préfectures),Blé tendre,12250.0,0.96,13.8064038824668,True
+mai,Hybride (XGBoost + garde-fou Ridge),2022,El Jadida-Sidi Bennour,Blé tendre,127924.96,3.57,11.675863873378901,True
+mai,Hybride (XGBoost + garde-fou Ridge),2022,Settat-Berrechid,Blé tendre,164209.27,2.67,9.160603857259371,True
+mai,Hybride (XGBoost + garde-fou Ridge),2022,Benslimane,Orge,11200.0,0.91,9.17508686979713,True
+mai,Hybride (XGBoost + garde-fou Ridge),2022,Casablanca (préfectures),Orge,18600.0,0.94,9.003464213713038,True
+mai,Hybride (XGBoost + garde-fou Ridge),2022,El Jadida-Sidi Bennour,Orge,90006.4,1.07,6.872924204625143,True
+mai,Hybride (XGBoost + garde-fou Ridge),2022,Settat-Berrechid,Orge,125000.0,2.8,4.357664188505613,True
+mai,Ridge,2023,Benslimane,Blé dur,18240.0,11.63,12.000860774741263,False
+mai,Ridge,2023,Casablanca (préfectures),Blé dur,4710.0,17.0,12.402828553720385,False
+mai,Ridge,2023,El Jadida-Sidi Bennour,Blé dur,76199.0,13.34,7.810389384661413,False
+mai,Ridge,2023,Settat-Berrechid,Blé dur,108400.0,9.6,7.662331628971788,False
+mai,Ridge,2023,Benslimane,Blé tendre,43800.0,12.46,13.044816657399734,False
+mai,Ridge,2023,Casablanca (préfectures),Blé tendre,13865.0,11.65,13.446784436378854,False
+mai,Ridge,2023,El Jadida-Sidi Bennour,Blé tendre,128191.0,15.43,8.854345267319884,False
+mai,Ridge,2023,Settat-Berrechid,Blé tendre,151000.0,10.74,8.706287511630258,False
+mai,Ridge,2023,Benslimane,Orge,10650.0,13.69,8.307627684761403,False
+mai,Ridge,2023,Casablanca (préfectures),Orge,29120.0,10.39,8.709595463740524,False
+mai,Ridge,2023,El Jadida-Sidi Bennour,Orge,86450.0,10.47,4.117156294681553,False
+mai,Ridge,2023,Settat-Berrechid,Orge,143000.0,9.05,3.969098538991929,False
+mai,XGBoost,2023,Benslimane,Blé dur,18240.0,11.63,4.513728618621826,False
+mai,XGBoost,2023,Casablanca (préfectures),Blé dur,4710.0,17.0,3.571723222732544,False
+mai,XGBoost,2023,El Jadida-Sidi Bennour,Blé dur,76199.0,13.34,15.065457344055176,False
+mai,XGBoost,2023,Settat-Berrechid,Blé dur,108400.0,9.6,10.160417556762695,False
+mai,XGBoost,2023,Benslimane,Blé tendre,43800.0,12.46,4.922844886779785,False
+mai,XGBoost,2023,Casablanca (préfectures),Blé tendre,13865.0,11.65,3.8996291160583496,False
+mai,XGBoost,2023,El Jadida-Sidi Bennour,Blé tendre,128191.0,15.43,15.541462898254395,False
+mai,XGBoost,2023,Settat-Berrechid,Blé tendre,151000.0,10.74,10.398414611816406,False
+mai,XGBoost,2023,Benslimane,Orge,10650.0,13.69,1.9487332105636597,False
+mai,XGBoost,2023,Casablanca (préfectures),Orge,29120.0,10.39,0.783818781375885,False
+mai,XGBoost,2023,El Jadida-Sidi Bennour,Orge,86450.0,10.47,10.55765438079834,False
+mai,XGBoost,2023,Settat-Berrechid,Orge,143000.0,9.05,7.7024922370910645,False
+mai,Hybride (XGBoost + garde-fou Ridge),2023,Benslimane,Blé dur,18240.0,11.63,4.513728618621826,False
+mai,Hybride (XGBoost + garde-fou Ridge),2023,Casablanca (préfectures),Blé dur,4710.0,17.0,3.571723222732544,False
+mai,Hybride (XGBoost + garde-fou Ridge),2023,El Jadida-Sidi Bennour,Blé dur,76199.0,13.34,15.065457344055176,False
+mai,Hybride (XGBoost + garde-fou Ridge),2023,Settat-Berrechid,Blé dur,108400.0,9.6,10.160417556762695,False
+mai,Hybride (XGBoost + garde-fou Ridge),2023,Benslimane,Blé tendre,43800.0,12.46,4.922844886779785,False
+mai,Hybride (XGBoost + garde-fou Ridge),2023,Casablanca (préfectures),Blé tendre,13865.0,11.65,3.8996291160583496,False
+mai,Hybride (XGBoost + garde-fou Ridge),2023,El Jadida-Sidi Bennour,Blé tendre,128191.0,15.43,15.541462898254395,False
+mai,Hybride (XGBoost + garde-fou Ridge),2023,Settat-Berrechid,Blé tendre,151000.0,10.74,10.398414611816406,False
+mai,Hybride (XGBoost + garde-fou Ridge),2023,Benslimane,Orge,10650.0,13.69,1.9487332105636597,False
+mai,Hybride (XGBoost + garde-fou Ridge),2023,Casablanca (préfectures),Orge,29120.0,10.39,0.783818781375885,False
+mai,Hybride (XGBoost + garde-fou Ridge),2023,El Jadida-Sidi Bennour,Orge,86450.0,10.47,10.55765438079834,False
+mai,Hybride (XGBoost + garde-fou Ridge),2023,Settat-Berrechid,Orge,143000.0,9.05,7.7024922370910645,False

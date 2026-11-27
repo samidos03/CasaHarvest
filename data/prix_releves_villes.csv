@@ -1,0 +1,45 @@
+﻿date_releve,ville,produit,type_prix,prix_min_DH_kg,prix_max_DH_kg,source,reference,prix_moyen_DH_kg
+2025-12-30,Agadir,Courgette,détail (hypermarché),14.0,15.95,LesEco,leseco.ma (02/01/2026) Fruits et Légumes : le froid bouscule la production,14.98
+2025-12-30,Agadir,Oignon sec,détail (hypermarché),10.5,10.5,LesEco,leseco.ma (02/01/2026) Fruits et Légumes : le froid bouscule la production,10.5
+2026-03-25,Agadir,Oignon sec,détail,,18.0,Consonews,consonews.ma (26/03/2026) Marchés d'Agadir : l'oignon espagnol,
+2025-12-30,Agadir,Poivron,détail (hypermarché),7.95,9.95,LesEco,leseco.ma (02/01/2026) Fruits et Légumes : le froid bouscule la production,8.95
+2025-12-30,Agadir,Pomme de terre,détail (hypermarché),6.95,10.95,LesEco,leseco.ma (02/01/2026) Fruits et Légumes : le froid bouscule la production,8.95
+2025-12-30,Agadir,Tomate,détail (hypermarché),7.96,7.96,LesEco,leseco.ma (02/01/2026) Fruits et Légumes : le froid bouscule la production,7.96
+2026-11-01,Agadir,Tomate,détail,15.0,,Hibapress,fr.hibapress.com (02/11/2026) Agadir.. Les prix de la tomate dépassent 15 dirhams,
+2022-03-14,Agadir (Inezgane),Tomate,gros,,5.0,Consonews,consonews.ma (21/03/2022) Flambée des prix de la tomate,
+2026-11-07,Agadir (Inezgane),Tomate,gros,6.7,6.7,Hespress FR via AgriMaroc,agrimaroc.ma (11/11/2026) Tomate : l'export vers l'Afrique gelé,6.7
+2025-12-30,Casablanca,Courgette,détail (hypermarché),16.95,16.95,LesEco,leseco.ma (02/01/2026) Fruits et Légumes : le froid bouscule la production,16.95
+2025-12-30,Casablanca,Oignon sec,détail (hypermarché),10.5,10.5,LesEco,leseco.ma (02/01/2026) Fruits et Légumes : le froid bouscule la production,10.5
+2025-12-30,Casablanca,Poivron,détail (hypermarché),19.95,19.95,LesEco,leseco.ma (02/01/2026) Fruits et Légumes : le froid bouscule la production,19.95
+2018-04-17,Casablanca,Tomate,gros,,2.5,ASAAR via La Vie éco,lavieeco.com (20/04/2018) Tomates : les prix au plus bas,
+2019-05-07,Casablanca,Tomate,gros,4.33,4.33,Ministère de l'Agriculture via LesEco/La Vie éco,https://leseco.ma (09/05/2019) Hausse du prix de l'oignon. Les explications du ministère,4.33
+2022-03-14,Casablanca,Tomate,détail,12.0,13.0,Consonews,consonews.ma (21/03/2022) Flambée des prix de la tomate,12.5
+2025-12-30,Casablanca,Tomate,détail (hypermarché),7.96,7.96,LesEco,leseco.ma (02/01/2026) Fruits et Légumes : le froid bouscule la production,7.96
+2018-04-17,Fès,Tomate,gros,1.5,1.5,ASAAR via La Vie éco,lavieeco.com (20/04/2018) Tomates : les prix au plus bas,1.5
+2019-05-07,Fès,Tomate,gros,3.4,3.4,Ministère de l'Agriculture via LesEco/La Vie éco,https://leseco.ma (09/05/2019) Hausse du prix de l'oignon. Les explications du ministère,3.4
+2019-11-13,Marrakech,Concombre,gros,,5.0,Al Massae via H24info,h24info.ma (14/11/2019) Flambée des prix des fruits et légumes,
+2019-11-13,Marrakech,Haricot vert,gros,12.0,14.0,Al Massae via H24info,h24info.ma (14/11/2019) Flambée des prix des fruits et légumes,13.0
+2019-11-13,Marrakech,Oignon sec,gros,,5.0,Al Massae via H24info,h24info.ma (14/11/2019) Flambée des prix des fruits et légumes,
+2024-03-11,Marrakech,Oignon sec,détail,,8.0,Wilaya Marrakech-Safi via La Vie éco,lavieeco.com (12/03/2024) Ramadan : Dans les marchés à Marrakech,
+2019-11-13,Marrakech,Petit pois,gros,13.0,15.0,Al Massae via H24info,h24info.ma (14/11/2019) Flambée des prix des fruits et légumes,14.0
+2019-11-13,Marrakech,Pomme de terre,gros,,6.0,Al Massae via H24info,h24info.ma (14/11/2019) Flambée des prix des fruits et légumes,
+2018-04-17,Marrakech,Tomate,gros,,2.5,ASAAR via La Vie éco,lavieeco.com (20/04/2018) Tomates : les prix au plus bas,
+2019-05-07,Marrakech,Tomate,gros,3.5,3.5,Ministère de l'Agriculture via LesEco/La Vie éco,https://leseco.ma (09/05/2019) Hausse du prix de l'oignon. Les explications du ministère,3.5
+2019-11-13,Marrakech,Tomate,gros,,5.0,Al Massae via H24info,h24info.ma (14/11/2019) Flambée des prix des fruits et légumes,
+2024-03-11,Marrakech,Tomate,détail,,5.0,Wilaya Marrakech-Safi via La Vie éco,lavieeco.com (12/03/2024) Ramadan : Dans les marchés à Marrakech,
+2026-10-28,Meknès,Tomate,gros,,8.0,Hespress via Consonews,consonews.ma (30/10/2026) Tomate: le prix de détail atteint 11 DH,
+2026-10-28,Meknès,Tomate,détail,10.0,11.0,Hespress via Consonews,consonews.ma (30/10/2026) Tomate: le prix de détail atteint 11 DH,10.5
+2018-04-17,Oujda,Tomate,gros,,2.5,ASAAR via La Vie éco,lavieeco.com (20/04/2018) Tomates : les prix au plus bas,
+2019-05-07,Oujda,Tomate,gros,3.5,3.5,Ministère de l'Agriculture via LesEco/La Vie éco,https://leseco.ma (09/05/2019) Hausse du prix de l'oignon. Les explications du ministère,3.5
+2026-11-01,Rabat,Oignon sec,détail,7.0,10.0,Hibapress,fr.hibapress.com (02/11/2026) Les tomates dépassent 15 dirhams,8.5
+2026-11-01,Rabat,Poivron,détail,7.0,10.0,Hibapress,fr.hibapress.com (02/11/2026) Les tomates dépassent 15 dirhams,8.5
+2026-11-01,Rabat,Pomme de terre,détail,7.0,10.0,Hibapress,fr.hibapress.com (02/11/2026) Les tomates dépassent 15 dirhams,8.5
+2018-04-17,Rabat,Tomate,gros,,2.5,ASAAR via La Vie éco,lavieeco.com (20/04/2018) Tomates : les prix au plus bas,
+2019-05-07,Rabat,Tomate,gros,3.5,3.5,Ministère de l'Agriculture via LesEco/La Vie éco,https://leseco.ma (09/05/2019) Hausse du prix de l'oignon. Les explications du ministère,3.5
+2022-03-14,Rabat,Tomate,détail,12.0,13.0,Consonews,consonews.ma (21/03/2022) Flambée des prix de la tomate,12.5
+2026-04-08,Rabat,Tomate,détail,14.0,14.0,H24info / Consonews,h24info.ma (16/04/2026) Tomates: le Maroc freine les exportations,14.0
+2026-04-15,Rabat,Tomate,détail,11.0,11.0,H24info / Consonews,h24info.ma (16/04/2026) Tomates: le Maroc freine les exportations,11.0
+2026-11-01,Rabat,Tomate,détail,15.0,,Hibapress,fr.hibapress.com (02/11/2026) Les tomates dépassent 15 dirhams,
+2026-11-07,Rabat,Tomate,détail,13.0,15.0,Hespress FR via AgriMaroc,agrimaroc.ma (11/11/2026) Tomate : l'export vers l'Afrique gelé,14.0
+2018-04-17,Tanger,Tomate,gros,,2.5,ASAAR via La Vie éco,lavieeco.com (20/04/2018) Tomates : les prix au plus bas,
+2019-05-07,Tanger,Tomate,gros,4.0,4.0,Ministère de l'Agriculture via LesEco/La Vie éco,https://leseco.ma (09/05/2019) Hausse du prix de l'oignon. Les explications du ministère,4.0

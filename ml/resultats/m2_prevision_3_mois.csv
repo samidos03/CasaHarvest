@@ -1,0 +1,13 @@
+﻿zone,dernier_mois_connu,mois_prevu,horizon_mois,spi3_prevu,classe,alerte_secheresse,fiabilite
+Benslimane,2026-09,2026-10,1,-0.14,normal,non,bonne
+Casablanca (préfectures),2026-09,2026-10,1,-0.21,normal,non,bonne
+El Jadida-Sidi Bennour,2026-09,2026-10,1,-0.22,normal,non,bonne
+Settat-Berrechid,2026-09,2026-10,1,-0.1,normal,non,bonne
+Benslimane,2026-09,2026-11,2,-0.41,normal,non,faible
+Casablanca (préfectures),2026-09,2026-11,2,-0.37,normal,non,faible
+El Jadida-Sidi Bennour,2026-09,2026-11,2,-0.44,normal,non,faible
+Settat-Berrechid,2026-09,2026-11,2,-0.23,normal,non,faible
+Benslimane,2026-09,2026-12,3,-0.43,normal,non,très faible (indicatif)
+Casablanca (préfectures),2026-09,2026-12,3,-0.35,normal,non,très faible (indicatif)
+El Jadida-Sidi Bennour,2026-09,2026-12,3,-0.35,normal,non,très faible (indicatif)
+Settat-Berrechid,2026-09,2026-12,3,-0.31,normal,non,très faible (indicatif)

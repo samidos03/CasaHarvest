@@ -1,0 +1,512 @@
+﻿zone,campagne,culture,surface_ha,production_t,rendement_qx_ha,nb_provinces
+El Jadida-Sidi Bennour,2010,Betterave sucrière,18200.0,1090180.0,599.0,1.0
+El Jadida-Sidi Bennour,2011,Betterave sucrière,16500.0,1174600.0,711.88,1.0
+El Jadida-Sidi Bennour,2012,Betterave sucrière,800.0,53720.0,671.5,1.0
+El Jadida-Sidi Bennour,2014,Betterave sucrière,15800.0,1110038.0,702.56,2.0
+El Jadida-Sidi Bennour,2015,Betterave sucrière,18100.0,1294920.0,715.43,2.0
+El Jadida-Sidi Bennour,2016,Betterave sucrière,18500.0,1603990.0,867.02,2.0
+El Jadida-Sidi Bennour,2017,Betterave sucrière,17200.0,1471880.0,855.74,2.0
+El Jadida-Sidi Bennour,2018,Betterave sucrière,18100.0,1580251.0,873.07,2.0
+El Jadida-Sidi Bennour,2019,Betterave sucrière,17784.0,1587532.0,892.67,2.0
+El Jadida-Sidi Bennour,2020,Betterave sucrière,16541.0,1175416.0,710.61,2.0
+El Jadida-Sidi Bennour,2021,Betterave sucrière,10283.0,752750.0,732.03,2.0
+El Jadida-Sidi Bennour,2022,Betterave sucrière,13446.0,836114.0,621.83,2.0
+El Jadida-Sidi Bennour,2023,Betterave sucrière,10722.0,607346.0,566.45,2.0
+Région Casablanca-Settat,2010,Betterave sucrière,18200.0,1090180.0,599.0,
+Région Casablanca-Settat,2011,Betterave sucrière,16500.0,1174600.0,711.88,
+Région Casablanca-Settat,2012,Betterave sucrière,800.0,53720.0,671.5,
+Région Casablanca-Settat,2014,Betterave sucrière,15800.0,1110038.0,702.56,
+Région Casablanca-Settat,2015,Betterave sucrière,18100.0,1294920.0,715.43,
+Région Casablanca-Settat,2016,Betterave sucrière,18500.0,1603990.0,867.02,
+Région Casablanca-Settat,2017,Betterave sucrière,17200.0,1471880.0,855.74,
+Région Casablanca-Settat,2018,Betterave sucrière,18100.0,1580251.0,873.07,
+Région Casablanca-Settat,2019,Betterave sucrière,17784.0,1587532.0,892.67,
+Région Casablanca-Settat,2020,Betterave sucrière,16541.0,1175416.0,710.61,
+Région Casablanca-Settat,2021,Betterave sucrière,10283.0,752750.0,732.03,
+Région Casablanca-Settat,2022,Betterave sucrière,13446.0,836114.0,621.83,
+Région Casablanca-Settat,2023,Betterave sucrière,10722.0,607346.0,566.45,
+Benslimane,2010,Blé dur,23800.0,60840.0,25.56,1.0
+Benslimane,2011,Blé dur,25000.0,76500.0,30.6,1.0
+Benslimane,2012,Blé dur,22400.0,18180.0,8.12,1.0
+Benslimane,2013,Blé dur,22000.0,62460.0,28.39,1.0
+Benslimane,2014,Blé dur,22200.0,51603.83,23.24,1.0
+Benslimane,2015,Blé dur,22600.0,73535.88,32.54,1.0
+Benslimane,2016,Blé dur,16914.0,19886.8,11.76,1.0
+Benslimane,2017,Blé dur,22000.0,58608.0,26.64,1.0
+Benslimane,2018,Blé dur,18900.0,52920.0,28.0,1.0
+Benslimane,2020,Blé dur,20000.0,3400.0,1.7,1.0
+Benslimane,2021,Blé dur,15500.0,58508.6,37.75,1.0
+Benslimane,2022,Blé dur,18030.0,1622.7,0.9,1.0
+Benslimane,2023,Blé dur,18240.0,21210.77,11.63,1.0
+Casablanca (préfectures),2010,Blé dur,3100.0,6100.0,19.68,1.0
+Casablanca (préfectures),2011,Blé dur,1900.0,4560.0,24.0,1.0
+Casablanca (préfectures),2012,Blé dur,1600.0,1520.0,9.5,1.0
+Casablanca (préfectures),2013,Blé dur,2300.0,6130.0,26.65,1.0
+Casablanca (préfectures),2014,Blé dur,1392.0,3315.16,23.82,1.0
+Casablanca (préfectures),2015,Blé dur,2626.0,7090.2,27.0,1.0
+Casablanca (préfectures),2016,Blé dur,1832.0,4498.1,24.55,1.0
+Casablanca (préfectures),2017,Blé dur,1700.0,4012.0,23.6,1.0
+Casablanca (préfectures),2018,Blé dur,2000.0,6120.0,30.6,1.0
+Casablanca (préfectures),2019,Blé dur,1404.0,1375.92,9.8,1.0
+Casablanca (préfectures),2020,Blé dur,1180.0,236.0,2.0,1.0
+Casablanca (préfectures),2021,Blé dur,1180.0,3928.8999999999996,33.3,3.0
+Casablanca (préfectures),2022,Blé dur,1100.0,101.2,0.92,3.0
+Casablanca (préfectures),2023,Blé dur,4710.0,8005.929999999999,17.0,3.0
+El Jadida-Sidi Bennour,2010,Blé dur,787000.0,191270.0,2.43,1.0
+El Jadida-Sidi Bennour,2011,Blé dur,92400.0,238670.0,25.83,1.0
+El Jadida-Sidi Bennour,2012,Blé dur,98400.0,135430.0,13.76,2.0
+El Jadida-Sidi Bennour,2013,Blé dur,93700.0,264980.0,28.28,2.0
+El Jadida-Sidi Bennour,2014,Blé dur,91035.0,153951.18,16.91,1.0
+El Jadida-Sidi Bennour,2015,Blé dur,90700.0,334423.52,36.87,2.0
+El Jadida-Sidi Bennour,2016,Blé dur,76481.0,115286.0,15.07,1.0
+El Jadida-Sidi Bennour,2017,Blé dur,93000.0,282956.0,30.43,2.0
+El Jadida-Sidi Bennour,2018,Blé dur,81400.0,282970.0,34.76,2.0
+El Jadida-Sidi Bennour,2019,Blé dur,92336.4,153829.65,16.66,2.0
+El Jadida-Sidi Bennour,2020,Blé dur,89490.0,73904.4,8.26,2.0
+El Jadida-Sidi Bennour,2021,Blé dur,86955.0,264207.7,30.38,2.0
+El Jadida-Sidi Bennour,2022,Blé dur,72208.23999999999,29258.76,4.05,2.0
+El Jadida-Sidi Bennour,2023,Blé dur,76199.0,101642.6,13.34,2.0
+Région Casablanca-Settat,2010,Blé dur,938900.0,465490.0,4.96,
+Région Casablanca-Settat,2011,Blé dur,248000.0,618310.0,24.93,
+Région Casablanca-Settat,2012,Blé dur,244200.0,251050.0,10.28,
+Région Casablanca-Settat,2013,Blé dur,237600.0,596880.0,25.12,
+Région Casablanca-Settat,2014,Blé dur,227377.0,310713.54,13.67,
+Région Casablanca-Settat,2015,Blé dur,232126.0,718903.52,30.97,
+Région Casablanca-Settat,2016,Blé dur,161903.0,186394.3,11.51,
+Région Casablanca-Settat,2017,Blé dur,230200.0,605982.0,26.32,
+Région Casablanca-Settat,2018,Blé dur,221400.0,741550.0,33.49,
+Région Casablanca-Settat,2019,Blé dur,178276.8,224454.75,12.59,
+Région Casablanca-Settat,2020,Blé dur,254970.0,83260.4,3.27,
+Région Casablanca-Settat,2021,Blé dur,231665.0,761260.9,32.86,
+Région Casablanca-Settat,2022,Blé dur,230470.61,69545.47,3.02,
+Région Casablanca-Settat,2023,Blé dur,207549.0,234915.16,11.32,
+Settat-Berrechid,2010,Blé dur,125000.0,207280.0,16.58,1.0
+Settat-Berrechid,2011,Blé dur,128700.0,298580.0,23.2,1.0
+Settat-Berrechid,2012,Blé dur,121800.0,95920.0,7.88,2.0
+Settat-Berrechid,2013,Blé dur,119600.0,263310.0,22.02,2.0
+Settat-Berrechid,2014,Blé dur,112750.0,101843.37,9.03,2.0
+Settat-Berrechid,2015,Blé dur,116200.0,303853.92,26.15,2.0
+Settat-Berrechid,2016,Blé dur,66676.0,46723.4,7.01,1.0
+Settat-Berrechid,2017,Blé dur,113500.0,260406.0,22.94,2.0
+Settat-Berrechid,2018,Blé dur,119100.0,399540.0,33.55,2.0
+Settat-Berrechid,2019,Blé dur,84536.4,69249.18,8.19,2.0
+Settat-Berrechid,2020,Blé dur,144300.0,5720.0,0.4,2.0
+Settat-Berrechid,2021,Blé dur,128030.0,434615.7,33.95,2.0
+Settat-Berrechid,2022,Blé dur,139132.37,38562.81,2.77,2.0
+Settat-Berrechid,2023,Blé dur,108400.0,104055.86,9.6,2.0
+Benslimane,2010,Blé tendre,48000.0,117690.0,24.52,1.0
+Benslimane,2011,Blé tendre,48000.0,169920.0,35.4,1.0
+Benslimane,2012,Blé tendre,48500.0,44860.0,9.25,1.0
+Benslimane,2013,Blé tendre,49000.0,152080.0,31.04,1.0
+Benslimane,2014,Blé tendre,51000.0,118041.16,23.15,1.0
+Benslimane,2015,Blé tendre,51500.0,182572.65,35.45,1.0
+Benslimane,2016,Blé tendre,48900.0,40770.0,8.34,1.0
+Benslimane,2017,Blé tendre,48000.0,130944.0,27.28,1.0
+Benslimane,2018,Blé tendre,43200.0,153610.0,35.56,1.0
+Benslimane,2019,Blé tendre,42799.9,33597.92,7.85,1.0
+Benslimane,2020,Blé tendre,45400.0,9624.8,2.12,1.0
+Benslimane,2021,Blé tendre,43700.0,147613.4,33.78,1.0
+Benslimane,2022,Blé tendre,43250.0,5295.64,1.22,1.0
+Benslimane,2023,Blé tendre,43800.0,54587.08,12.46,1.0
+Casablanca (préfectures),2010,Blé tendre,16700.0,33720.0,20.19,1.0
+Casablanca (préfectures),2011,Blé tendre,17100.0,47880.0,28.0,1.0
+Casablanca (préfectures),2012,Blé tendre,16200.0,14580.0,9.0,1.0
+Casablanca (préfectures),2013,Blé tendre,11800.0,37080.0,31.42,1.0
+Casablanca (préfectures),2014,Blé tendre,13575.0,31824.18,23.44,1.0
+Casablanca (préfectures),2015,Blé tendre,11042.0,30917.6,28.0,1.0
+Casablanca (préfectures),2016,Blé tendre,9300.0,13740.0,14.77,1.0
+Casablanca (préfectures),2017,Blé tendre,13600.0,36992.0,27.2,1.0
+Casablanca (préfectures),2018,Blé tendre,9500.0,28220.0,29.71,1.0
+Casablanca (préfectures),2019,Blé tendre,11875.5,44414.37,37.4,1.0
+Casablanca (préfectures),2020,Blé tendre,11900.0,1320.9,1.11,1.0
+Casablanca (préfectures),2021,Blé tendre,12500.0,43211.0,34.57,3.0
+Casablanca (préfectures),2022,Blé tendre,12250.0,1170.85,0.96,3.0
+Casablanca (préfectures),2023,Blé tendre,13865.0,16152.4,11.65,2.0
+El Jadida-Sidi Bennour,2010,Blé tendre,94300.0,217080.0,23.02,1.0
+El Jadida-Sidi Bennour,2011,Blé tendre,147200.0,350730.0,23.83,1.0
+El Jadida-Sidi Bennour,2012,Blé tendre,157600.0,216000.0,13.71,2.0
+El Jadida-Sidi Bennour,2013,Blé tendre,162500.0,427170.0,26.29,2.0
+El Jadida-Sidi Bennour,2014,Blé tendre,145500.0,278957.91,19.17,1.0
+El Jadida-Sidi Bennour,2015,Blé tendre,150500.0,508933.77999999997,33.82,2.0
+El Jadida-Sidi Bennour,2016,Blé tendre,128900.0,204080.0,15.83,1.0
+El Jadida-Sidi Bennour,2017,Blé tendre,151800.0,474885.0,31.28,2.0
+El Jadida-Sidi Bennour,2018,Blé tendre,133700.0,456030.0,34.11,2.0
+El Jadida-Sidi Bennour,2019,Blé tendre,168773.8,225079.79,13.34,2.0
+El Jadida-Sidi Bennour,2020,Blé tendre,145310.0,121552.5,8.37,2.0
+El Jadida-Sidi Bennour,2021,Blé tendre,143465.0,392955.8,27.39,2.0
+El Jadida-Sidi Bennour,2022,Blé tendre,127924.96,45727.68,3.57,2.0
+El Jadida-Sidi Bennour,2023,Blé tendre,128191.0,197764.53,15.43,2.0
+Région Casablanca-Settat,2010,Blé tendre,312000.0,606800.0,19.45,
+Région Casablanca-Settat,2011,Blé tendre,377700.0,998570.0,26.44,
+Région Casablanca-Settat,2012,Blé tendre,398500.0,415980.0,10.44,
+Région Casablanca-Settat,2013,Blé tendre,401400.0,1088230.0,27.11,
+Région Casablanca-Settat,2014,Blé tendre,371125.0,601947.95,16.22,
+Région Casablanca-Settat,2015,Blé tendre,378042.0,1232298.47,32.6,
+Région Casablanca-Settat,2016,Blé tendre,290900.0,312180.0,10.73,
+Région Casablanca-Settat,2017,Blé tendre,383400.0,1113101.0,29.03,
+Région Casablanca-Settat,2018,Blé tendre,353400.0,1287480.0,36.43,
+Région Casablanca-Settat,2019,Blé tendre,315723.19999999995,378229.48,11.98,
+Région Casablanca-Settat,2020,Blé tendre,367120.0,145401.9,3.96,
+Région Casablanca-Settat,2021,Blé tendre,352585.0,1074242.6,30.47,
+Région Casablanca-Settat,2022,Blé tendre,347634.23,96069.32,2.76,
+Région Casablanca-Settat,2023,Blé tendre,336856.0,430721.48,12.79,
+Settat-Berrechid,2010,Blé tendre,153000.0,238310.0,15.58,1.0
+Settat-Berrechid,2011,Blé tendre,165400.0,430040.0,26.0,1.0
+Settat-Berrechid,2012,Blé tendre,176200.0,140540.0,7.98,2.0
+Settat-Berrechid,2013,Blé tendre,178100.0,471900.0,26.5,2.0
+Settat-Berrechid,2014,Blé tendre,161050.0,173124.7,10.75,2.0
+Settat-Berrechid,2015,Blé tendre,165000.0,509874.44000000006,30.9,2.0
+Settat-Berrechid,2016,Blé tendre,103800.0,53590.0,5.16,1.0
+Settat-Berrechid,2017,Blé tendre,170000.0,470280.0,27.66,2.0
+Settat-Berrechid,2018,Blé tendre,167000.0,649620.0,38.9,2.0
+Settat-Berrechid,2019,Blé tendre,92274.0,75137.4,8.14,2.0
+Settat-Berrechid,2020,Blé tendre,164510.0,12903.7,0.78,2.0
+Settat-Berrechid,2021,Blé tendre,152920.0,490462.39999999997,32.07,2.0
+Settat-Berrechid,2022,Blé tendre,164209.27,43875.15,2.67,2.0
+Settat-Berrechid,2023,Blé tendre,151000.0,162217.47,10.74,2.0
+Benslimane,2010,Fève,3800.0,4070.0,10.71,1.0
+Benslimane,2011,Fève,3500.0,3150.0,9.0,1.0
+Benslimane,2012,Fève,3900.0,850.0,2.18,1.0
+Benslimane,2014,Fève,3300.0,2145.0,6.5,1.0
+Benslimane,2015,Fève,3700.0,3330.0,9.0,1.0
+Benslimane,2016,Fève,1300.0,180.0,1.38,1.0
+Benslimane,2017,Fève,2600.0,1300.0,5.0,1.0
+Benslimane,2018,Fève,2100.0,1770.0,8.43,1.0
+Benslimane,2019,Fève,2260.0,1130.0,5.0,1.0
+Benslimane,2021,Fève,2000.0,1500.0,7.5,1.0
+Benslimane,2022,Fève,2000.0,67.0,0.34,1.0
+Benslimane,2023,Fève,1800.0,108.0,0.6,1.0
+Casablanca (préfectures),2010,Fève,700.0,600.0,8.57,1.0
+Casablanca (préfectures),2011,Fève,500.0,160.0,3.2,1.0
+Casablanca (préfectures),2012,Fève,500.0,150.0,3.0,1.0
+Casablanca (préfectures),2014,Fève,400.0,240.0,6.0,1.0
+Casablanca (préfectures),2015,Fève,220.0,198.0,9.0,1.0
+Casablanca (préfectures),2016,Fève,450.0,181.5,4.03,4.0
+Casablanca (préfectures),2017,Fève,250.0,25.0,1.0,1.0
+Casablanca (préfectures),2018,Fève,200.0,200.0,10.0,1.0
+Casablanca (préfectures),2019,Fève,200.0,30.0,1.5,1.0
+Casablanca (préfectures),2021,Fève,650.0,850.0,13.08,3.0
+Casablanca (préfectures),2023,Fève,680.0,336.5,4.95,3.0
+El Jadida-Sidi Bennour,2010,Fève,9700.0,9520.0,9.81,1.0
+El Jadida-Sidi Bennour,2011,Fève,7900.0,12560.0,15.9,1.0
+El Jadida-Sidi Bennour,2012,Fève,3300.0,1140.0,3.45,2.0
+El Jadida-Sidi Bennour,2014,Fève,4417.0,3435.3,7.78,2.0
+El Jadida-Sidi Bennour,2015,Fève,4461.0,4786.0,10.73,2.0
+El Jadida-Sidi Bennour,2016,Fève,3900.0,4200.0,10.77,2.0
+El Jadida-Sidi Bennour,2017,Fève,5473.0,3613.0,6.6,2.0
+El Jadida-Sidi Bennour,2018,Fève,7700.0,8780.0,11.4,2.0
+El Jadida-Sidi Bennour,2019,Fève,5010.0,3112.8,6.21,2.0
+El Jadida-Sidi Bennour,2020,Fève,4661.0,685.25,1.47,2.0
+El Jadida-Sidi Bennour,2021,Fève,6735.0,4057.5,6.02,2.0
+El Jadida-Sidi Bennour,2022,Fève,2692.0,1630.0,6.05,2.0
+El Jadida-Sidi Bennour,2023,Fève,3287.0,1222.6,3.72,2.0
+Région Casablanca-Settat,2010,Fève,20900.0,19890.0,9.52,
+Région Casablanca-Settat,2011,Fève,22600.0,28710.0,12.7,
+Région Casablanca-Settat,2012,Fève,19000.0,3270.0,1.72,
+Région Casablanca-Settat,2014,Fève,16637.0,7524.3,4.52,
+Région Casablanca-Settat,2015,Fève,17831.0,18844.0,10.57,
+Région Casablanca-Settat,2016,Fève,7850.0,7170.5,9.13,
+Région Casablanca-Settat,2017,Fève,16323.0,11513.0,7.05,
+Région Casablanca-Settat,2018,Fève,19100.0,17130.0,8.97,
+Région Casablanca-Settat,2019,Fève,11778.0,4932.8,4.19,
+Région Casablanca-Settat,2020,Fève,5461.0,705.25,1.29,
+Région Casablanca-Settat,2021,Fève,12500.0,9055.2,7.24,
+Région Casablanca-Settat,2022,Fève,8392.0,2437.0,2.9,
+Région Casablanca-Settat,2023,Fève,9967.0,1817.1499999999999,1.82,
+Settat-Berrechid,2010,Fève,6700.0,5700.0,8.51,1.0
+Settat-Berrechid,2011,Fève,10700.0,12840.0,12.0,1.0
+Settat-Berrechid,2012,Fève,11300.0,1130.0,1.0,2.0
+Settat-Berrechid,2014,Fève,8520.0,1704.0,2.0,2.0
+Settat-Berrechid,2015,Fève,9450.0,10530.0,11.14,2.0
+Settat-Berrechid,2016,Fève,2200.0,2609.0,11.86,2.0
+Settat-Berrechid,2017,Fève,8000.0,6575.0,8.22,2.0
+Settat-Berrechid,2018,Fève,9100.0,6380.0,7.01,2.0
+Settat-Berrechid,2019,Fève,4308.0,660.0,1.53,2.0
+Settat-Berrechid,2020,Fève,800.0,20.0,0.25,1.0
+Settat-Berrechid,2021,Fève,3115.0,2647.7,8.5,1.0
+Settat-Berrechid,2022,Fève,3700.0,740.0,2.0,2.0
+Settat-Berrechid,2023,Fève,4200.0,150.05,0.36,2.0
+Benslimane,2010,Lentille,2500.0,1880.0,7.52,1.0
+Benslimane,2011,Lentille,2400.0,2400.0,10.0,1.0
+Benslimane,2012,Lentille,2500.0,590.0,2.36,1.0
+Benslimane,2014,Lentille,2000.0,1000.0,5.0,1.0
+Benslimane,2015,Lentille,2000.0,1800.0,9.0,1.0
+Benslimane,2016,Lentille,1900.0,900.0,4.74,1.0
+Benslimane,2017,Lentille,2200.0,1320.0,6.0,1.0
+Benslimane,2018,Lentille,1300.0,1100.0,8.46,1.0
+Benslimane,2019,Lentille,1885.0,7540.0,40.0,1.0
+Benslimane,2020,Lentille,1200.0,54.0,0.45,1.0
+Benslimane,2021,Lentille,1600.0,1440.0,9.0,1.0
+Benslimane,2022,Lentille,1300.0,118.0,0.91,1.0
+Benslimane,2023,Lentille,1200.0,70.2,0.59,1.0
+El Jadida-Sidi Bennour,2010,Lentille,800.0,990.0,12.38,1.0
+El Jadida-Sidi Bennour,2011,Lentille,500.0,450.0,9.0,1.0
+El Jadida-Sidi Bennour,2012,Lentille,2000.0,2820.0,14.1,2.0
+El Jadida-Sidi Bennour,2014,Lentille,200.0,85.0,4.25,2.0
+El Jadida-Sidi Bennour,2015,Lentille,240.0,200.0,8.33,2.0
+El Jadida-Sidi Bennour,2016,Lentille,100.0,70.0,7.0,1.0
+El Jadida-Sidi Bennour,2017,Lentille,153.0,103.0,6.73,1.0
+El Jadida-Sidi Bennour,2018,Lentille,200.0,230.0,11.5,1.0
+El Jadida-Sidi Bennour,2019,Lentille,250.0,122.4,4.9,2.0
+El Jadida-Sidi Bennour,2020,Lentille,445.0,73.8,1.66,2.0
+El Jadida-Sidi Bennour,2021,Lentille,900.0,540.0,6.0,2.0
+El Jadida-Sidi Bennour,2022,Lentille,373.0,190.0,5.09,2.0
+El Jadida-Sidi Bennour,2023,Lentille,505.0,110.0,2.18,2.0
+Région Casablanca-Settat,2010,Lentille,17300.0,14210.0,8.21,
+Région Casablanca-Settat,2011,Lentille,17900.0,17850.0,9.97,
+Région Casablanca-Settat,2012,Lentille,23200.0,7140.0,3.08,
+Région Casablanca-Settat,2014,Lentille,19900.0,8565.0,4.3,
+Région Casablanca-Settat,2015,Lentille,21640.0,25280.0,11.68,
+Région Casablanca-Settat,2016,Lentille,13900.0,6790.0,4.88,
+Région Casablanca-Settat,2017,Lentille,17353.0,6548.0,3.77,
+Région Casablanca-Settat,2018,Lentille,17200.0,12980.0,7.55,
+Région Casablanca-Settat,2019,Lentille,16935.0,9947.4,5.87,
+Région Casablanca-Settat,2020,Lentille,3145.0,165.3,0.53,
+Région Casablanca-Settat,2021,Lentille,16600.0,15880.0,9.57,
+Région Casablanca-Settat,2022,Lentille,14873.0,2948.0,1.98,
+Région Casablanca-Settat,2023,Lentille,10205.0,220.21,0.22,
+Settat-Berrechid,2010,Lentille,14000.0,11340.0,8.1,1.0
+Settat-Berrechid,2011,Lentille,15000.0,15000.0,10.0,1.0
+Settat-Berrechid,2012,Lentille,18700.0,3730.0,1.99,2.0
+Settat-Berrechid,2014,Lentille,17700.0,7480.0,4.23,2.0
+Settat-Berrechid,2015,Lentille,19400.0,23280.0,12.0,2.0
+Settat-Berrechid,2016,Lentille,11900.0,5820.0,4.89,2.0
+Settat-Berrechid,2017,Lentille,15000.0,5125.0,3.42,2.0
+Settat-Berrechid,2018,Lentille,15700.0,11650.0,7.42,2.0
+Settat-Berrechid,2019,Lentille,14800.0,2285.0,1.54,2.0
+Settat-Berrechid,2020,Lentille,1500.0,37.5,0.25,1.0
+Settat-Berrechid,2021,Lentille,14100.0,13900.0,9.86,2.0
+Settat-Berrechid,2022,Lentille,13200.0,2640.0,2.0,2.0
+Settat-Berrechid,2023,Lentille,8500.0,40.01,0.05,2.0
+Benslimane,2010,Maïs,1100.0,990.0,9.0,1.0
+Benslimane,2011,Maïs,300.0,300.0,10.0,1.0
+Benslimane,2012,Maïs,900.0,300.0,3.33,1.0
+Benslimane,2013,Maïs,400.0,260.0,6.5,1.0
+Benslimane,2014,Maïs,170.0,39.1,2.3,1.0
+Benslimane,2015,Maïs,170.0,65.0,3.82,1.0
+Benslimane,2016,Maïs,120.0,180.0,15.0,1.0
+Benslimane,2018,Maïs,100.0,20.0,2.0,1.0
+Casablanca (préfectures),2010,Maïs,400.0,770.0,19.25,1.0
+Casablanca (préfectures),2011,Maïs,200.0,460.0,23.0,1.0
+Casablanca (préfectures),2012,Maïs,800.0,550.0,6.88,1.0
+Casablanca (préfectures),2014,Maïs,100.0,40.0,4.0,1.0
+Casablanca (préfectures),2015,Maïs,140.0,28.0,2.0,1.0
+Casablanca (préfectures),2020,Maïs,16400.0,10756.0,6.56,1.0
+El Jadida-Sidi Bennour,2010,Maïs,77700.0,57880.0,7.45,1.0
+El Jadida-Sidi Bennour,2011,Maïs,72700.0,124530.0,17.13,1.0
+El Jadida-Sidi Bennour,2012,Maïs,45200.0,33340.0,7.38,2.0
+El Jadida-Sidi Bennour,2013,Maïs,61200.0,56870.0,9.29,2.0
+El Jadida-Sidi Bennour,2014,Maïs,62907.0,71879.0,11.43,2.0
+El Jadida-Sidi Bennour,2015,Maïs,57033.0,55454.0,9.72,2.0
+El Jadida-Sidi Bennour,2016,Maïs,57180.0,55957.700000000004,9.79,2.0
+El Jadida-Sidi Bennour,2017,Maïs,53165.0,53398.0,10.04,2.0
+El Jadida-Sidi Bennour,2018,Maïs,60800.0,63140.0,10.38,2.0
+El Jadida-Sidi Bennour,2019,Maïs,35241.0,27616.8,7.84,2.0
+El Jadida-Sidi Bennour,2020,Maïs,10550.0,7737.2,7.33,2.0
+El Jadida-Sidi Bennour,2021,Maïs,34974.0,26679.0,7.63,2.0
+El Jadida-Sidi Bennour,2022,Maïs,45422.0,16678.0,3.67,2.0
+El Jadida-Sidi Bennour,2023,Maïs,31269.0,475.0,0.15,2.0
+Région Casablanca-Settat,2010,Maïs,83200.0,62840.0,7.55,
+Région Casablanca-Settat,2011,Maïs,76700.0,128790.0,16.79,
+Région Casablanca-Settat,2012,Maïs,65600.0,41550.0,6.33,
+Région Casablanca-Settat,2013,Maïs,64700.0,59630.0,9.22,
+Région Casablanca-Settat,2014,Maïs,67177.0,73408.1,10.93,
+Région Casablanca-Settat,2015,Maïs,61743.0,58747.0,9.51,
+Région Casablanca-Settat,2016,Maïs,63800.0,85671.70000000001,13.43,
+Région Casablanca-Settat,2017,Maïs,56665.0,54898.0,9.69,
+Région Casablanca-Settat,2018,Maïs,64400.0,64710.0,10.05,
+Région Casablanca-Settat,2019,Maïs,37211.0,27715.3,7.45,
+Région Casablanca-Settat,2020,Maïs,26950.0,18493.2,6.86,
+Région Casablanca-Settat,2021,Maïs,34974.0,26679.0,7.63,
+Région Casablanca-Settat,2022,Maïs,45432.0,16678.2,3.67,
+Région Casablanca-Settat,2023,Maïs,31269.0,475.0,0.15,
+Settat-Berrechid,2010,Maïs,4000.0,3200.0,8.0,1.0
+Settat-Berrechid,2011,Maïs,3500.0,3500.0,10.0,1.0
+Settat-Berrechid,2012,Maïs,18700.0,7360.0,3.94,2.0
+Settat-Berrechid,2013,Maïs,3100.0,2500.0,8.06,2.0
+Settat-Berrechid,2014,Maïs,4000.0,1450.0,3.62,2.0
+Settat-Berrechid,2015,Maïs,4400.0,3200.0,7.27,2.0
+Settat-Berrechid,2016,Maïs,6500.0,29534.0,45.44,2.0
+Settat-Berrechid,2017,Maïs,3500.0,1500.0,4.29,2.0
+Settat-Berrechid,2018,Maïs,3500.0,1550.0,4.43,2.0
+Settat-Berrechid,2019,Maïs,1970.0,98.5,0.5,2.0
+Settat-Berrechid,2022,Maïs,10.0,0.2,0.2,1.0
+Benslimane,2010,Orge,15000.0,26380.0,17.59,1.0
+Benslimane,2011,Orge,13400.0,28970.0,21.62,1.0
+Benslimane,2012,Orge,12000.0,7240.0,6.03,1.0
+Benslimane,2013,Orge,11500.0,26370.0,22.93,1.0
+Benslimane,2014,Orge,12000.0,28485.4,23.74,1.0
+Benslimane,2015,Orge,12200.0,29591.1,24.26,1.0
+Benslimane,2016,Orge,12931.0,2011.9,1.56,1.0
+Benslimane,2017,Orge,10500.0,24780.0,23.6,1.0
+Benslimane,2018,Orge,10100.0,27940.0,27.66,1.0
+Benslimane,2019,Orge,10728.9,9656.01,9.0,1.0
+Benslimane,2020,Orge,11790.0,2358.0,2.0,1.0
+Benslimane,2021,Orge,9500.0,27363.9,28.8,1.0
+Benslimane,2022,Orge,11200.0,1015.3,0.91,1.0
+Benslimane,2023,Orge,10650.0,14577.81,13.69,1.0
+Casablanca (préfectures),2010,Orge,20400.0,36080.0,17.69,1.0
+Casablanca (préfectures),2011,Orge,16400.0,29250.0,17.84,1.0
+Casablanca (préfectures),2012,Orge,16800.0,15120.0,9.0,1.0
+Casablanca (préfectures),2013,Orge,19200.0,54730.0,28.51,1.0
+Casablanca (préfectures),2014,Orge,15648.0,34032.52,21.75,1.0
+Casablanca (préfectures),2015,Orge,18197.0,41853.1,23.0,1.0
+Casablanca (préfectures),2016,Orge,17534.0,4183.0,2.39,1.0
+Casablanca (préfectures),2017,Orge,18800.0,41360.0,22.0,1.0
+Casablanca (préfectures),2018,Orge,20000.0,56400.0,28.2,1.0
+Casablanca (préfectures),2019,Orge,15953.6,13560.56,8.5,1.0
+Casablanca (préfectures),2020,Orge,18520.0,3704.0,2.0,1.0
+Casablanca (préfectures),2021,Orge,18850.0,63147.7,33.5,3.0
+Casablanca (préfectures),2022,Orge,18600.0,1746.56,0.94,3.0
+Casablanca (préfectures),2023,Orge,29120.0,30261.36,10.39,3.0
+El Jadida-Sidi Bennour,2010,Orge,135000.0,204860.0,15.17,1.0
+El Jadida-Sidi Bennour,2011,Orge,94300.0,142470.0,15.11,1.0
+El Jadida-Sidi Bennour,2012,Orge,91000.0,46220.0,5.08,2.0
+El Jadida-Sidi Bennour,2013,Orge,97300.0,153790.0,15.81,2.0
+El Jadida-Sidi Bennour,2014,Orge,85260.0,92355.95,10.83,1.0
+El Jadida-Sidi Bennour,2015,Orge,95700.0,218659.62,22.85,2.0
+El Jadida-Sidi Bennour,2016,Orge,95229.0,4579.4,0.48,1.0
+El Jadida-Sidi Bennour,2017,Orge,99900.0,232585.0,23.28,2.0
+El Jadida-Sidi Bennour,2018,Orge,91100.0,267190.0,29.33,2.0
+El Jadida-Sidi Bennour,2019,Orge,94048.5,61171.6,6.5,2.0
+El Jadida-Sidi Bennour,2020,Orge,88070.0,38467.8,4.37,2.0
+El Jadida-Sidi Bennour,2021,Orge,94590.0,239323.3,25.3,2.0
+El Jadida-Sidi Bennour,2022,Orge,90006.4,9654.3,1.07,2.0
+El Jadida-Sidi Bennour,2023,Orge,86450.0,90516.9,10.47,2.0
+Région Casablanca-Settat,2010,Orge,313400.0,484310.0,15.45,
+Région Casablanca-Settat,2011,Orge,281700.0,544340.0,19.32,
+Région Casablanca-Settat,2012,Orge,267200.0,139330.0,5.21,
+Région Casablanca-Settat,2013,Orge,277700.0,530030.0,19.09,
+Région Casablanca-Settat,2014,Orge,265908.0,319645.87,12.02,
+Région Casablanca-Settat,2015,Orge,281597.0,643771.4199999999,22.86,
+Région Casablanca-Settat,2016,Orge,228703.0,13000.3,0.57,
+Région Casablanca-Settat,2017,Orge,284200.0,586275.0,20.63,
+Région Casablanca-Settat,2018,Orge,260200.0,745670.0,28.66,
+Région Casablanca-Settat,2019,Orge,189290.4,129060.07,6.82,
+Région Casablanca-Settat,2020,Orge,265810.0,45957.0,1.73,
+Région Casablanca-Settat,2021,Orge,257630.0,720962.6,27.98,
+Région Casablanca-Settat,2022,Orge,244806.4,47416.16,1.94,
+Région Casablanca-Settat,2023,Orge,269220.0,264719.81,9.83,
+Settat-Berrechid,2010,Orge,143000.0,216990.0,15.17,1.0
+Settat-Berrechid,2011,Orge,157600.0,343650.0,21.81,1.0
+Settat-Berrechid,2012,Orge,147400.0,70750.0,4.8,2.0
+Settat-Berrechid,2013,Orge,149700.0,295140.0,19.72,2.0
+Settat-Berrechid,2014,Orge,153000.0,164772.0,10.77,2.0
+Settat-Berrechid,2015,Orge,155500.0,353667.6,22.74,2.0
+Settat-Berrechid,2016,Orge,103009.0,2226.0,0.22,1.0
+Settat-Berrechid,2017,Orge,155000.0,287550.0,18.55,2.0
+Settat-Berrechid,2018,Orge,139000.0,394140.0,28.36,2.0
+Settat-Berrechid,2019,Orge,68559.4,44671.9,6.52,2.0
+Settat-Berrechid,2020,Orge,147430.0,1427.2,0.1,2.0
+Settat-Berrechid,2021,Orge,134690.0,391127.69999999995,29.04,2.0
+Settat-Berrechid,2022,Orge,125000.0,35000.0,2.8,1.0
+Settat-Berrechid,2023,Orge,143000.0,129363.73999999999,9.05,2.0
+Benslimane,2010,Petit pois,2400.0,750.0,3.12,1.0
+Benslimane,2011,Petit pois,2500.0,1750.0,7.0,1.0
+Benslimane,2012,Petit pois,2700.0,580.0,2.15,1.0
+Benslimane,2014,Petit pois,1700.0,1105.0,6.5,1.0
+Benslimane,2015,Petit pois,1500.0,1200.0,8.0,1.0
+Benslimane,2016,Petit pois,700.0,350.0,5.0,1.0
+Benslimane,2017,Petit pois,2000.0,1000.0,5.0,1.0
+Benslimane,2018,Petit pois,1400.0,1190.0,8.5,1.0
+Benslimane,2019,Petit pois,1390.0,556.0,4.0,1.0
+Benslimane,2021,Petit pois,2000.0,1500.0,7.5,1.0
+Benslimane,2022,Petit pois,1600.0,17.0,0.11,1.0
+Benslimane,2023,Petit pois,1500.0,52.5,0.35,1.0
+Casablanca (préfectures),2010,Petit pois,500.0,200.0,4.0,1.0
+Casablanca (préfectures),2011,Petit pois,200.0,140.0,7.0,1.0
+Casablanca (préfectures),2012,Petit pois,200.0,80.0,4.0,1.0
+Casablanca (préfectures),2014,Petit pois,49.0,39.2,8.0,1.0
+Casablanca (préfectures),2015,Petit pois,49.0,56.35,11.5,1.0
+Casablanca (préfectures),2019,Petit pois,100.0,18.0,1.8,1.0
+Casablanca (préfectures),2023,Petit pois,40.0,40.0,10.0,1.0
+El Jadida-Sidi Bennour,2010,Petit pois,2800.0,2240.0,8.0,1.0
+El Jadida-Sidi Bennour,2011,Petit pois,3200.0,3810.0,11.91,1.0
+El Jadida-Sidi Bennour,2012,Petit pois,700.0,190.0,2.71,1.0
+El Jadida-Sidi Bennour,2014,Petit pois,1830.0,989.5999999999999,5.41,2.0
+El Jadida-Sidi Bennour,2015,Petit pois,2495.0,2072.0,8.3,2.0
+El Jadida-Sidi Bennour,2016,Petit pois,2100.0,1160.0,5.52,2.0
+El Jadida-Sidi Bennour,2017,Petit pois,3056.0,1432.0,4.69,2.0
+El Jadida-Sidi Bennour,2018,Petit pois,1800.0,1550.0,8.61,2.0
+El Jadida-Sidi Bennour,2019,Petit pois,2523.0,830.5,3.29,2.0
+El Jadida-Sidi Bennour,2020,Petit pois,2833.0,889.8,3.14,2.0
+El Jadida-Sidi Bennour,2021,Petit pois,4850.0,2008.5,4.14,2.0
+El Jadida-Sidi Bennour,2022,Petit pois,2101.0,1202.0,5.72,2.0
+El Jadida-Sidi Bennour,2023,Petit pois,2605.0,1214.0,4.66,2.0
+Région Casablanca-Settat,2010,Petit pois,12200.0,8980.0,7.36,
+Région Casablanca-Settat,2011,Petit pois,15400.0,15200.0,9.87,
+Région Casablanca-Settat,2012,Petit pois,13500.0,2820.0,2.09,
+Région Casablanca-Settat,2014,Petit pois,11729.0,7258.8,6.19,
+Région Casablanca-Settat,2015,Petit pois,13144.0,14138.35,10.76,
+Région Casablanca-Settat,2016,Petit pois,4300.0,2960.0,6.88,
+Région Casablanca-Settat,2017,Petit pois,7056.0,4592.0,6.51,
+Région Casablanca-Settat,2018,Petit pois,10500.0,9790.0,9.32,
+Région Casablanca-Settat,2019,Petit pois,10913.0,2684.5,2.46,
+Région Casablanca-Settat,2020,Petit pois,3833.0,914.8,2.39,
+Région Casablanca-Settat,2021,Petit pois,13400.0,8948.5,6.68,
+Région Casablanca-Settat,2022,Petit pois,10801.0,2639.0,2.44,
+Région Casablanca-Settat,2023,Petit pois,7985.0,2826.5,3.54,
+Settat-Berrechid,2010,Petit pois,6500.0,5790.0,8.91,1.0
+Settat-Berrechid,2011,Petit pois,9500.0,9500.0,10.0,1.0
+Settat-Berrechid,2012,Petit pois,9900.0,1970.0,1.99,2.0
+Settat-Berrechid,2014,Petit pois,8150.0,5125.0,6.29,2.0
+Settat-Berrechid,2015,Petit pois,9100.0,10810.0,11.88,2.0
+Settat-Berrechid,2016,Petit pois,1500.0,1450.0,9.67,2.0
+Settat-Berrechid,2017,Petit pois,2000.0,2160.0,10.8,2.0
+Settat-Berrechid,2018,Petit pois,7300.0,7050.0,9.66,2.0
+Settat-Berrechid,2019,Petit pois,6900.0,1280.0,1.86,2.0
+Settat-Berrechid,2020,Petit pois,1000.0,25.0,0.25,1.0
+Settat-Berrechid,2021,Petit pois,6550.0,5440.0,8.31,2.0
+Settat-Berrechid,2022,Petit pois,7100.0,1420.0,2.0,2.0
+Settat-Berrechid,2023,Petit pois,3840.0,1520.0,3.96,1.0
+Benslimane,2010,Pois chiche,2600.0,2080.0,8.0,1.0
+Benslimane,2011,Pois chiche,2500.0,1750.0,7.0,1.0
+Benslimane,2012,Pois chiche,2600.0,1080.0,4.15,1.0
+Benslimane,2014,Pois chiche,2800.0,2800.0,10.0,1.0
+Benslimane,2015,Pois chiche,3400.0,4080.0,12.0,1.0
+Benslimane,2016,Pois chiche,3130.0,3220.0,10.29,1.0
+Benslimane,2017,Pois chiche,3200.0,2720.0,8.5,1.0
+Benslimane,2018,Pois chiche,3200.0,2820.0,8.81,1.0
+Benslimane,2019,Pois chiche,3130.0,2660.0,8.5,1.0
+Benslimane,2021,Pois chiche,1803.0,1803.0,10.0,1.0
+Benslimane,2022,Pois chiche,1300.0,110.0,0.85,1.0
+Benslimane,2023,Pois chiche,2000.0,200.0,1.0,1.0
+Casablanca (préfectures),2015,Pois chiche,10.0,4.0,4.0,1.0
+El Jadida-Sidi Bennour,2010,Pois chiche,1900.0,1310.0,6.89,1.0
+El Jadida-Sidi Bennour,2011,Pois chiche,2000.0,2530.0,12.65,1.0
+El Jadida-Sidi Bennour,2012,Pois chiche,1200.0,1190.0,9.92,2.0
+El Jadida-Sidi Bennour,2014,Pois chiche,670.0,585.0,8.73,2.0
+El Jadida-Sidi Bennour,2015,Pois chiche,1546.0,708.3,4.58,2.0
+El Jadida-Sidi Bennour,2016,Pois chiche,300.0,550.0,18.33,1.0
+El Jadida-Sidi Bennour,2017,Pois chiche,750.0,446.0,5.95,2.0
+El Jadida-Sidi Bennour,2018,Pois chiche,600.0,460.0,7.67,2.0
+El Jadida-Sidi Bennour,2019,Pois chiche,1493.0,902.9,6.05,2.0
+El Jadida-Sidi Bennour,2020,Pois chiche,805.0,242.47,3.01,2.0
+El Jadida-Sidi Bennour,2021,Pois chiche,950.0,601.9,6.34,2.0
+El Jadida-Sidi Bennour,2022,Pois chiche,1246.0,752.8,6.04,2.0
+El Jadida-Sidi Bennour,2023,Pois chiche,65.0,39.0,6.0,1.0
+Région Casablanca-Settat,2010,Pois chiche,8100.0,6630.0,8.19,
+Région Casablanca-Settat,2011,Pois chiche,8000.0,6730.0,8.41,
+Région Casablanca-Settat,2012,Pois chiche,5300.0,2870.0,5.42,
+Région Casablanca-Settat,2014,Pois chiche,7370.0,6985.0,9.48,
+Région Casablanca-Settat,2015,Pois chiche,10256.0,11132.3,10.85,
+Région Casablanca-Settat,2016,Pois chiche,4930.0,4060.0,8.24,
+Région Casablanca-Settat,2017,Pois chiche,5950.0,3676.0,6.18,
+Région Casablanca-Settat,2018,Pois chiche,9400.0,7200.0,7.66,
+Région Casablanca-Settat,2019,Pois chiche,10953.0,4921.9,4.49,
+Région Casablanca-Settat,2020,Pois chiche,805.0,242.47,3.01,
+Région Casablanca-Settat,2021,Pois chiche,6053.0,4404.9,7.28,
+Région Casablanca-Settat,2022,Pois chiche,5546.0,1462.8,2.64,
+Région Casablanca-Settat,2023,Pois chiche,3265.0,299.0,0.92,
+Settat-Berrechid,2010,Pois chiche,3600.0,3240.0,9.0,1.0
+Settat-Berrechid,2011,Pois chiche,3500.0,2450.0,7.0,1.0
+Settat-Berrechid,2012,Pois chiche,1500.0,600.0,4.0,2.0
+Settat-Berrechid,2014,Pois chiche,3900.0,3600.0,9.23,2.0
+Settat-Berrechid,2015,Pois chiche,5300.0,6340.0,11.96,2.0
+Settat-Berrechid,2016,Pois chiche,1500.0,290.0,1.93,2.0
+Settat-Berrechid,2017,Pois chiche,2000.0,510.0,2.55,2.0
+Settat-Berrechid,2018,Pois chiche,5600.0,3920.0,7.0,2.0
+Settat-Berrechid,2019,Pois chiche,6330.0,1359.0,2.15,2.0
+Settat-Berrechid,2021,Pois chiche,3300.0,2000.0,6.06,2.0
+Settat-Berrechid,2022,Pois chiche,3000.0,600.0,2.0,2.0
+Settat-Berrechid,2023,Pois chiche,1200.0,60.0,0.5,1.0

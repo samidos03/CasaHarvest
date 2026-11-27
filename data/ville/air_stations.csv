@@ -1,0 +1,10 @@
+station,ville,type,lat,lon,taux_manquant
+Aïn Sebaâ (industrielle),Casablanca,industrielle,33.605,-7.535,0.06
+Derb Soltane (trafic),Casablanca,trafic,33.575,-7.61,0.05
+Sidi Othmane (fond urbain),Casablanca,fond urbain,33.565,-7.55,0.08
+Jahid / Maârif (fond urbain),Casablanca,fond urbain,33.585,-7.64,0.1
+Bab Doukkala (trafic),Marrakech,trafic,31.635,-8.0,0.12
+Daoudiate (fond urbain),Marrakech,fond urbain,31.65,-8.01,0.3
+Bensouda (industrielle),Fès,industrielle,34.05,-5.05,0.25
+Fès centre (trafic),Fès,trafic,34.035,-4.995,0.45
+Tanger ville (fond urbain),Tanger,fond urbain,35.77,-5.81,0.55

@@ -1,0 +1,10 @@
+province,type,nom_ar,zone_era5,surface_km2,lat,lon,sol
+Casablanca,Préfecture,الدار البيضاء,Casablanca (préfectures),215,33.585,-7.603,Zone urbaine ; sols rouges (hamri) en périphérie
+Mohammedia,Préfecture,المحمدية,Casablanca (préfectures),280,33.638,-7.393,Zone urbaine et littorale ; sols sableux à limoneux
+Settat,Province,سطات,Settat-Berrechid,6881,32.816,-7.594,"Plateau de la Chaouia : tirs (vertisols noirs argileux, forte réserve en eau) et hamri"
+Berrechid,Province,برشيد,Settat-Berrechid,2551,33.209,-7.745,"Plaine de Berrechid : tirs et hamri, nappe phréatique exploitée"
+El Jadida,Province,الجديدة,El Jadida-Sidi Bennour,3869,33.027,-8.371,"Doukkala : tirs et hamri à l'intérieur, sols sableux (r'mel) près de la côte ; périmètre irrigué"
+Sidi Bennour,Province,سيدي بنور,El Jadida-Sidi Bennour,3273,32.684,-8.612,Doukkala : tirs et hamri ; périmètre irrigué des Doukkala
+Benslimane,Province,بنسليمان,Benslimane,2501,33.596,-7.116,"Sols peu profonds sur schistes, forêts de chêne-liège ; sols limono-argileux en plaine"
+Nouaceur,Province,النواصر,Casablanca (préfectures),506,33.469,-7.706,Sols rouges (hamri) et tirs ; agriculture périurbaine
+Médiouna,Province,مديونة,Casablanca (préfectures),228,33.506,-7.493,Sols rouges (hamri) ; maraîchage périurbain

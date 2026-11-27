@@ -1,0 +1,6 @@
+﻿,rendement_moyen_qx_ha,rendement_moyen_qx_ha,rendement_moyen_qx_ha,production_Mqx,production_Mqx,production_Mqx
+modele,Hybride (XGBoost + garde-fou Ridge),Ridge,XGBoost,Hybride (XGBoost + garde-fou Ridge),Ridge,XGBoost
+campagne,,,,,,
+2024,8.9,9.5,8.9,7.32,7.86,7.32
+2025,3.1,6.8,3.1,2.52,5.65,2.52
+2026,33.3,33.3,21.9,27.53,27.53,18.13

@@ -1,0 +1,809 @@
+﻿mois,zone,pluie_mm,spi_1,spi_3,spi_6,spi_12,anomalie_humidite_sol,classe_secheresse_spi3
+2010-01,Benslimane,123.0,1.5,0.96,,,1.56,normal
+2010-02,Benslimane,132.5,2.34,1.93,1.48,,1.73,humide
+2010-03,Benslimane,74.7,0.8,1.99,1.48,,1.69,humide
+2010-04,Benslimane,33.0,-0.22,1.96,1.56,,0.7,humide
+2010-05,Benslimane,10.6,-0.33,0.31,1.88,,0.33,normal
+2010-06,Benslimane,3.3,0.22,-0.39,1.88,,0.32,normal
+2010-07,Benslimane,1.7,2.11,-0.24,1.88,,0.75,normal
+2010-08,Benslimane,1.2,0.0,0.69,0.32,1.49,0.65,normal
+2010-09,Benslimane,5.5,-0.99,-0.79,-0.55,1.3,-0.19,normal
+2010-10,Benslimane,69.2,1.11,0.82,0.63,1.8,1.9,normal
+2010-11,Benslimane,107.4,1.22,1.27,1.23,2.27,0.55,humide
+2010-12,Benslimane,89.4,0.92,1.61,1.52,2.23,1.2,humide
+2011-01,Benslimane,56.3,0.05,1.01,1.23,1.73,0.55,humide
+2011-02,Benslimane,45.7,-0.09,0.39,1.01,1.08,0.92,normal
+2011-03,Benslimane,57.6,0.17,-0.04,1.06,0.97,0.53,normal
+2011-04,Benslimane,51.9,0.8,0.25,0.91,1.19,0.49,normal
+2011-05,Benslimane,49.4,2.64,1.35,0.77,1.53,2.82,humide
+2011-06,Benslimane,5.6,2.45,1.98,0.62,1.54,2.15,humide
+2011-07,Benslimane,1.1,-0.13,2.74,1.04,1.53,1.07,humide
+2011-08,Benslimane,1.1,-0.41,2.08,1.41,1.38,0.72,humide
+2011-09,Benslimane,5.1,-1.09,-1.07,1.65,1.37,-0.15,sécheresse modérée
+2011-10,Benslimane,31.8,-0.26,-0.52,0.7,1.18,-0.33,normal
+2011-11,Benslimane,128.6,1.51,1.06,1.03,1.24,1.19,humide
+2011-12,Benslimane,13.2,-1.57,0.43,0.33,0.64,0.14,normal
+2012-01,Benslimane,27.1,-1.01,0.1,-0.09,0.35,-0.54,normal
+2012-02,Benslimane,20.4,-1.44,-1.65,-0.49,0.15,-0.61,sécheresse sévère
+2012-03,Benslimane,26.6,-1.43,-1.71,-0.78,-0.17,-1.72,sécheresse sévère
+2012-04,Benslimane,58.0,1.07,-1.08,-0.41,-0.12,-0.06,sécheresse modérée
+2012-05,Benslimane,7.5,-0.81,-0.5,-1.56,-0.6,0.19,normal
+2012-06,Benslimane,3.5,0.45,0.64,-1.3,-0.62,-0.47,normal
+2012-07,Benslimane,1.0,-0.58,-0.71,-1.26,-0.62,0.25,normal
+2012-08,Benslimane,1.2,0.0,0.21,-0.5,-0.69,0.46,normal
+2012-09,Benslimane,11.7,0.21,0.31,0.61,-0.59,-0.12,normal
+2012-10,Benslimane,101.3,1.92,1.77,1.5,0.27,1.03,humide
+2012-11,Benslimane,94.3,1.02,1.58,1.53,-0.08,1.79,humide
+2012-12,Benslimane,28.8,-0.73,1.12,1.09,0.03,1.04,humide
+2013-01,Benslimane,46.2,-0.26,0.11,0.78,0.18,0.61,normal
+2013-02,Benslimane,31.4,-0.76,-0.75,0.46,0.32,0.64,normal
+2013-03,Benslimane,99.0,1.56,0.22,0.84,1.0,1.56,normal
+2013-04,Benslimane,38.2,0.1,0.56,0.26,0.86,1.8,normal
+2013-05,Benslimane,14.1,0.11,1.17,-0.16,0.92,0.3,humide
+2013-06,Benslimane,2.3,-1.09,-0.0,0.15,0.9,0.42,normal
+2013-07,Benslimane,1.2,0.29,-0.01,0.51,0.91,0.63,normal
+2013-08,Benslimane,1.1,-0.41,-0.97,1.15,0.77,0.59,normal
+2013-09,Benslimane,22.0,1.47,1.78,0.46,0.87,0.28,humide
+2013-10,Benslimane,24.9,-0.62,-0.1,-0.18,0.3,-0.24,normal
+2013-11,Benslimane,22.0,-0.68,-0.62,-0.69,-0.42,-0.42,normal
+2013-12,Benslimane,28.9,-0.72,-1.42,-1.1,-0.48,-0.22,sécheresse modérée
+2014-01,Benslimane,76.1,0.56,-0.47,-0.52,-0.2,0.5,normal
+2014-02,Benslimane,51.5,0.14,-0.03,-0.5,0.03,0.93,normal
+2014-03,Benslimane,38.5,-0.71,0.06,-0.86,-0.63,-0.39,normal
+2014-04,Benslimane,46.5,0.54,-0.2,-0.53,-0.57,0.3,normal
+2014-05,Benslimane,8.3,-0.68,-0.46,-0.25,-0.63,-0.62,normal
+2014-06,Benslimane,2.6,-0.66,0.13,0.04,-0.63,-0.62,normal
+2014-07,Benslimane,1.2,0.29,-0.69,-0.39,-0.62,0.25,normal
+2014-08,Benslimane,1.1,-0.41,-0.63,-0.48,-0.69,0.53,normal
+2014-09,Benslimane,13.8,0.51,0.67,0.25,-0.77,-0.04,normal
+2014-10,Benslimane,18.7,-1.01,-0.73,-0.96,-0.69,-0.41,normal
+2014-11,Benslimane,146.3,1.73,1.23,1.17,0.53,0.97,humide
+2014-12,Benslimane,58.8,0.24,1.11,1.11,0.78,1.4,humide
+2015-01,Benslimane,55.8,0.04,1.08,0.9,0.58,0.9,humide
+2015-02,Benslimane,38.2,-0.42,-0.07,0.63,0.49,1.08,normal
+2015-03,Benslimane,48.4,-0.22,-0.31,0.51,0.6,0.38,normal
+2015-04,Benslimane,11.4,-2.1,-1.29,0.46,0.27,1.19,sécheresse modérée
+2015-05,Benslimane,10.8,-0.3,-1.29,-0.57,0.3,0.05,sécheresse modérée
+2015-06,Benslimane,3.2,0.1,-1.79,-0.84,0.3,0.52,sécheresse sévère
+2015-07,Benslimane,2.0,3.04,-0.19,-1.35,0.31,0.56,normal
+2015-08,Benslimane,2.3,3.45,1.84,-1.21,0.22,0.59,humide
+2015-09,Benslimane,11.1,0.11,0.56,-1.33,0.2,-0.19,normal
+2015-10,Benslimane,47.2,0.39,0.35,0.18,0.6,0.13,normal
+2015-11,Benslimane,20.6,-0.74,-0.39,-0.4,-0.64,0.42,normal
+2015-12,Benslimane,21.2,-1.08,-1.1,-1.01,-1.16,-1.22,sécheresse modérée
+2016-01,Benslimane,36.0,-0.62,-1.34,-1.09,-1.46,-1.38,sécheresse modérée
+2016-02,Benslimane,61.7,0.5,-0.55,-0.85,-1.12,-0.84,normal
+2016-03,Benslimane,53.6,0.0,-0.17,-0.88,-1.11,0.27,normal
+2016-04,Benslimane,26.1,-0.69,-0.08,-1.07,-0.98,-0.24,normal
+2016-05,Benslimane,35.7,1.87,0.23,-0.44,-0.66,0.57,normal
+2016-06,Benslimane,2.7,-0.53,0.45,-0.08,-0.67,0.07,normal
+2016-07,Benslimane,1.1,-0.13,1.78,0.39,-0.68,0.37,humide
+2016-08,Benslimane,1.2,0.0,-0.52,0.21,-0.75,0.53,normal
+2016-09,Benslimane,8.8,-0.28,-0.2,0.33,-0.76,-0.23,normal
+2016-10,Benslimane,50.3,0.5,0.34,0.85,-0.57,-0.28,normal
+2016-11,Benslimane,88.0,0.92,0.8,0.74,0.11,-0.46,normal
+2016-12,Benslimane,73.4,0.59,0.96,0.9,0.57,0.86,normal
+2017-01,Benslimane,33.0,-0.74,0.4,0.48,0.51,-0.8,normal
+2017-02,Benslimane,69.2,0.75,0.21,0.55,0.61,-0.22,normal
+2017-03,Benslimane,49.1,-0.19,-0.17,0.48,0.59,-0.69,normal
+2017-04,Benslimane,23.2,-0.91,-0.08,0.24,0.58,-1.47,normal
+2017-05,Benslimane,10.9,-0.29,-0.81,-0.15,0.33,-1.28,normal
+2017-06,Benslimane,2.6,-0.66,-0.98,-0.5,0.33,-0.82,normal
+2017-07,Benslimane,1.0,-0.58,-0.37,-0.2,0.33,0.31,normal
+2017-08,Benslimane,1.3,0.38,-0.63,-0.83,0.23,0.85,normal
+2017-09,Benslimane,6.3,-0.79,-0.74,-1.07,0.21,-0.12,normal
+2017-10,Benslimane,20.3,-0.9,-1.03,-1.12,0.05,-1.97,sécheresse modérée
+2017-11,Benslimane,33.0,-0.28,-0.86,-0.91,-0.5,-1.74,normal
+2017-12,Benslimane,61.9,0.32,-0.54,-0.62,-0.7,-1.56,normal
+2018-01,Benslimane,97.1,1.02,0.38,0.07,-0.06,0.22,normal
+2018-02,Benslimane,72.5,0.85,0.8,0.23,0.01,0.07,normal
+2018-03,Benslimane,88.9,1.26,1.25,0.58,0.4,1.11,humide
+2018-04,Benslimane,100.6,2.61,2.33,1.29,1.16,1.59,humide
+2018-05,Benslimane,10.9,-0.29,2.25,1.47,1.15,1.43,humide
+2018-06,Benslimane,2.3,-1.09,2.19,1.83,1.15,1.46,humide
+2018-07,Benslimane,1.0,-0.58,-0.41,2.24,1.15,1.7,normal
+2018-08,Benslimane,1.1,-0.41,-1.2,2.25,1.0,1.81,sécheresse modérée
+2018-09,Benslimane,32.9,2.43,2.91,2.6,1.23,0.59,humide
+2018-10,Benslimane,117.6,2.28,2.52,2.32,2.09,1.16,humide
+2018-11,Benslimane,55.6,0.31,1.56,1.5,2.07,1.59,humide
+2018-12,Benslimane,16.2,-1.37,0.66,0.92,1.84,0.53,normal
+2019-01,Benslimane,42.3,-0.39,-0.67,0.6,1.4,-0.1,normal
+2019-02,Benslimane,47.2,-0.03,-0.76,0.44,1.23,0.09,normal
+2019-03,Benslimane,31.0,-1.14,-0.7,-0.06,0.78,-1.35,normal
+2019-04,Benslimane,36.3,-0.01,-0.8,-0.95,0.16,-1.29,normal
+2019-05,Benslimane,9.4,-0.5,-1.05,-1.11,0.15,-0.59,sécheresse modérée
+2019-06,Benslimane,2.4,-0.94,-0.33,-0.83,0.15,-0.82,normal
+2019-07,Benslimane,1.1,-0.13,-0.58,-0.96,0.15,-1.33,normal
+2019-08,Benslimane,1.1,-0.41,-0.97,-1.09,0.05,-1.14,normal
+2019-09,Benslimane,6.2,-0.82,-0.79,-0.5,-0.21,-0.35,normal
+2019-10,Benslimane,35.1,-0.1,-0.33,-0.56,-0.98,-0.65,normal
+2019-11,Benslimane,47.8,0.13,-0.18,-0.25,-1.01,-0.03,normal
+2019-12,Benslimane,73.1,0.58,0.17,0.08,-0.46,0.52,normal
+2020-01,Benslimane,37.2,-0.58,-0.04,-0.17,-0.56,-0.46,normal
+2020-02,Benslimane,14.0,-1.96,-0.47,-0.65,-0.89,-1.08,normal
+2020-03,Benslimane,34.3,-0.94,-1.43,-0.86,-0.9,-1.55,sécheresse modérée
+2020-04,Benslimane,49.0,0.66,-1.32,-0.62,-0.79,-0.98,sécheresse modérée
+2020-05,Benslimane,26.8,1.26,0.07,-0.44,-0.58,0.35,normal
+2020-06,Benslimane,3.9,0.88,1.06,-0.89,-0.55,0.22,humide
+2020-07,Benslimane,1.1,-0.13,1.25,-0.91,-0.55,-0.95,humide
+2020-08,Benslimane,1.1,-0.41,0.6,0.08,-0.62,-0.94,normal
+2020-09,Benslimane,9.4,-0.17,-0.1,0.91,-0.57,-0.27,normal
+2020-10,Benslimane,32.7,-0.22,-0.29,0.13,-0.45,-0.53,normal
+2020-11,Benslimane,51.2,0.21,-0.09,-0.14,-0.39,-0.57,normal
+2020-12,Benslimane,62.3,0.33,0.01,-0.03,-0.57,0.01,normal
+2021-01,Benslimane,120.2,1.45,0.82,0.72,0.24,0.82,normal
+2021-02,Benslimane,47.9,-0.0,0.79,0.56,0.58,0.54,normal
+2021-03,Benslimane,62.1,0.35,0.92,0.61,0.86,0.7,normal
+2021-04,Benslimane,26.3,-0.67,-0.21,0.57,0.67,-0.38,normal
+2021-05,Benslimane,9.6,-0.47,-0.3,0.57,0.51,-0.09,normal
+2021-06,Benslimane,4.9,1.85,-0.74,0.68,0.51,0.61,normal
+2021-07,Benslimane,1.0,-0.58,-0.25,-0.31,0.51,0.19,normal
+2021-08,Benslimane,1.1,-0.41,1.41,-0.26,0.4,-0.56,humide
+2021-09,Benslimane,6.9,-0.66,-0.65,-0.83,0.38,-0.7,normal
+2021-10,Benslimane,16.1,-1.2,-1.25,-1.25,0.36,-0.57,sécheresse modérée
+2021-11,Benslimane,15.6,-0.98,-1.5,-1.47,-0.0,-1.03,sécheresse sévère
+2021-12,Benslimane,39.7,-0.32,-1.54,-1.56,-0.27,-0.57,sécheresse sévère
+2022-01,Benslimane,25.2,-1.1,-1.29,-1.71,-1.4,-0.42,sécheresse modérée
+2022-02,Benslimane,22.4,-1.3,-1.08,-1.97,-1.7,-1.58,sécheresse modérée
+2022-03,Benslimane,91.2,1.33,-0.37,-1.28,-1.38,-0.2,normal
+2022-04,Benslimane,42.1,0.31,0.27,-0.85,-1.24,0.7,normal
+2022-05,Benslimane,9.7,-0.46,0.97,-0.48,-1.23,-0.53,normal
+2022-06,Benslimane,3.7,0.67,0.04,-0.4,-1.24,-1.07,normal
+2022-07,Benslimane,1.0,-0.58,-0.39,0.14,-1.24,-0.76,normal
+2022-08,Benslimane,1.1,-0.41,0.31,0.98,-1.28,-1.14,normal
+2022-09,Benslimane,8.5,-0.33,-0.3,-0.06,-1.24,-0.47,normal
+2022-10,Benslimane,25.5,-0.59,-0.65,-0.8,-0.96,-0.86,normal
+2022-11,Benslimane,10.6,-1.29,-1.3,-1.31,-0.96,-1.27,sécheresse modérée
+2022-12,Benslimane,94.5,1.02,-0.26,-0.3,-0.44,-0.57,normal
+2023-01,Benslimane,24.5,-1.14,-0.43,-0.67,-0.48,-0.57,normal
+2023-02,Benslimane,64.4,0.59,0.3,-0.47,-0.01,-0.24,normal
+2023-03,Benslimane,16.9,-2.21,-0.98,-0.93,-0.84,-0.28,normal
+2023-04,Benslimane,21.7,-1.03,-1.14,-0.9,-1.16,-1.32,sécheresse modérée
+2023-05,Benslimane,18.9,0.6,-1.85,-0.36,-1.03,-0.78,sécheresse sévère
+2023-06,Benslimane,3.5,0.45,-0.55,-1.17,-1.03,-0.77,normal
+2023-07,Benslimane,1.0,-0.58,0.56,-0.99,-1.03,-1.58,normal
+2023-08,Benslimane,1.0,-0.84,0.01,-1.84,-1.08,-1.65,normal
+2023-09,Benslimane,7.1,-0.61,-0.63,-0.66,-1.07,-1.17,normal
+2023-10,Benslimane,41.3,0.16,-0.05,0.06,-0.73,-0.82,normal
+2023-11,Benslimane,10.4,-1.31,-0.88,-0.92,-0.69,-0.68,normal
+2023-12,Benslimane,39.5,-0.32,-1.05,-1.09,-1.44,-1.34,sécheresse modérée
+2024-01,Benslimane,35.6,-0.64,-1.18,-1.15,-1.34,-0.28,sécheresse modérée
+2024-02,Benslimane,59.9,0.44,-0.31,-0.91,-1.35,-0.87,normal
+2024-03,Benslimane,59.6,0.25,-0.11,-0.8,-0.88,-0.63,normal
+2024-04,Benslimane,28.7,-0.5,0.09,-0.89,-0.85,-0.24,normal
+2024-05,Benslimane,6.2,-1.06,-0.42,-0.49,-1.0,-1.31,normal
+2024-06,Benslimane,2.6,-0.66,-0.93,-0.43,-1.0,-1.81,normal
+2024-07,Benslimane,1.0,-0.58,-1.04,-0.15,-1.0,-1.9,sécheresse modérée
+2024-08,Benslimane,1.1,-0.41,-0.85,-0.45,-1.05,-1.65,normal
+2024-09,Benslimane,8.0,-0.43,-0.41,-0.95,-1.02,-0.94,normal
+2024-10,Benslimane,47.7,0.41,0.22,-0.15,-0.79,-0.2,normal
+2024-11,Benslimane,12.4,-1.17,-0.64,-0.71,-0.72,-0.29,normal
+2024-12,Benslimane,18.1,-1.25,-1.36,-1.37,-1.06,-1.41,sécheresse modérée
+2025-01,Benslimane,35.7,-0.64,-1.6,-1.36,-1.1,-2.22,sécheresse sévère
+2025-02,Benslimane,35.9,-0.53,-1.04,-1.43,-1.35,-1.63,sécheresse modérée
+2025-03,Benslimane,64.9,0.45,-0.41,-1.22,-1.35,0.23,normal
+2025-04,Benslimane,39.1,0.15,-0.12,-1.25,-1.29,-0.85,normal
+2025-05,Benslimane,8.1,-0.71,0.13,-0.85,-1.25,-0.42,normal
+2025-06,Benslimane,2.6,-0.66,-0.24,-0.53,-1.24,1.06,normal
+2025-07,Benslimane,1.0,-0.58,-0.75,-0.31,-1.24,0.88,normal
+2025-08,Benslimane,1.6,1.43,-0.31,0.12,-1.28,0.59,normal
+2025-09,Benslimane,6.6,-0.72,-0.6,-0.38,-1.27,0.47,normal
+2025-10,Benslimane,16.8,-1.15,-1.2,-1.4,-1.51,0.38,sécheresse modérée
+2025-11,Benslimane,57.4,0.35,-0.35,-0.41,-0.88,0.48,normal
+2025-12,Benslimane,157.5,2.02,1.21,1.13,0.46,1.35,humide
+2026-01,Benslimane,175.8,2.32,2.14,1.99,1.6,1.6,humide
+2026-02,Benslimane,74.0,0.9,2.22,1.93,1.91,1.06,humide
+2026-03,Benslimane,71.9,0.71,1.91,2.08,2.04,0.36,humide
+2026-04,Benslimane,34.1,-0.15,0.8,2.16,2.1,0.07,normal
+2026-05,Benslimane,7.4,-0.83,0.17,2.14,2.09,-0.42,normal
+2026-06,Benslimane,2.5,-0.8,-0.55,1.76,2.08,-0.43,normal
+2026-07,Benslimane,1.0,-0.58,-0.87,0.61,2.08,-0.45,normal
+2026-08,Benslimane,1.0,-0.84,-1.08,0.13,1.89,-0.24,sécheresse modérée
+2026-09,Benslimane,9.7,-0.12,-0.08,-0.53,1.91,0.0,normal
+2026-10,Benslimane,,,,,,0.29,
+2010-01,Casablanca (préfectures),125.9,1.59,1.03,,,1.24,humide
+2010-02,Casablanca (préfectures),106.3,2.05,1.93,1.37,,1.4,humide
+2010-03,Casablanca (préfectures),55.7,0.64,1.9,1.41,,1.2,humide
+2010-04,Casablanca (préfectures),26.3,0.17,1.9,1.52,,-0.13,humide
+2010-05,Casablanca (préfectures),9.5,-0.41,0.31,1.91,,-0.49,normal
+2010-06,Casablanca (préfectures),2.5,0.8,-0.13,1.86,,-0.57,normal
+2010-07,Casablanca (préfectures),1.3,2.16,-0.33,1.74,,-0.49,normal
+2010-08,Casablanca (préfectures),0.8,0.89,1.34,0.33,1.4,-0.4,humide
+2010-09,Casablanca (préfectures),4.9,-0.77,-0.62,-0.29,1.32,-0.73,normal
+2010-10,Casablanca (préfectures),65.1,1.36,1.11,0.89,1.78,0.57,humide
+2010-11,Casablanca (préfectures),98.2,1.1,1.32,1.27,2.3,-0.2,humide
+2010-12,Casablanca (préfectures),68.2,0.8,1.53,1.46,2.24,1.14,humide
+2011-01,Casablanca (préfectures),61.7,0.22,0.9,1.22,1.67,0.18,normal
+2011-02,Casablanca (préfectures),38.6,-0.22,0.33,0.98,1.06,0.12,normal
+2011-03,Casablanca (préfectures),47.1,0.25,0.04,1.03,1.02,-0.52,normal
+2011-04,Casablanca (préfectures),43.7,1.29,0.42,0.89,1.23,-0.8,normal
+2011-05,Casablanca (préfectures),51.4,2.76,1.86,0.88,1.6,0.97,humide
+2011-06,Casablanca (préfectures),3.0,1.84,2.5,0.85,1.6,-0.31,humide
+2011-07,Casablanca (préfectures),1.0,-0.27,2.83,1.35,1.6,-0.69,humide
+2011-08,Casablanca (préfectures),0.8,0.89,1.72,1.9,1.45,-0.48,humide
+2011-09,Casablanca (préfectures),4.2,-1.0,-0.9,2.16,1.45,-0.73,normal
+2011-10,Casablanca (préfectures),20.7,-0.44,-0.64,0.8,1.15,-0.38,normal
+2011-11,Casablanca (préfectures),115.6,1.36,0.93,0.89,1.24,1.05,normal
+2011-12,Casablanca (préfectures),10.4,-1.49,0.36,0.28,0.77,-0.3,normal
+2012-01,Casablanca (préfectures),26.4,-1.04,0.05,-0.16,0.39,-1.07,normal
+2012-02,Casablanca (préfectures),19.3,-1.39,-1.6,-0.53,0.21,-1.24,sécheresse sévère
+2012-03,Casablanca (préfectures),18.6,-1.6,-1.77,-0.82,-0.1,-1.83,sécheresse sévère
+2012-04,Casablanca (préfectures),40.4,1.1,-1.29,-0.46,-0.15,-1.34,sécheresse modérée
+2012-05,Casablanca (préfectures),6.6,-0.89,-0.71,-1.65,-0.7,-0.53,normal
+2012-06,Casablanca (préfectures),2.3,0.34,0.49,-1.47,-0.71,-0.9,normal
+2012-07,Casablanca (préfectures),0.9,-1.19,-0.83,-1.5,-0.71,-0.79,normal
+2012-08,Casablanca (préfectures),0.7,-0.6,-0.09,-0.72,-0.78,-0.55,normal
+2012-09,Casablanca (préfectures),16.6,1.43,1.51,0.79,-0.61,-0.78,humide
+2012-10,Casablanca (préfectures),87.0,1.95,1.96,1.69,0.26,0.0,humide
+2012-11,Casablanca (préfectures),71.7,0.65,1.42,1.36,-0.22,1.93,humide
+2012-12,Casablanca (préfectures),23.1,-0.68,0.89,0.97,-0.13,0.72,normal
+2013-01,Casablanca (préfectures),48.4,-0.18,-0.07,0.69,0.1,-0.25,normal
+2013-02,Casablanca (préfectures),30.3,-0.65,-0.63,0.4,0.24,-0.37,normal
+2013-03,Casablanca (préfectures),78.0,1.51,0.19,0.64,0.84,0.26,normal
+2013-04,Casablanca (préfectures),28.5,0.34,0.63,0.11,0.76,0.62,normal
+2013-05,Casablanca (préfectures),13.3,0.08,1.23,-0.12,0.82,-0.78,humide
+2013-06,Casablanca (préfectures),1.7,-1.21,0.18,0.17,0.81,-0.71,normal
+2013-07,Casablanca (préfectures),1.0,-0.27,-0.0,0.55,0.81,-0.69,normal
+2013-08,Casablanca (préfectures),0.7,-0.6,-1.21,1.22,0.7,-0.48,sécheresse modérée
+2013-09,Casablanca (préfectures),20.2,1.88,2.01,0.7,0.74,-0.51,humide
+2013-10,Casablanca (préfectures),19.6,-0.51,0.07,-0.04,0.18,-0.72,normal
+2013-11,Casablanca (préfectures),21.4,-0.72,-0.58,-0.66,-0.38,-0.81,normal
+2013-12,Casablanca (préfectures),23.4,-0.66,-1.36,-1.0,-0.46,-1.22,sécheresse modérée
+2014-01,Casablanca (préfectures),74.8,0.55,-0.41,-0.41,-0.16,-0.53,normal
+2014-02,Casablanca (préfectures),34.7,-0.41,-0.14,-0.56,-0.06,0.26,normal
+2014-03,Casablanca (préfectures),26.2,-0.98,-0.16,-0.97,-0.69,-1.05,normal
+2014-04,Casablanca (préfectures),39.7,1.06,-0.47,-0.6,-0.59,-0.59,normal
+2014-05,Casablanca (préfectures),8.4,-0.58,-0.34,-0.31,-0.64,-1.23,normal
+2014-06,Casablanca (préfectures),1.9,-0.65,0.53,-0.06,-0.64,-1.04,normal
+2014-07,Casablanca (préfectures),1.1,0.59,-0.59,-0.65,-0.63,-0.79,normal
+2014-08,Casablanca (préfectures),0.7,-0.6,-0.52,-0.36,-0.7,-0.48,normal
+2014-09,Casablanca (préfectures),10.5,0.49,0.55,0.56,-0.81,-0.56,normal
+2014-10,Casablanca (préfectures),12.7,-1.03,-0.75,-0.99,-0.75,-0.67,normal
+2014-11,Casablanca (préfectures),157.3,1.89,1.48,1.42,0.68,0.53,humide
+2014-12,Casablanca (préfectures),52.2,0.38,1.42,1.41,0.99,1.47,humide
+2015-01,Casablanca (préfectures),58.6,0.13,1.27,1.15,0.8,0.51,humide
+2015-02,Casablanca (préfectures),34.0,-0.45,0.03,0.87,0.8,0.48,normal
+2015-03,Casablanca (préfectures),40.3,-0.1,-0.21,0.8,0.95,-0.52,normal
+2015-04,Casablanca (préfectures),7.3,-1.96,-1.16,0.81,0.66,-0.56,sécheresse modérée
+2015-05,Casablanca (préfectures),9.8,-0.37,-1.09,-0.37,0.67,-1.1,sécheresse modérée
+2015-06,Casablanca (préfectures),2.2,0.11,-1.6,-0.66,0.68,-0.9,sécheresse sévère
+2015-07,Casablanca (préfectures),1.4,2.88,-0.32,-1.24,0.68,-0.69,normal
+2015-08,Casablanca (préfectures),0.9,2.27,1.14,-1.07,0.57,-0.48,humide
+2015-09,Casablanca (préfectures),5.5,-0.6,-0.41,-1.5,0.53,-0.73,normal
+2015-10,Casablanca (préfectures),40.7,0.54,0.33,0.11,0.9,-0.14,normal
+2015-11,Casablanca (préfectures),21.3,-0.73,-0.43,-0.47,-0.52,0.42,normal
+2015-12,Casablanca (préfectures),18.2,-0.94,-0.95,-0.96,-1.07,-1.52,normal
+2016-01,Casablanca (préfectures),35.2,-0.65,-1.21,-1.03,-1.4,-1.48,sécheresse modérée
+2016-02,Casablanca (préfectures),56.5,0.55,-0.5,-0.79,-0.99,-1.3,normal
+2016-03,Casablanca (préfectures),43.0,0.04,-0.18,-0.77,-1.0,-1.04,normal
+2016-04,Casablanca (préfectures),14.2,-0.95,-0.05,-1.03,-0.96,-1.21,normal
+2016-05,Casablanca (préfectures),34.8,1.85,0.33,-0.38,-0.61,0.16,normal
+2016-06,Casablanca (préfectures),2.0,-0.39,0.58,-0.06,-0.61,-0.44,normal
+2016-07,Casablanca (préfectures),1.0,-0.27,1.82,0.52,-0.62,-0.69,humide
+2016-08,Casablanca (préfectures),0.8,0.89,-0.3,0.32,-0.69,-0.48,normal
+2016-09,Casablanca (préfectures),6.2,-0.41,-0.36,0.41,-0.67,-0.78,normal
+2016-10,Casablanca (préfectures),32.3,0.18,0.02,0.67,-0.63,-0.81,normal
+2016-11,Casablanca (préfectures),105.5,1.21,0.98,0.92,0.28,-0.43,normal
+2016-12,Casablanca (préfectures),56.2,0.49,1.06,1.0,0.67,0.97,humide
+2017-01,Casablanca (préfectures),33.7,-0.71,0.56,0.55,0.63,-0.13,normal
+2017-02,Casablanca (préfectures),73.9,1.14,0.28,0.71,0.8,0.6,normal
+2017-03,Casablanca (préfectures),37.0,-0.29,-0.01,0.64,0.76,0.18,normal
+2017-04,Casablanca (préfectures),10.5,-1.43,0.19,0.49,0.76,-0.38,normal
+2017-05,Casablanca (préfectures),9.5,-0.41,-1.11,-0.13,0.49,-0.49,sécheresse modérée
+2017-06,Casablanca (préfectures),1.9,-0.65,-1.35,-0.39,0.49,0.35,sécheresse modérée
+2017-07,Casablanca (préfectures),1.0,-0.27,-0.45,0.02,0.49,1.82,normal
+2017-08,Casablanca (préfectures),0.7,-0.6,-0.75,-1.13,0.38,2.33,normal
+2017-09,Casablanca (préfectures),7.3,-0.15,-0.12,-1.21,0.4,1.3,normal
+2017-10,Casablanca (préfectures),12.5,-1.05,-0.96,-1.13,0.31,-0.29,normal
+2017-11,Casablanca (préfectures),34.3,-0.25,-0.78,-0.84,-0.47,-0.88,normal
+2017-12,Casablanca (préfectures),50.2,0.32,-0.56,-0.57,-0.64,-0.46,normal
+2018-01,Casablanca (préfectures),91.9,0.94,0.34,0.09,0.04,0.84,normal
+2018-02,Casablanca (préfectures),72.4,1.1,0.86,0.31,0.06,0.79,normal
+2018-03,Casablanca (préfectures),76.0,1.44,1.35,0.63,0.47,1.56,humide
+2018-04,Casablanca (préfectures),53.6,1.8,2.2,1.08,0.93,2.47,humide
+2018-05,Casablanca (préfectures),10.6,-0.25,1.81,1.31,0.93,2.89,humide
+2018-06,Casablanca (préfectures),1.7,-1.21,1.28,1.63,0.93,2.21,humide
+2018-07,Casablanca (préfectures),1.0,-0.27,-0.33,2.04,0.93,2.32,normal
+2018-08,Casablanca (préfectures),0.7,-0.6,-1.21,1.8,0.81,2.48,sécheresse modérée
+2018-09,Casablanca (préfectures),24.2,2.32,2.49,1.74,0.97,1.58,humide
+2018-10,Casablanca (préfectures),92.1,2.07,2.24,2.07,1.74,3.35,humide
+2018-11,Casablanca (préfectures),50.7,0.2,1.31,1.24,1.79,2.48,humide
+2018-12,Casablanca (préfectures),10.9,-1.45,0.47,0.69,1.59,0.95,normal
+2019-01,Casablanca (préfectures),40.4,-0.45,-0.69,0.36,1.09,0.14,normal
+2019-02,Casablanca (préfectures),45.2,0.09,-0.73,0.26,0.83,0.27,normal
+2019-03,Casablanca (préfectures),24.6,-1.1,-0.65,-0.16,0.34,-0.94,normal
+2019-04,Casablanca (préfectures),21.0,-0.26,-0.82,-0.97,-0.02,-0.88,normal
+2019-05,Casablanca (préfectures),9.6,-0.4,-1.2,-1.12,-0.03,-0.09,sécheresse modérée
+2019-06,Casablanca (préfectures),1.8,-0.92,-0.52,-0.85,-0.02,-0.71,normal
+2019-07,Casablanca (préfectures),1.0,-0.27,-0.45,-0.95,-0.02,-0.09,normal
+2019-08,Casablanca (préfectures),0.7,-0.6,-0.98,-1.22,-0.11,0.56,normal
+2019-09,Casablanca (préfectures),4.3,-0.96,-0.9,-0.7,-0.33,1.36,normal
+2019-10,Casablanca (préfectures),25.6,-0.16,-0.38,-0.61,-1.01,0.34,normal
+2019-11,Casablanca (préfectures),46.9,0.1,-0.21,-0.28,-1.04,0.1,normal
+2019-12,Casablanca (préfectures),67.4,0.78,0.25,0.17,-0.43,0.55,normal
+2020-01,Casablanca (préfectures),39.7,-0.48,0.07,-0.07,-0.45,-0.27,normal
+2020-02,Casablanca (préfectures),13.4,-1.91,-0.33,-0.52,-0.78,-0.72,normal
+2020-03,Casablanca (préfectures),26.5,-0.96,-1.35,-0.71,-0.79,-0.82,sécheresse modérée
+2020-04,Casablanca (préfectures),33.0,0.65,-1.51,-0.51,-0.68,-0.21,sécheresse sévère
+2020-05,Casablanca (préfectures),25.3,1.19,0.07,-0.33,-0.47,0.77,normal
+2020-06,Casablanca (préfectures),2.6,1.02,1.06,-0.89,-0.45,-0.18,humide
+2020-07,Casablanca (préfectures),1.0,-0.27,1.19,-1.0,-0.45,-0.79,humide
+2020-08,Casablanca (préfectures),0.7,-0.6,0.75,0.08,-0.52,-0.18,normal
+2020-09,Casablanca (préfectures),4.9,-0.77,-0.73,0.79,-0.51,-0.24,normal
+2020-10,Casablanca (préfectures),23.7,-0.26,-0.45,0.02,-0.39,0.14,normal
+2020-11,Casablanca (préfectures),66.9,0.55,0.18,0.12,-0.17,-0.33,normal
+2020-12,Casablanca (préfectures),44.6,0.16,0.17,0.1,-0.51,-0.11,normal
+2021-01,Casablanca (préfectures),132.0,1.69,1.05,0.96,0.51,1.27,humide
+2021-02,Casablanca (préfectures),51.6,0.36,1.0,0.86,0.88,1.28,humide
+2021-03,Casablanca (préfectures),47.0,0.24,1.23,0.9,1.1,1.34,humide
+2021-04,Casablanca (préfectures),12.2,-1.2,-0.14,0.86,0.94,0.64,normal
+2021-05,Casablanca (préfectures),9.9,-0.35,-0.56,0.74,0.78,-0.13,normal
+2021-06,Casablanca (préfectures),3.1,2.03,-1.06,0.99,0.79,1.41,sécheresse modérée
+2021-07,Casablanca (préfectures),1.0,-0.27,-0.24,-0.25,0.79,0.71,normal
+2021-08,Casablanca (préfectures),0.7,-0.6,1.72,-0.53,0.67,-1.14,humide
+2021-09,Casablanca (préfectures),5.4,-0.63,-0.59,-1.11,0.68,-0.51,normal
+2021-10,Casablanca (préfectures),11.1,-1.18,-1.2,-1.22,0.67,0.1,sécheresse modérée
+2021-11,Casablanca (préfectures),17.8,-0.89,-1.43,-1.44,0.15,-0.65,sécheresse modérée
+2021-12,Casablanca (préfectures),25.2,-0.58,-1.67,-1.67,-0.09,-0.09,sécheresse sévère
+2022-01,Casablanca (préfectures),22.3,-1.26,-1.42,-1.82,-1.54,-0.45,sécheresse modérée
+2022-02,Casablanca (préfectures),19.2,-1.39,-1.34,-2.07,-1.93,-1.11,sécheresse modérée
+2022-03,Casablanca (préfectures),64.5,1.01,-0.74,-1.58,-1.73,0.12,normal
+2022-04,Casablanca (préfectures),29.8,0.43,-0.06,-1.17,-1.54,1.29,normal
+2022-05,Casablanca (préfectures),10.5,-0.27,0.77,-0.81,-1.51,0.32,normal
+2022-06,Casablanca (préfectures),2.2,0.11,0.12,-0.73,-1.52,0.29,normal
+2022-07,Casablanca (préfectures),1.0,-0.27,-0.28,-0.17,-1.51,0.01,normal
+2022-08,Casablanca (préfectures),0.7,-0.6,-0.09,0.76,-1.55,-0.4,normal
+2022-09,Casablanca (préfectures),6.3,-0.39,-0.36,-0.01,-1.53,0.09,normal
+2022-10,Casablanca (préfectures),16.3,-0.74,-0.78,-0.91,-1.28,-0.29,normal
+2022-11,Casablanca (préfectures),10.8,-1.31,-1.47,-1.5,-1.35,-0.8,sécheresse modérée
+2022-12,Casablanca (préfectures),75.2,0.96,-0.45,-0.48,-0.81,0.5,normal
+2023-01,Casablanca (préfectures),26.5,-1.04,-0.52,-0.79,-0.76,0.06,normal
+2023-02,Casablanca (préfectures),55.2,0.5,0.19,-0.61,-0.27,0.32,normal
+2023-03,Casablanca (préfectures),14.8,-1.98,-0.94,-0.99,-0.9,0.16,normal
+2023-04,Casablanca (préfectures),16.2,-0.73,-0.99,-0.88,-1.15,-0.51,normal
+2023-05,Casablanca (préfectures),15.5,0.33,-1.66,-0.36,-1.06,-0.0,sécheresse sévère
+2023-06,Casablanca (préfectures),2.6,1.02,-0.39,-1.09,-1.05,1.22,normal
+2023-07,Casablanca (préfectures),1.0,-0.27,0.33,-0.88,-1.05,0.01,normal
+2023-08,Casablanca (préfectures),0.7,-0.6,0.75,-1.63,-1.1,-0.4,normal
+2023-09,Casablanca (préfectures),5.7,-0.55,-0.51,-0.5,-1.1,-0.24,normal
+2023-10,Casablanca (préfectures),35.2,0.31,0.12,0.12,-0.7,-0.53,normal
+2023-11,Casablanca (préfectures),13.4,-1.14,-0.77,-0.82,-0.66,-0.33,normal
+2023-12,Casablanca (préfectures),30.5,-0.35,-0.97,-1.0,-1.4,-0.51,normal
+2024-01,Casablanca (préfectures),33.8,-0.71,-1.15,-1.07,-1.28,-0.32,sécheresse modérée
+2024-02,Casablanca (préfectures),53.3,0.42,-0.37,-0.86,-1.22,-0.64,normal
+2024-03,Casablanca (préfectures),47.7,0.27,-0.18,-0.78,-0.82,-0.25,normal
+2024-04,Casablanca (préfectures),19.8,-0.37,0.17,-0.89,-0.82,-0.11,normal
+2024-05,Casablanca (préfectures),5.7,-1.07,-0.39,-0.53,-0.94,-0.9,normal
+2024-06,Casablanca (préfectures),2.0,-0.39,-0.88,-0.47,-0.95,-1.04,normal
+2024-07,Casablanca (préfectures),1.0,-0.27,-1.01,-0.11,-0.95,-0.69,sécheresse modérée
+2024-08,Casablanca (préfectures),0.7,-0.6,-0.52,-0.4,-1.0,-0.48,normal
+2024-09,Casablanca (préfectures),6.1,-0.44,-0.41,-0.9,-0.99,-0.35,normal
+2024-10,Casablanca (préfectures),39.9,0.51,0.32,-0.08,-0.77,0.62,normal
+2024-11,Casablanca (préfectures),8.9,-1.46,-0.75,-0.82,-0.82,-0.31,normal
+2024-12,Casablanca (préfectures),13.3,-1.26,-1.43,-1.42,-1.18,-2.09,sécheresse modérée
+2025-01,Casablanca (préfectures),32.9,-0.75,-1.67,-1.4,-1.19,-1.85,sécheresse sévère
+2025-02,Casablanca (préfectures),31.2,-0.6,-1.1,-1.48,-1.41,-1.71,sécheresse modérée
+2025-03,Casablanca (préfectures),64.4,1.0,-0.29,-1.11,-1.22,0.73,normal
+2025-04,Casablanca (préfectures),23.8,-0.03,0.13,-1.23,-1.24,0.56,normal
+2025-05,Casablanca (préfectures),7.4,-0.74,0.46,-0.79,-1.19,-0.33,normal
+2025-06,Casablanca (préfectures),1.8,-0.92,-0.48,-0.49,-1.19,-0.11,normal
+2025-07,Casablanca (préfectures),1.0,-0.27,-0.76,-0.1,-1.19,0.01,normal
+2025-08,Casablanca (préfectures),0.9,2.27,-0.52,0.44,-1.23,-0.18,normal
+2025-09,Casablanca (préfectures),5.3,-0.66,-0.57,-0.59,-1.24,-0.67,normal
+2025-10,Casablanca (préfectures),11.6,-1.13,-1.15,-1.42,-1.47,-1.25,sécheresse modérée
+2025-11,Casablanca (préfectures),53.6,0.27,-0.35,-0.42,-0.84,-0.93,normal
+2025-12,Casablanca (préfectures),132.3,2.01,1.1,1.03,0.45,0.65,humide
+2026-01,Casablanca (préfectures),152.7,2.02,1.86,1.75,1.55,2.08,humide
+2026-02,Casablanca (préfectures),64.1,0.82,2.07,1.68,1.78,1.57,humide
+2026-03,Casablanca (préfectures),55.6,0.64,1.73,1.8,1.77,1.41,humide
+2026-04,Casablanca (préfectures),25.5,0.11,0.85,1.95,1.86,1.15,normal
+2026-05,Casablanca (préfectures),7.3,-0.76,0.2,2.03,1.84,0.97,normal
+2026-06,Casablanca (préfectures),1.8,-0.92,-0.37,1.64,1.84,1.41,normal
+2026-07,Casablanca (préfectures),0.9,-1.19,-0.8,0.62,1.84,1.52,normal
+2026-08,Casablanca (préfectures),0.7,-0.6,-1.21,0.18,1.69,0.78,sécheresse modérée
+2026-09,Casablanca (préfectures),7.0,-0.22,-0.22,-0.41,1.7,-0.07,normal
+2026-10,Casablanca (préfectures),,,,,,-0.77,
+2010-01,El Jadida-Sidi Bennour,76.1,1.26,0.71,,,1.53,normal
+2010-02,El Jadida-Sidi Bennour,96.5,2.24,1.95,1.17,,1.91,humide
+2010-03,El Jadida-Sidi Bennour,44.1,0.06,1.79,1.15,,1.96,humide
+2010-04,El Jadida-Sidi Bennour,20.8,-0.52,1.73,1.25,,0.41,humide
+2010-05,El Jadida-Sidi Bennour,7.9,-0.44,-0.52,1.81,,-0.32,normal
+2010-06,El Jadida-Sidi Bennour,2.4,0.12,-0.68,1.6,,-0.61,normal
+2010-07,El Jadida-Sidi Bennour,0.9,0.84,-0.4,1.5,,-0.4,normal
+2010-08,El Jadida-Sidi Bennour,0.8,-0.35,0.28,-0.52,1.01,-0.23,normal
+2010-09,El Jadida-Sidi Bennour,3.3,-0.88,-0.76,-0.82,0.95,-0.41,normal
+2010-10,El Jadida-Sidi Bennour,39.6,0.8,0.54,0.24,1.35,-0.15,normal
+2010-11,El Jadida-Sidi Bennour,69.3,0.69,0.71,0.65,1.77,-0.53,normal
+2010-12,El Jadida-Sidi Bennour,64.3,0.87,1.07,0.97,1.63,1.31,humide
+2011-01,El Jadida-Sidi Bennour,52.0,0.48,0.81,0.93,1.29,0.59,normal
+2011-02,El Jadida-Sidi Bennour,27.5,-0.46,0.42,0.7,0.52,0.5,normal
+2011-03,El Jadida-Sidi Bennour,51.2,0.42,0.16,0.83,0.62,-0.08,normal
+2011-04,El Jadida-Sidi Bennour,46.5,1.31,0.53,0.89,1.0,-0.56,normal
+2011-05,El Jadida-Sidi Bennour,51.2,2.72,2.12,1.24,1.55,1.68,humide
+2011-06,El Jadida-Sidi Bennour,2.7,0.73,2.46,1.29,1.55,0.11,humide
+2011-07,El Jadida-Sidi Bennour,0.7,-0.27,2.75,1.72,1.55,-0.4,humide
+2011-08,El Jadida-Sidi Bennour,0.8,-0.35,0.46,2.14,1.48,-0.3,normal
+2011-09,El Jadida-Sidi Bennour,3.0,-1.01,-0.95,2.24,1.5,-0.41,normal
+2011-10,El Jadida-Sidi Bennour,15.8,-0.55,-0.75,0.95,1.25,-0.78,normal
+2011-11,El Jadida-Sidi Bennour,92.6,1.11,0.7,0.63,1.32,0.73,normal
+2011-12,El Jadida-Sidi Bennour,13.5,-1.48,0.13,0.04,0.84,-0.15,normal
+2012-01,El Jadida-Sidi Bennour,27.3,-0.64,0.07,-0.19,0.49,-0.67,normal
+2012-02,El Jadida-Sidi Bennour,14.2,-1.49,-1.45,-0.6,0.36,-0.84,sécheresse modérée
+2012-03,El Jadida-Sidi Bennour,19.7,-1.61,-1.83,-1.02,-0.07,-1.39,sécheresse sévère
+2012-04,El Jadida-Sidi Bennour,47.0,1.34,-1.31,-0.49,-0.09,-1.21,sécheresse modérée
+2012-05,El Jadida-Sidi Bennour,7.3,-0.53,-0.46,-1.56,-0.8,-0.51,normal
+2012-06,El Jadida-Sidi Bennour,2.6,0.53,0.78,-1.34,-0.8,-0.97,normal
+2012-07,El Jadida-Sidi Bennour,0.7,-0.27,-0.48,-1.48,-0.8,-0.62,normal
+2012-08,El Jadida-Sidi Bennour,0.8,-0.35,0.28,-0.46,-0.86,-0.37,normal
+2012-09,El Jadida-Sidi Bennour,15.7,1.92,1.95,1.12,-0.65,-0.48,humide
+2012-10,El Jadida-Sidi Bennour,69.1,1.86,1.93,1.62,0.29,0.11,humide
+2012-11,El Jadida-Sidi Bennour,55.1,0.39,1.16,1.11,-0.22,1.67,humide
+2012-12,El Jadida-Sidi Bennour,22.3,-0.84,0.61,0.73,-0.15,0.28,normal
+2013-01,El Jadida-Sidi Bennour,28.1,-0.59,-0.4,0.4,-0.16,-0.42,normal
+2013-02,El Jadida-Sidi Bennour,22.0,-0.83,-0.97,0.11,-0.01,-0.61,normal
+2013-03,El Jadida-Sidi Bennour,75.0,1.43,0.03,0.39,0.69,0.34,normal
+2013-04,El Jadida-Sidi Bennour,34.6,0.58,0.76,-0.13,0.56,1.21,normal
+2013-05,El Jadida-Sidi Bennour,8.7,-0.32,1.2,-0.32,0.59,-0.61,humide
+2013-06,El Jadida-Sidi Bennour,1.8,-1.28,0.18,0.02,0.58,-0.85,normal
+2013-07,El Jadida-Sidi Bennour,0.7,-0.27,-0.4,0.55,0.58,-0.51,normal
+2013-08,El Jadida-Sidi Bennour,0.8,-0.35,-1.2,1.18,0.51,-0.3,sécheresse modérée
+2013-09,El Jadida-Sidi Bennour,15.0,1.82,1.84,0.58,0.51,0.87,humide
+2013-10,El Jadida-Sidi Bennour,22.5,-0.08,0.3,0.01,-0.05,0.06,normal
+2013-11,El Jadida-Sidi Bennour,30.3,-0.3,-0.19,-0.31,-0.37,-0.72,normal
+2013-12,El Jadida-Sidi Bennour,29.5,-0.44,-0.8,-0.56,-0.34,-1.16,normal
+2014-01,El Jadida-Sidi Bennour,61.0,0.79,-0.13,-0.09,0.1,-0.39,normal
+2014-02,El Jadida-Sidi Bennour,32.2,-0.18,0.07,-0.21,0.26,0.37,normal
+2014-03,El Jadida-Sidi Bennour,38.8,-0.23,0.19,-0.48,-0.24,-0.76,normal
+2014-04,El Jadida-Sidi Bennour,46.1,1.29,0.23,-0.12,-0.11,-0.45,normal
+2014-05,El Jadida-Sidi Bennour,7.3,-0.53,0.28,0.09,-0.13,-0.89,normal
+2014-06,El Jadida-Sidi Bennour,2.3,-0.1,0.72,0.41,-0.12,-1.09,normal
+2014-07,El Jadida-Sidi Bennour,0.7,-0.27,-0.53,-0.0,-0.12,-0.62,normal
+2014-08,El Jadida-Sidi Bennour,0.9,0.91,-0.07,0.28,-0.18,-0.37,normal
+2014-09,El Jadida-Sidi Bennour,6.4,0.13,0.14,0.67,-0.31,0.8,normal
+2014-10,El Jadida-Sidi Bennour,14.7,-0.64,-0.59,-0.86,-0.29,0.58,normal
+2014-11,El Jadida-Sidi Bennour,170.1,2.15,1.86,1.84,1.34,0.36,humide
+2014-12,El Jadida-Sidi Bennour,41.6,0.09,1.87,1.8,1.58,1.71,humide
+2015-01,El Jadida-Sidi Bennour,45.8,0.24,1.62,1.54,1.34,0.86,humide
+2015-02,El Jadida-Sidi Bennour,22.5,-0.79,-0.16,1.24,1.24,0.72,normal
+2015-03,El Jadida-Sidi Bennour,57.6,0.72,0.05,1.43,1.52,-0.04,normal
+2015-04,El Jadida-Sidi Bennour,10.2,-1.79,-0.87,1.35,1.19,0.27,normal
+2015-05,El Jadida-Sidi Bennour,9.0,-0.28,-0.34,-0.39,1.21,-0.75,normal
+2015-06,El Jadida-Sidi Bennour,2.4,0.12,-1.43,-0.53,1.21,-0.85,sécheresse modérée
+2015-07,El Jadida-Sidi Bennour,1.6,3.8,-0.17,-0.95,1.22,-0.51,normal
+2015-08,El Jadida-Sidi Bennour,1.1,3.18,1.89,-0.3,1.16,-0.3,humide
+2015-09,El Jadida-Sidi Bennour,5.4,-0.15,0.17,-1.27,1.16,-0.41,normal
+2015-10,El Jadida-Sidi Bennour,42.7,0.93,0.76,0.52,1.54,0.84,normal
+2015-11,El Jadida-Sidi Bennour,13.6,-1.05,-0.34,-0.42,-0.48,1.06,normal
+2015-12,El Jadida-Sidi Bennour,25.8,-0.64,-0.81,-0.78,-0.81,-0.9,normal
+2016-01,El Jadida-Sidi Bennour,26.8,-0.66,-1.25,-0.89,-1.12,-0.89,sécheresse modérée
+2016-02,El Jadida-Sidi Bennour,45.8,0.5,-0.39,-0.71,-0.68,-0.71,normal
+2016-03,El Jadida-Sidi Bennour,39.4,-0.2,-0.29,-0.82,-1.05,-0.27,normal
+2016-04,El Jadida-Sidi Bennour,17.3,-0.87,-0.34,-1.3,-1.04,-0.02,normal
+2016-05,El Jadida-Sidi Bennour,41.7,2.26,0.52,-0.21,-0.48,1.2,normal
+2016-06,El Jadida-Sidi Bennour,2.1,-0.55,0.97,0.09,-0.48,-0.01,normal
+2016-07,El Jadida-Sidi Bennour,0.7,-0.27,2.23,0.69,-0.5,-0.4,humide
+2016-08,El Jadida-Sidi Bennour,0.8,-0.35,-0.62,0.5,-0.57,-0.3,normal
+2016-09,El Jadida-Sidi Bennour,4.9,-0.3,-0.3,0.84,-0.58,-0.48,normal
+2016-10,El Jadida-Sidi Bennour,27.1,0.19,0.04,1.05,-0.67,-0.78,normal
+2016-11,El Jadida-Sidi Bennour,109.7,1.37,1.19,1.13,0.62,-0.07,humide
+2016-12,El Jadida-Sidi Bennour,53.5,0.53,1.34,1.26,0.99,1.26,humide
+2017-01,El Jadida-Sidi Bennour,26.0,-0.71,0.85,0.83,0.92,-0.22,normal
+2017-02,El Jadida-Sidi Bennour,60.4,1.09,0.36,1.02,1.09,-0.06,normal
+2017-03,El Jadida-Sidi Bennour,27.6,-0.96,-0.24,0.83,1.01,-0.62,normal
+2017-04,El Jadida-Sidi Bennour,13.7,-1.29,-0.38,0.63,1.03,-0.53,normal
+2017-05,El Jadida-Sidi Bennour,7.3,-0.53,-1.75,-0.36,0.57,-0.13,sécheresse sévère
+2017-06,El Jadida-Sidi Bennour,2.1,-0.55,-1.3,-0.8,0.57,2.01,sécheresse modérée
+2017-07,El Jadida-Sidi Bennour,0.7,-0.27,-0.55,-0.6,0.57,2.42,normal
+2017-08,El Jadida-Sidi Bennour,0.8,-0.35,-0.62,-1.77,0.51,2.36,normal
+2017-09,El Jadida-Sidi Bennour,7.6,0.43,0.41,-1.08,0.55,1.81,normal
+2017-10,El Jadida-Sidi Bennour,8.9,-1.22,-0.93,-1.16,0.4,0.01,normal
+2017-11,El Jadida-Sidi Bennour,30.9,-0.28,-0.74,-0.87,-0.68,-1.13,normal
+2017-12,El Jadida-Sidi Bennour,47.1,0.3,-0.68,-0.63,-0.89,-1.6,normal
+2018-01,El Jadida-Sidi Bennour,54.0,0.55,0.05,-0.26,-0.47,-0.17,normal
+2018-02,El Jadida-Sidi Bennour,58.7,1.03,0.66,0.04,-0.43,0.27,normal
+2018-03,El Jadida-Sidi Bennour,58.1,0.74,0.98,0.19,-0.04,1.55,normal
+2018-04,El Jadida-Sidi Bennour,50.0,1.5,1.89,0.74,0.47,1.53,humide
+2018-05,El Jadida-Sidi Bennour,8.8,-0.31,1.16,1.02,0.49,1.58,humide
+2018-06,El Jadida-Sidi Bennour,1.9,-1.03,0.96,1.3,0.49,1.89,normal
+2018-07,El Jadida-Sidi Bennour,0.7,-0.27,-0.38,1.67,0.49,2.21,normal
+2018-08,El Jadida-Sidi Bennour,0.9,0.91,-0.81,1.14,0.42,1.92,normal
+2018-09,El Jadida-Sidi Bennour,16.7,2.07,2.12,1.32,0.56,1.61,humide
+2018-10,El Jadida-Sidi Bennour,86.1,2.34,2.39,2.13,1.58,1.42,humide
+2018-11,El Jadida-Sidi Bennour,66.9,0.64,1.58,1.55,1.73,2.56,humide
+2018-12,El Jadida-Sidi Bennour,15.1,-1.34,0.99,1.1,1.54,0.77,normal
+2019-01,El Jadida-Sidi Bennour,22.6,-0.92,-0.42,0.65,1.12,-0.53,normal
+2019-02,El Jadida-Sidi Bennour,34.2,-0.07,-0.98,0.52,0.85,-0.72,normal
+2019-03,El Jadida-Sidi Bennour,30.2,-0.77,-0.97,0.15,0.55,-1.15,normal
+2019-04,El Jadida-Sidi Bennour,31.3,0.35,-0.63,-0.73,0.31,-1.18,normal
+2019-05,El Jadida-Sidi Bennour,7.7,-0.47,-0.68,-1.29,0.3,0.25,normal
+2019-06,El Jadida-Sidi Bennour,1.9,-1.03,-0.05,-1.05,0.3,1.06,normal
+2019-07,El Jadida-Sidi Bennour,0.7,-0.27,-0.53,-0.84,0.3,-0.08,normal
+2019-08,El Jadida-Sidi Bennour,0.8,-0.35,-1.0,-0.71,0.23,0.07,sécheresse modérée
+2019-09,El Jadida-Sidi Bennour,2.6,-1.2,-1.1,-0.27,0.03,0.26,sécheresse modérée
+2019-10,El Jadida-Sidi Bennour,19.0,-0.31,-0.56,-0.83,-0.89,-0.2,normal
+2019-11,El Jadida-Sidi Bennour,33.4,-0.2,-0.52,-0.65,-1.29,-0.46,normal
+2019-12,El Jadida-Sidi Bennour,59.8,0.73,-0.08,-0.17,-0.71,-0.31,normal
+2020-01,El Jadida-Sidi Bennour,37.2,-0.13,0.02,-0.2,-0.5,-0.38,normal
+2020-02,El Jadida-Sidi Bennour,12.0,-1.72,-0.18,-0.64,-0.76,-0.64,normal
+2020-03,El Jadida-Sidi Bennour,23.9,-1.24,-1.41,-0.98,-0.95,-1.13,sécheresse modérée
+2020-04,El Jadida-Sidi Bennour,30.7,0.3,-2.04,-0.78,-1.06,-1.32,sécheresse extrême
+2020-05,El Jadida-Sidi Bennour,20.5,0.91,-0.42,-0.44,-0.83,-0.32,normal
+2020-06,El Jadida-Sidi Bennour,3.4,2.0,0.67,-1.06,-0.81,-0.01,normal
+2020-07,El Jadida-Sidi Bennour,0.7,-0.27,0.94,-1.49,-0.81,-0.08,normal
+2020-08,El Jadida-Sidi Bennour,0.8,-0.35,1.59,-0.38,-0.87,-0.08,humide
+2020-09,El Jadida-Sidi Bennour,3.7,-0.72,-0.69,0.49,-0.85,-0.48,normal
+2020-10,El Jadida-Sidi Bennour,17.3,-0.43,-0.6,-0.13,-0.71,-0.47,normal
+2020-11,El Jadida-Sidi Bennour,73.2,0.76,0.38,0.32,-0.09,-0.22,normal
+2020-12,El Jadida-Sidi Bennour,42.7,0.14,0.36,0.28,-0.38,0.13,normal
+2021-01,El Jadida-Sidi Bennour,89.5,1.63,1.05,0.9,0.31,1.43,humide
+2021-02,El Jadida-Sidi Bennour,44.7,0.45,0.9,0.89,0.73,1.42,normal
+2021-03,El Jadida-Sidi Bennour,45.2,0.12,1.14,0.94,1.02,1.1,humide
+2021-04,El Jadida-Sidi Bennour,12.6,-1.44,-0.34,0.86,0.85,-0.96,normal
+2021-05,El Jadida-Sidi Bennour,9.6,-0.2,-0.77,0.56,0.71,-1.89,normal
+2021-06,El Jadida-Sidi Bennour,3.5,2.16,-1.08,0.78,0.71,-0.01,sécheresse modérée
+2021-07,El Jadida-Sidi Bennour,0.7,-0.27,-0.08,-0.42,0.71,0.14,normal
+2021-08,El Jadida-Sidi Bennour,0.8,-0.35,1.74,-0.72,0.64,-0.6,humide
+2021-09,El Jadida-Sidi Bennour,3.9,-0.65,-0.62,-1.16,0.65,-1.29,normal
+2021-10,El Jadida-Sidi Bennour,10.8,-1.0,-1.07,-1.04,0.65,0.01,sécheresse modérée
+2021-11,El Jadida-Sidi Bennour,23.3,-0.57,-1.06,-1.14,-0.04,-0.46,sécheresse modérée
+2021-12,El Jadida-Sidi Bennour,24.5,-0.71,-1.52,-1.52,-0.33,-0.81,sécheresse sévère
+2022-01,El Jadida-Sidi Bennour,18.4,-1.22,-1.25,-1.67,-1.47,-0.75,sécheresse modérée
+2022-02,El Jadida-Sidi Bennour,17.0,-1.23,-1.3,-1.98,-1.87,-1.29,sécheresse modérée
+2022-03,El Jadida-Sidi Bennour,67.2,1.13,-0.53,-1.44,-1.61,-0.41,normal
+2022-04,El Jadida-Sidi Bennour,32.6,0.44,0.22,-1.03,-1.38,1.46,normal
+2022-05,El Jadida-Sidi Bennour,9.6,-0.2,0.9,-0.71,-1.38,-0.27,normal
+2022-06,El Jadida-Sidi Bennour,2.8,0.92,0.18,-0.53,-1.39,-0.25,normal
+2022-07,El Jadida-Sidi Bennour,0.7,-0.27,-0.16,0.09,-1.39,-0.4,normal
+2022-08,El Jadida-Sidi Bennour,0.8,-0.35,0.62,0.92,-1.45,-0.82,normal
+2022-09,El Jadida-Sidi Bennour,5.5,-0.12,-0.13,0.11,-1.43,-1.08,normal
+2022-10,El Jadida-Sidi Bennour,11.7,-0.91,-0.87,-0.93,-1.21,-0.41,normal
+2022-11,El Jadida-Sidi Bennour,17.4,-0.84,-1.19,-1.29,-1.15,-0.96,sécheresse modérée
+2022-12,El Jadida-Sidi Bennour,67.7,0.97,-0.43,-0.45,-0.6,0.47,normal
+2023-01,El Jadida-Sidi Bennour,22.0,-0.96,-0.38,-0.7,-0.55,-0.25,normal
+2023-02,El Jadida-Sidi Bennour,47.4,0.57,0.31,-0.51,-0.08,-0.4,normal
+2023-03,El Jadida-Sidi Bennour,15.2,-2.07,-1.04,-1.05,-0.9,-0.29,sécheresse modérée
+2023-04,El Jadida-Sidi Bennour,24.9,-0.15,-0.99,-0.82,-1.13,-0.96,normal
+2023-05,El Jadida-Sidi Bennour,9.4,-0.22,-1.7,-0.39,-1.13,-0.56,sécheresse sévère
+2023-06,El Jadida-Sidi Bennour,2.4,0.12,-0.31,-1.24,-1.14,-0.37,normal
+2023-07,El Jadida-Sidi Bennour,0.7,-0.27,-0.23,-1.1,-1.14,-0.95,normal
+2023-08,El Jadida-Sidi Bennour,0.8,-0.35,-0.07,-1.7,-1.2,-1.7,normal
+2023-09,El Jadida-Sidi Bennour,4.0,-0.61,-0.59,-0.43,-1.23,-1.49,normal
+2023-10,El Jadida-Sidi Bennour,28.7,0.28,0.07,-0.15,-0.76,-1.51,normal
+2023-11,El Jadida-Sidi Bennour,11.1,-1.22,-0.86,-0.98,-0.75,-0.72,normal
+2023-12,El Jadida-Sidi Bennour,29.3,-0.45,-1.18,-1.2,-1.52,-1.23,sécheresse modérée
+2024-01,El Jadida-Sidi Bennour,28.4,-0.57,-1.19,-1.17,-1.39,-0.98,sécheresse modérée
+2024-02,El Jadida-Sidi Bennour,44.9,0.46,-0.3,-0.95,-1.35,-0.71,normal
+2024-03,El Jadida-Sidi Bennour,51.9,0.46,0.03,-0.82,-0.84,-0.47,normal
+2024-04,El Jadida-Sidi Bennour,16.8,-0.93,0.1,-1.04,-1.08,0.63,normal
+2024-05,El Jadida-Sidi Bennour,5.1,-0.94,-0.47,-0.58,-1.16,-0.61,normal
+2024-06,El Jadida-Sidi Bennour,2.0,-0.78,-1.23,-0.49,-1.17,-1.32,sécheresse modérée
+2024-07,El Jadida-Sidi Bennour,0.7,-0.27,-0.91,-0.23,-1.16,-1.06,normal
+2024-08,El Jadida-Sidi Bennour,0.8,-0.35,-0.81,-0.5,-1.22,-0.74,normal
+2024-09,El Jadida-Sidi Bennour,4.7,-0.37,-0.36,-1.24,-1.22,-0.88,normal
+2024-10,El Jadida-Sidi Bennour,31.9,0.45,0.26,-0.19,-0.98,-1.1,normal
+2024-11,El Jadida-Sidi Bennour,8.5,-1.42,-0.82,-0.95,-0.89,-0.39,normal
+2024-12,El Jadida-Sidi Bennour,14.9,-1.36,-1.64,-1.6,-1.26,-0.59,sécheresse sévère
+2025-01,El Jadida-Sidi Bennour,22.0,-0.96,-1.86,-1.64,-1.36,-1.12,sécheresse sévère
+2025-02,El Jadida-Sidi Bennour,30.7,-0.26,-1.09,-1.63,-1.51,-1.06,sécheresse modérée
+2025-03,El Jadida-Sidi Bennour,70.6,1.26,-0.01,-1.1,-1.31,0.1,normal
+2025-04,El Jadida-Sidi Bennour,26.3,-0.03,0.62,-1.22,-1.27,0.23,normal
+2025-05,El Jadida-Sidi Bennour,6.7,-0.63,0.7,-0.68,-1.24,0.73,normal
+2025-06,El Jadida-Sidi Bennour,2.3,-0.1,-0.4,-0.25,-1.23,0.11,normal
+2025-07,El Jadida-Sidi Bennour,0.7,-0.27,-0.61,0.36,-1.23,0.14,normal
+2025-08,El Jadida-Sidi Bennour,0.9,0.91,-0.07,0.7,-1.29,1.03,normal
+2025-09,El Jadida-Sidi Bennour,3.2,-0.93,-0.83,-0.56,-1.32,1.0,normal
+2025-10,El Jadida-Sidi Bennour,11.6,-0.92,-1.06,-1.3,-1.5,0.11,sécheresse modérée
+2025-11,El Jadida-Sidi Bennour,38.4,-0.05,-0.57,-0.69,-0.84,0.11,normal
+2025-12,El Jadida-Sidi Bennour,109.3,1.99,0.84,0.74,0.41,1.17,normal
+2026-01,El Jadida-Sidi Bennour,117.4,2.29,1.7,1.55,1.46,2.37,humide
+2026-02,El Jadida-Sidi Bennour,49.5,0.66,2.08,1.56,1.65,1.84,humide
+2026-03,El Jadida-Sidi Bennour,58.5,0.76,1.93,1.8,1.61,1.55,humide
+2026-04,El Jadida-Sidi Bennour,25.8,-0.08,0.83,1.93,1.73,1.46,normal
+2026-05,El Jadida-Sidi Bennour,6.3,-0.7,0.22,2.16,1.73,1.44,normal
+2026-06,El Jadida-Sidi Bennour,1.8,-1.28,-0.49,1.8,1.72,1.18,normal
+2026-07,El Jadida-Sidi Bennour,0.6,-0.91,-0.77,0.54,1.72,1.12,normal
+2026-08,El Jadida-Sidi Bennour,0.7,-1.72,-1.61,0.18,1.65,0.73,sécheresse sévère
+2026-09,El Jadida-Sidi Bennour,4.7,-0.37,-0.43,-0.57,1.69,1.27,normal
+2026-10,El Jadida-Sidi Bennour,,,,,,2.89,
+2010-01,Settat-Berrechid,111.5,1.69,1.15,,,1.52,humide
+2010-02,Settat-Berrechid,113.8,2.37,2.11,1.72,,1.78,humide
+2010-03,Settat-Berrechid,55.6,0.56,2.13,1.71,,1.8,humide
+2010-04,Settat-Berrechid,31.5,-0.09,1.99,1.73,,0.56,humide
+2010-05,Settat-Berrechid,10.5,-0.49,0.05,1.99,,0.11,normal
+2010-06,Settat-Berrechid,3.0,0.05,-0.36,1.95,,0.08,normal
+2010-07,Settat-Berrechid,1.3,0.92,-0.44,1.78,,0.21,normal
+2010-08,Settat-Berrechid,1.3,0.1,0.29,0.05,1.62,-0.0,normal
+2010-09,Settat-Berrechid,5.8,-0.93,-0.75,-0.54,1.46,-0.48,normal
+2010-10,Settat-Berrechid,51.7,1.05,0.71,0.39,1.86,0.58,normal
+2010-11,Settat-Berrechid,64.7,0.83,0.91,0.85,2.12,0.23,normal
+2010-12,Settat-Berrechid,68.7,1.09,1.5,1.37,2.19,1.25,humide
+2011-01,Settat-Berrechid,48.5,-0.01,0.82,1.06,1.61,0.7,normal
+2011-02,Settat-Berrechid,33.9,-0.3,0.36,0.75,0.77,0.89,normal
+2011-03,Settat-Berrechid,48.0,0.17,-0.16,0.81,0.7,0.71,normal
+2011-04,Settat-Berrechid,51.5,1.03,0.29,0.74,0.98,0.68,normal
+2011-05,Settat-Berrechid,58.6,2.88,1.84,0.99,1.55,2.6,humide
+2011-06,Settat-Berrechid,5.0,2.21,2.31,0.84,1.57,2.33,humide
+2011-07,Settat-Berrechid,0.9,-0.46,2.98,1.38,1.56,1.76,humide
+2011-08,Settat-Berrechid,1.2,-0.21,1.64,1.91,1.37,0.94,humide
+2011-09,Settat-Berrechid,4.9,-1.18,-1.1,2.02,1.36,0.01,sécheresse modérée
+2011-10,Settat-Berrechid,26.0,-0.2,-0.51,1.13,1.16,-0.32,normal
+2011-11,Settat-Berrechid,97.9,1.52,1.03,1.01,1.35,1.28,humide
+2011-12,Settat-Berrechid,10.4,-1.37,0.53,0.39,0.85,0.41,normal
+2012-01,Settat-Berrechid,27.5,-0.93,0.13,-0.07,0.61,-0.21,normal
+2012-02,Settat-Berrechid,17.0,-1.41,-1.5,-0.52,0.45,-0.3,sécheresse sévère
+2012-03,Settat-Berrechid,23.7,-1.47,-1.69,-0.8,0.13,-1.5,sécheresse sévère
+2012-04,Settat-Berrechid,57.7,1.31,-0.82,-0.3,0.21,-0.48,normal
+2012-05,Settat-Berrechid,9.4,-0.65,-0.2,-1.31,-0.5,-0.02,normal
+2012-06,Settat-Berrechid,3.7,0.89,0.82,-1.1,-0.52,-0.66,normal
+2012-07,Settat-Berrechid,0.9,-0.46,-0.54,-0.98,-0.52,-0.87,normal
+2012-08,Settat-Berrechid,1.3,0.1,0.58,-0.18,-0.59,-1.02,normal
+2012-09,Settat-Berrechid,14.2,0.69,0.74,0.89,-0.44,-1.09,normal
+2012-10,Settat-Berrechid,81.1,2.04,1.91,1.53,0.4,0.51,humide
+2012-11,Settat-Berrechid,62.5,0.78,1.54,1.49,-0.03,1.87,humide
+2012-12,Settat-Berrechid,14.6,-1.03,1.01,1.04,-0.02,0.94,humide
+2013-01,Settat-Berrechid,40.8,-0.31,-0.18,0.69,0.12,0.32,normal
+2013-02,Settat-Berrechid,25.9,-0.76,-0.85,0.31,0.28,0.22,normal
+2013-03,Settat-Berrechid,77.7,1.53,0.11,0.65,0.95,1.21,normal
+2013-04,Settat-Berrechid,34.1,0.08,0.42,-0.01,0.69,1.48,normal
+2013-05,Settat-Berrechid,12.8,-0.2,0.92,-0.32,0.73,-0.15,normal
+2013-06,Settat-Berrechid,2.1,-1.25,-0.15,-0.02,0.71,-0.29,normal
+2013-07,Settat-Berrechid,1.2,0.61,-0.29,0.27,0.71,-0.39,normal
+2013-08,Settat-Berrechid,1.3,0.1,-0.75,0.9,0.57,-0.48,normal
+2013-09,Settat-Berrechid,25.7,2.06,2.23,0.51,0.71,0.78,humide
+2013-10,Settat-Berrechid,22.3,-0.44,0.33,0.09,0.11,0.51,normal
+2013-11,Settat-Berrechid,30.0,-0.21,-0.06,-0.15,-0.28,-0.35,normal
+2013-12,Settat-Berrechid,23.8,-0.46,-0.94,-0.47,-0.23,-0.6,normal
+2014-01,Settat-Berrechid,73.0,0.76,-0.02,0.08,0.16,0.26,normal
+2014-02,Settat-Berrechid,33.9,-0.3,0.05,-0.13,0.31,0.91,normal
+2014-03,Settat-Berrechid,33.8,-0.69,0.04,-0.57,-0.29,-0.33,normal
+2014-04,Settat-Berrechid,42.2,0.55,-0.43,-0.27,-0.2,0.29,normal
+2014-05,Settat-Berrechid,9.6,-0.62,-0.39,-0.17,-0.24,-0.56,normal
+2014-06,Settat-Berrechid,2.5,-0.64,0.11,0.01,-0.23,-0.84,normal
+2014-07,Settat-Berrechid,1.0,-0.08,-0.66,-0.63,-0.24,-0.98,normal
+2014-08,Settat-Berrechid,1.1,-0.54,-0.75,-0.43,-0.33,-1.09,normal
+2014-09,Settat-Berrechid,12.3,0.39,0.42,0.17,-0.5,-0.7,normal
+2014-10,Settat-Berrechid,15.3,-0.99,-0.71,-0.96,-0.44,-0.28,normal
+2014-11,Settat-Berrechid,136.6,2.16,1.64,1.58,0.78,0.65,humide
+2014-12,Settat-Berrechid,27.9,-0.26,1.41,1.38,0.88,1.53,humide
+2015-01,Settat-Berrechid,50.3,0.06,1.24,1.1,0.61,0.97,humide
+2015-02,Settat-Berrechid,29.8,-0.53,-0.32,0.74,0.61,0.89,normal
+2015-03,Settat-Berrechid,46.0,0.06,-0.25,0.69,0.77,0.31,normal
+2015-04,Settat-Berrechid,10.6,-2.03,-1.27,0.57,0.38,0.91,sécheresse modérée
+2015-05,Settat-Berrechid,11.4,-0.37,-1.12,-0.78,0.4,-0.13,sécheresse modérée
+2015-06,Settat-Berrechid,2.9,-0.08,-1.66,-0.84,0.41,0.82,sécheresse sévère
+2015-07,Settat-Berrechid,2.4,3.66,-0.22,-1.3,0.43,0.37,normal
+2015-08,Settat-Berrechid,2.7,3.4,2.36,-1.01,0.32,-0.0,humide
+2015-09,Settat-Berrechid,12.6,0.44,0.93,-1.13,0.33,-0.59,normal
+2015-10,Settat-Berrechid,35.4,0.32,0.39,0.16,0.68,-0.17,normal
+2015-11,Settat-Berrechid,18.7,-0.73,-0.37,-0.36,-0.76,0.75,normal
+2015-12,Settat-Berrechid,19.0,-0.73,-1.04,-0.84,-1.02,-0.75,sécheresse modérée
+2016-01,Settat-Berrechid,29.7,-0.81,-1.28,-1.05,-1.42,-0.87,sécheresse modérée
+2016-02,Settat-Berrechid,49.6,0.42,-0.5,-0.83,-1.03,-0.79,normal
+2016-03,Settat-Berrechid,41.9,-0.18,-0.35,-0.94,-1.16,-0.31,normal
+2016-04,Settat-Berrechid,20.2,-0.96,-0.37,-1.16,-1.09,-0.54,normal
+2016-05,Settat-Berrechid,38.8,1.87,0.16,-0.42,-0.62,0.95,normal
+2016-06,Settat-Berrechid,2.6,-0.49,0.44,-0.21,-0.62,0.3,normal
+2016-07,Settat-Berrechid,1.0,-0.08,1.81,0.28,-0.64,-0.33,humide
+2016-08,Settat-Berrechid,1.2,-0.21,-0.53,0.14,-0.73,-0.68,normal
+2016-09,Settat-Berrechid,7.8,-0.44,-0.39,0.29,-0.78,-1.03,normal
+2016-10,Settat-Berrechid,33.8,0.24,0.04,0.78,-0.64,-0.84,normal
+2016-11,Settat-Berrechid,72.5,1.01,0.75,0.68,0.07,-0.42,normal
+2016-12,Settat-Berrechid,48.8,0.53,0.95,0.86,0.4,0.95,normal
+2017-01,Settat-Berrechid,31.9,-0.7,0.4,0.4,0.41,-0.6,normal
+2017-02,Settat-Berrechid,58.5,0.76,0.18,0.5,0.57,0.07,normal
+2017-03,Settat-Berrechid,36.5,-0.51,-0.23,0.38,0.51,-0.35,normal
+2017-04,Settat-Berrechid,21.1,-0.88,-0.23,0.17,0.54,-1.46,normal
+2017-05,Settat-Berrechid,10.0,-0.56,-1.14,-0.31,0.14,-1.07,sécheresse modérée
+2017-06,Settat-Berrechid,3.0,0.05,-1.0,-0.63,0.15,-0.5,sécheresse modérée
+2017-07,Settat-Berrechid,0.9,-0.46,-0.56,-0.42,0.15,-0.39,normal
+2017-08,Settat-Berrechid,1.7,1.22,0.29,-1.13,0.05,-0.0,normal
+2017-09,Settat-Berrechid,6.7,-0.7,-0.54,-1.08,0.04,-0.26,normal
+2017-10,Settat-Berrechid,16.4,-0.89,-0.96,-1.12,-0.05,-1.44,normal
+2017-11,Settat-Berrechid,25.4,-0.4,-0.95,-1.0,-0.62,-1.39,normal
+2017-12,Settat-Berrechid,45.2,0.41,-0.62,-0.68,-0.79,-1.28,normal
+2018-01,Settat-Berrechid,71.0,0.71,0.22,-0.09,-0.28,0.12,normal
+2018-02,Settat-Berrechid,71.0,1.19,0.83,0.26,-0.06,0.28,normal
+2018-03,Settat-Berrechid,68.3,1.14,1.19,0.58,0.34,1.19,humide
+2018-04,Settat-Berrechid,81.9,2.27,2.43,1.27,1.14,1.65,humide
+2018-05,Settat-Berrechid,18.0,0.36,2.1,1.48,1.22,1.55,humide
+2018-06,Settat-Berrechid,2.2,-1.09,1.92,1.78,1.21,1.13,humide
+2018-07,Settat-Berrechid,0.9,-0.46,0.23,2.34,1.21,1.76,normal
+2018-08,Settat-Berrechid,1.2,-0.21,-1.09,2.09,1.04,2.03,sécheresse modérée
+2018-09,Settat-Berrechid,27.6,2.25,2.39,2.3,1.26,3.02,humide
+2018-10,Settat-Berrechid,89.6,2.29,2.48,2.26,2.05,2.39,humide
+2018-11,Settat-Berrechid,44.6,0.29,1.6,1.53,2.01,1.91,humide
+2018-12,Settat-Berrechid,10.4,-1.37,0.75,1.03,1.88,0.81,normal
+2019-01,Settat-Berrechid,35.0,-0.56,-0.73,0.6,1.55,-0.21,normal
+2019-02,Settat-Berrechid,38.7,-0.06,-0.79,0.4,1.24,-0.34,normal
+2019-03,Settat-Berrechid,34.7,-0.63,-0.63,-0.02,0.89,-1.63,normal
+2019-04,Settat-Berrechid,37.0,0.26,-0.41,-0.81,0.34,-0.9,normal
+2019-05,Settat-Berrechid,13.8,-0.08,-0.39,-0.89,0.28,-0.54,normal
+2019-06,Settat-Berrechid,2.3,-0.94,0.05,-0.62,0.28,-0.97,normal
+2019-07,Settat-Berrechid,0.9,-0.46,-0.19,-0.5,0.28,-1.35,normal
+2019-08,Settat-Berrechid,1.1,-0.54,-1.09,-0.44,0.16,-1.36,sécheresse modérée
+2019-09,Settat-Berrechid,6.3,-0.8,-0.77,-0.16,-0.1,-0.48,normal
+2019-10,Settat-Berrechid,23.6,-0.35,-0.57,-0.65,-0.87,-0.47,normal
+2019-11,Settat-Berrechid,33.8,-0.06,-0.46,-0.56,-0.93,-0.76,normal
+2019-12,Settat-Berrechid,56.5,0.76,0.08,-0.04,-0.42,0.06,normal
+2020-01,Settat-Berrechid,38.9,-0.39,0.02,-0.2,-0.4,-0.0,normal
+2020-02,Settat-Berrechid,13.3,-1.76,-0.31,-0.71,-0.71,-0.49,normal
+2020-03,Settat-Berrechid,29.3,-1.02,-1.3,-0.92,-0.84,-1.06,sécheresse modérée
+2020-04,Settat-Berrechid,37.9,0.31,-1.5,-0.67,-0.9,-0.39,sécheresse sévère
+2020-05,Settat-Berrechid,24.6,0.92,-0.16,-0.4,-0.71,0.63,normal
+2020-06,Settat-Berrechid,3.6,0.78,0.63,-0.91,-0.68,1.04,normal
+2020-07,Settat-Berrechid,0.9,-0.46,0.91,-1.08,-0.68,1.5,normal
+2020-08,Settat-Berrechid,1.1,-0.54,0.29,-0.16,-0.74,0.61,normal
+2020-09,Settat-Berrechid,7.3,-0.55,-0.54,0.44,-0.71,-0.16,normal
+2020-10,Settat-Berrechid,24.6,-0.29,-0.46,-0.04,-0.54,-0.5,normal
+2020-11,Settat-Berrechid,44.8,0.3,-0.1,-0.16,-0.35,-0.55,normal
+2020-12,Settat-Berrechid,35.9,0.08,-0.13,-0.22,-0.72,0.03,normal
+2021-01,Settat-Berrechid,104.8,1.55,0.87,0.75,0.14,0.96,normal
+2021-02,Settat-Berrechid,48.7,0.38,0.86,0.66,0.62,0.67,normal
+2021-03,Settat-Berrechid,53.2,0.44,1.14,0.77,0.92,1.13,humide
+2021-04,Settat-Berrechid,18.7,-1.09,-0.09,0.63,0.72,0.14,normal
+2021-05,Settat-Berrechid,10.3,-0.52,-0.52,0.55,0.52,0.19,normal
+2021-06,Settat-Berrechid,4.8,2.02,-1.02,0.76,0.54,1.01,sécheresse modérée
+2021-07,Settat-Berrechid,0.9,-0.46,-0.3,-0.22,0.54,1.17,normal
+2021-08,Settat-Berrechid,1.0,-0.9,1.3,-0.48,0.41,1.22,humide
+2021-09,Settat-Berrechid,7.1,-0.6,-0.61,-1.11,0.41,0.94,normal
+2021-10,Settat-Berrechid,13.8,-1.13,-1.17,-1.17,0.39,1.15,sécheresse modérée
+2021-11,Settat-Berrechid,17.8,-0.79,-1.32,-1.32,0.05,-0.17,sécheresse modérée
+2021-12,Settat-Berrechid,19.0,-0.73,-1.85,-1.85,-0.2,-0.39,sécheresse sévère
+2022-01,Settat-Berrechid,29.1,-0.84,-1.32,-1.8,-1.37,-0.61,sécheresse modérée
+2022-02,Settat-Berrechid,19.6,-1.2,-1.16,-2.02,-1.8,-1.41,sécheresse modérée
+2022-03,Settat-Berrechid,69.5,1.19,-0.41,-1.4,-1.59,-0.48,normal
+2022-04,Settat-Berrechid,36.1,0.2,0.05,-0.96,-1.39,0.5,normal
+2022-05,Settat-Berrechid,11.1,-0.41,0.68,-0.65,-1.36,-0.43,normal
+2022-06,Settat-Berrechid,3.6,0.78,-0.06,-0.47,-1.37,-0.2,normal
+2022-07,Settat-Berrechid,0.9,-0.46,-0.35,-0.09,-1.37,-0.28,normal
+2022-08,Settat-Berrechid,1.1,-0.54,0.29,0.69,-1.39,-0.68,normal
+2022-09,Settat-Berrechid,8.2,-0.36,-0.35,-0.17,-1.35,-0.05,normal
+2022-10,Settat-Berrechid,21.8,-0.47,-0.57,-0.71,-1.03,-1.56,normal
+2022-11,Settat-Berrechid,12.9,-1.1,-1.16,-1.2,-1.0,-1.57,sécheresse modérée
+2022-12,Settat-Berrechid,64.6,0.99,-0.28,-0.34,-0.49,-0.63,normal
+2023-01,Settat-Berrechid,23.9,-1.13,-0.5,-0.74,-0.61,-1.02,normal
+2023-02,Settat-Berrechid,60.9,0.85,0.33,-0.38,0.01,-0.76,normal
+2023-03,Settat-Berrechid,15.2,-2.34,-0.82,-0.85,-0.79,-0.42,normal
+2023-04,Settat-Berrechid,21.1,-0.88,-0.87,-0.84,-1.11,-1.85,normal
+2023-05,Settat-Berrechid,15.2,0.07,-1.93,-0.4,-1.02,-0.73,sécheresse sévère
+2023-06,Settat-Berrechid,2.9,-0.08,-0.68,-1.09,-1.03,-0.41,normal
+2023-07,Settat-Berrechid,0.9,-0.46,0.02,-0.85,-1.02,0.04,normal
+2023-08,Settat-Berrechid,1.3,0.1,-0.21,-1.93,-1.06,-0.48,normal
+2023-09,Settat-Berrechid,6.6,-0.72,-0.66,-0.82,-1.07,-0.54,normal
+2023-10,Settat-Berrechid,32.8,0.19,-0.06,-0.14,-0.73,-0.32,normal
+2023-11,Settat-Berrechid,9.1,-1.41,-0.95,-1.02,-0.71,-0.16,normal
+2023-12,Settat-Berrechid,27.2,-0.3,-1.17,-1.22,-1.42,-0.8,sécheresse modérée
+2024-01,Settat-Berrechid,35.2,-0.55,-1.17,-1.18,-1.3,-1.01,sécheresse modérée
+2024-02,Settat-Berrechid,47.5,0.33,-0.29,-0.95,-1.46,-1.12,normal
+2024-03,Settat-Berrechid,46.6,0.09,-0.18,-0.87,-1.01,-0.98,normal
+2024-04,Settat-Berrechid,22.6,-0.75,-0.21,-1.01,-1.06,-0.3,normal
+2024-05,Settat-Berrechid,7.5,-0.95,-0.74,-0.61,-1.17,-1.01,normal
+2024-06,Settat-Berrechid,2.4,-0.78,-1.11,-0.62,-1.18,-0.57,sécheresse modérée
+2024-07,Settat-Berrechid,1.0,-0.08,-0.97,-0.49,-1.17,-0.71,normal
+2024-08,Settat-Berrechid,1.0,-0.9,-0.98,-0.79,-1.21,-0.34,normal
+2024-09,Settat-Berrechid,6.5,-0.75,-0.73,-1.22,-1.19,-0.32,normal
+2024-10,Settat-Berrechid,39.9,0.54,0.24,-0.2,-0.9,1.11,normal
+2024-11,Settat-Berrechid,12.7,-1.12,-0.59,-0.69,-0.76,-0.47,normal
+2024-12,Settat-Berrechid,13.0,-1.15,-1.29,-1.34,-1.12,-2.22,sécheresse modérée
+2025-01,Settat-Berrechid,27.8,-0.91,-1.68,-1.45,-1.3,-2.09,sécheresse sévère
+2025-02,Settat-Berrechid,28.8,-0.59,-1.11,-1.52,-1.55,-1.8,sécheresse modérée
+2025-03,Settat-Berrechid,57.2,0.64,-0.51,-1.2,-1.44,0.33,normal
+2025-04,Settat-Berrechid,37.1,0.26,-0.01,-1.2,-1.29,-1.13,normal
+2025-05,Settat-Berrechid,8.7,-0.75,0.23,-0.84,-1.25,-1.4,normal
+2025-06,Settat-Berrechid,2.6,-0.49,-0.18,-0.61,-1.24,-1.8,normal
+2025-07,Settat-Berrechid,0.9,-0.46,-0.78,-0.26,-1.24,-1.14,normal
+2025-08,Settat-Berrechid,1.4,0.4,-0.42,0.21,-1.26,1.83,normal
+2025-09,Settat-Berrechid,7.8,-0.44,-0.37,-0.29,-1.22,1.32,normal
+2025-10,Settat-Berrechid,12.4,-1.27,-1.19,-1.4,-1.47,-0.28,sécheresse modérée
+2025-11,Settat-Berrechid,37.7,0.07,-0.63,-0.71,-0.96,-0.36,normal
+2025-12,Settat-Berrechid,109.2,1.98,1.04,0.94,0.2,0.87,humide
+2026-01,Settat-Berrechid,138.5,2.22,2.03,1.91,1.46,1.78,humide
+2026-02,Settat-Berrechid,53.8,0.58,2.03,1.73,1.75,1.31,humide
+2026-03,Settat-Berrechid,66.4,1.06,1.85,1.97,1.9,0.38,humide
+2026-04,Settat-Berrechid,39.1,0.38,1.0,2.09,2.04,0.85,humide
+2026-05,Settat-Berrechid,8.5,-0.79,0.59,2.06,2.01,0.0,normal
+2026-06,Settat-Berrechid,2.3,-0.94,-0.11,1.73,2.0,-0.47,normal
+2026-07,Settat-Berrechid,0.9,-0.46,-0.85,0.73,2.0,-0.39,normal
+2026-08,Settat-Berrechid,1.0,-0.9,-1.21,0.56,1.78,-0.48,sécheresse modérée
+2026-09,Settat-Berrechid,10.0,-0.0,-0.01,-0.14,1.79,-0.7,normal
+2026-10,Settat-Berrechid,,,,,,-0.99,

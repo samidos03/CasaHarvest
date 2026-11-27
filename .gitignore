@@ -1,0 +1,28 @@
+# dépendances et fichiers compilés (recréés par npm install / npm run build)
+node_modules/
+app/frontend/dist/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# fichiers locaux de Claude Code et du système
+.claude/scheduled_tasks.lock
+.claude/settings.local.json
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*
+*.crdownload
+*.tif
+*.pdf
+.claude/
+__pycache__/
+data/raw/
+node_modules/
+dist/
+*.nc
+.env

@@ -1,0 +1,19 @@
+﻿moment,modele,culture,MAE_qx_ha,RMSE_qx_ha,R2,n
+mai,Hybride (XGBoost + garde-fou Ridge),Blé dur,6.668,8.811,0.347,55.0
+mai,Hybride (XGBoost + garde-fou Ridge),Blé tendre,6.538,8.239,0.486,56.0
+mai,Hybride (XGBoost + garde-fou Ridge),Orge,6.313,7.889,0.35,56.0
+mai,Ridge,Blé dur,6.946,9.124,0.3,55.0
+mai,Ridge,Blé tendre,7.333,9.017,0.385,56.0
+mai,Ridge,Orge,6.516,7.988,0.334,56.0
+mai,XGBoost,Blé dur,6.439,8.507,0.391,55.0
+mai,XGBoost,Blé tendre,6.226,7.777,0.542,56.0
+mai,XGBoost,Orge,6.253,7.611,0.395,56.0
+mars,Hybride (XGBoost + garde-fou Ridge),Blé dur,6.556,9.237,0.283,55.0
+mars,Hybride (XGBoost + garde-fou Ridge),Blé tendre,6.573,8.591,0.441,56.0
+mars,Hybride (XGBoost + garde-fou Ridge),Orge,5.993,7.732,0.376,56.0
+mars,Ridge,Blé dur,7.005,9.547,0.234,55.0
+mars,Ridge,Blé tendre,7.38,9.169,0.364,56.0
+mars,Ridge,Orge,6.306,8.035,0.326,56.0
+mars,XGBoost,Blé dur,6.432,8.912,0.332,55.0
+mars,XGBoost,Blé tendre,6.43,8.156,0.496,56.0
+mars,XGBoost,Orge,5.876,7.191,0.46,56.0

@@ -1,0 +1,7 @@
+﻿moment,modele,MAE_qx_ha,RMSE_qx_ha,R2,n
+mai,Hybride (XGBoost + garde-fou Ridge),6.113,7.798,0.446,42.0
+mai,Ridge,6.411,8.447,0.35,42.0
+mai,XGBoost,5.781,7.253,0.521,42.0
+mars,Hybride (XGBoost + garde-fou Ridge),5.787,7.997,0.417,42.0
+mars,Ridge,6.115,8.89,0.28,42.0
+mars,XGBoost,5.648,7.45,0.494,42.0
